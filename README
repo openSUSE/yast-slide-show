@@ -1,0 +1,51 @@
+			    YaST2 slide show texts
+                           ========================
+
+All texts must be encoded in UTF-8. You can either use an editor that can
+handle that (e.g. "Yudit") or convert the texts to your favourite encoding
+(e.g. Latin1 for western languages, Latin2 for most eastern European
+languages), use your favourite editor and then convert them back to UTF-8:
+
+	recode utf8..latin1 *.rtf
+	emacs *.rtf
+	recode latin1..utf8 *.rtf
+
+This "recode" call changes the original files, so be careful!
+
+
+The internal text format is what we call "rich text"; it is very much like
+HTML, but doesn't quite support all features HTML does - and it doesn't use the
+HTML standard headers. Stick to some examples if in doubt.
+
+Don't use HTML character substitutes for national special characters - use a
+literal "ä" rather than something like "&auml;".
+
+
+The filenames dictate the order in which slides will be displayed, so it is
+highly recommended to prefix those filenames with numbers (including leading
+zeroes):
+
+	01_welcome.rtf
+	02_whatever.rtf
+	03_somethingelse.rtf
+
+Only the following filename extensions will be accepted:
+
+	*.rtf
+	*.html
+	*.htm
+
+	*.RTF
+	*.HTML
+	*.HTM
+
+All other files in those directories are silently ignored.
+
+Any images to be used are included in the text with HTML-like "img src"
+tags, so the filename used there is important.
+
+While it is no longer mandatory, it still makes sense to name the images
+according to the respective text file, thus using something like
+"01_welcome.png" for a text file "01_welcome.rtf".
+
+

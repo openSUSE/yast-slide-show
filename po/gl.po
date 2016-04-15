@@ -1,0 +1,218 @@
+# Galician translation of slideshow
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+#
+# Proxecto Trasno - Adaptación do software libre á lingua galega:  Se desexas
+# colaborar connosco, podes atopar máis información en <http://trasno.net>
+#
+# Leandro Regueiro <leandro.regueiro@gmail.com>, 2008.
+# Manuel A. Vázquez <xixirei@yahoo.es>, 2009.
+# Manuel A. Vazquez <xixirei@yahoo.es>, 2010, 2011, 2012, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: translation@suse.de\n"
+"POT-Creation-Date: 2015-10-19 10:05+0200\n"
+"PO-Revision-Date: 2014-11-08 12:03+0100\n"
+"Last-Translator: Manuel A. Vazquez <xixirei@yahoo.es>\n"
+"Language-Team: Galician <proxecto@trasno.net>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: slideshow.xml:14(title)
+msgid "Slide Show"
+msgstr "Presentación"
+
+#: slideshow.xml:17(title)
+msgid "Welcome to openSUSE™!"
+msgstr "Benvid@ a openSUSE™!"
+
+#: slideshow.xml:19(para)
+msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+msgstr ""
+
+#: slideshow.xml:25(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:27(para)
+msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
+msgstr "openSUSE é un proxecto comunitario creado e apoiado por SUSE para darlle ó mundo a plataforma para ordenador máis amigable. Moita xente de todo o mundo contribúe ao Proxecto openSUSE empaquetando software, probando os programas, escribindo documentación e traducindo os compoñentes a moitas linguas. Todo este traballo está dispoñíbel de balde na distribución de Linux openSUSE en www.opensuse.org"
+
+#: slideshow.xml:35(para)
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+msgstr "Visite www.opensuse.org/How_to_Participate para enterarse de como pode unirse á comunidade de openSUSE."
+
+#: slideshow.xml:40(title)
+msgid "openSUSE in Many Languages"
+msgstr "openSUSE en moitos idiomas"
+
+#: slideshow.xml:42(para)
+msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
+msgstr "A distribución openSUSE está dispoñíbel en moitas linguas. A localización do software de openSUSE faise a través dos esforzos dos equipos comunitarios de traballadores inesgotabeis. Grazas a todos os nosos contribuíntes. Consulte o portal de localización en: http://i18n.opensuse.org/. O Proxecto Trasno http://trasno.net traduciu isto ao galego."
+
+#: slideshow.xml:51(title)
+msgid "Connect and Communicate"
+msgstr "Conéctese e comuníquese"
+
+#: slideshow.xml:53(para)
+#, fuzzy
+#| msgid "You can communicate more effectively with openSUSE 13.2 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
+msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
+msgstr "Pode comunicarse de xeito máis efectivo con openSUSE 13.2 porque fornece un completo conxunto de ferramentas para navegar pola Web e xestionar o correo electrónico — tamén inclúe a nova tecnoloxía de Voz sobre IP."
+
+#: slideshow.xml:59(para)
+#, fuzzy
+#| msgid "openSUSE 13.2 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE 13.2 inclúe Mozilla Firefox, un dos mellores navegadores Web do mundo. Firefox inclúe todas as funcionalidades que precisa para gozar da Web, incluíndo a novedosa tecnoloxía HTML5. Firefox tamén goza dun moi bo rendemento e un grande número de melloras deseñadas para protexer a súa privacidade e prever os ataques de phishing."
+
+#: slideshow.xml:65(para)
+#, fuzzy
+#| msgid "Also included with openSUSE 13.2 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgstr "Tamén se inclúen en openSUSE 13.2 Evolution e Kontact, aplicativos de xestión de contactos e de correo-e completos. Para a mensaxería instantánea, openSUSE proporciona clientes doados de usar que soportan todos os protocolos populares: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, e moitos outros."
+
+#: slideshow.xml:74(title)
+msgid "Create, View and Listen"
+msgstr "Cree, vexa e escoite"
+
+#: slideshow.xml:75(para)
+#, fuzzy
+#| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
+msgstr "Descargue música da Internet. Extraia CDs para crear a súa biblioteca de música persoal. Escoite a súa lista de reprodución en liña. Grave CDs ou DVDs. Copie os seus ficheiros a un iPod ou un reprodutor multimedia e leve a súa música a todas partes. Xestione e edite imaxes dixitais con editores de gráficos potentes. Todo é sinxelo con openSUSE."
+
+#: slideshow.xml:85(title)
+msgid "Documents, Spreadsheets and More"
+msgstr "Documentos, follas de cálculo e máis"
+
+#: slideshow.xml:87(para)
+#, fuzzy
+#| msgid "The openSUSE 13.2 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr "A distribución openSUSE 13.2 vén completa coas últimas versións da suite de produtividade líder para Linux, LibreOffice. Fornece un procesador de textos, un aplicativo para follas de cálculo, un editor de HTML, un deseñador de presentacións e un xestor de bases de datos. Le e escribe en múltiples formatos—incluíndo os formatos de Microsoft Office—así que poderá cambiar facilmente entre openSUSE e o software de produtividade popular que non é para Linux. LibreOffice é a escolla perfecta para informes, documentos, contas domésticas, gráficos sinxelos e máis."
+
+#: slideshow.xml:98(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "Gráficos, gráficos, gráficos"
+
+#: slideshow.xml:100(para)
+#, fuzzy
+#| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgstr "Usando as ferramentas de openSUSE, poderá crear ou editar case calquera tipo de gráfico. Para a manipulación avanzada de imaxes e a creación de gráficos, use o GIMP, unha potente ferramenta para o retoque, composición e creación de imaxes."
+
+#: slideshow.xml:105(para)
+#, fuzzy
+#| msgid "For vector graphics, openSUSE 13.2 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgstr "Para os gráficos vectoriais, openSUSE 13.2 inclúe Inkscape — unha solución para gráficos versátil que da soporte para capas transparentes, vectorización de mapas de bits, camiños de texto e moito máis."
+
+#: slideshow.xml:113(title)
+msgid "Computing On-the-Go"
+msgstr "Mobilidade co computador"
+
+#: slideshow.xml:115(para)
+#, fuzzy
+#| msgid "openSUSE 13.2 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
+msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
+msgstr "openSUSE 13.2 inclúe as funcionalidades de mobilidade máis avanzadas. Poderá cambiar sen esforzo entre redes con cable e sen fíos usando o NetworkManager. Conéctese a dispositivos móbiles coma teléfonos móbiles, tabletas e PDAs a través de Bluetooth."
+
+#: slideshow.xml:119(para)
+msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
+msgstr "A últimas innovacións en xestión de enerxía de openSUSE aumentan a súa mobilidade e danlle a liberdade de realizar o seu traballo vaia onde vaia."
+
+#: slideshow.xml:127(title)
+msgid "Your operating system - respecting privacy - providing security"
+msgstr ""
+
+#: slideshow.xml:129(para)
+#, fuzzy
+#| msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE 13.2 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgstr "Axude a asegurar o seu sistema e os seus datos contra intrusos da Internet con SUSE Firewall. Este dispositivo de seguridade actívase por defecto e é fácil de configurar. Pero pode facer máis para protexer o sistema con openSUSE 13.2 porque inclúe AppArmor, o sistema de seguridade de aplicativos para Linux máis efectivo e fácil de usar actualmente. AppArmor protexe proactivamente ao sistema operativo e ás aplicacións de ameazas internas e externas."
+
+#. for the online update feature, see bnc#793710
+#: slideshow.xml:133(para)
+#, fuzzy
+#| msgid "In addition to SUSE Firewall and AppArmor, openSUSE 13.2 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgstr "Ademais de SUSE Firewall e AppArmor, openSUSE 13.2 tamén inclúe un sistema de actualización de parches de seguridade especial. Para asegurarse de que os últimos parches de seguridade están instalados no seu sistema, pode seleccionar realizar unha actualización con conexión ao rematar este proceso de instalación (se non escolleu o modo de instalación automática ao principio). En adiante, informaráselle automaticamente da dispoñibilidade de actualizacións de seguridade importantes, para que poida instalalas cando queira."
+
+#: slideshow.xml:145(title)
+msgid "Virtualization Technology and Application Development Tools"
+msgstr "Tecnoloxía de virtualización e ferramentas de desenvolvemento de aplicativos"
+
+#: slideshow.xml:147(para)
+#, fuzzy
+#| msgid "Both Xen and KVM hypervisors are included with openSUSE 13.2. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgstr "Incluído en openSUSE 13.2 están os hipervisores Xen e KVM. Xen é unha das máis robustas solucións dispoñíbeis para a virtualización. Ademais openSUSE proporciona ferramentas para compartir ficheiros e impresión por rede (Samba, NFS, etc), impresión (CUPS) e aloxamento Web (Apache). Para o desenvolvemento de aplicativos, openSUSE vén cun completo conxunto de ambientes de execución ademais de ferramentas de desenvolvemento de aplicativos."
+
+#: slideshow.xml:157(title)
+msgid "Learn More"
+msgstr "Aprenda máis"
+
+#: slideshow.xml:158(para)
+#, fuzzy
+#| msgid "openSUSE 13.2 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgstr "openSUSE 13.2 fornece documentación detallada sobre cuestións específicas de openSUSE e tamén sobre cuestións xerais sobre Linux. O Centro de axuda é accesíbel a través do menú principal. Os manuais tamén están dispoñíbeis en PDF e pódense descargar e imprimir (http://en.opensuse.org/Portal:Documentation)."
+
+#: slideshow.xml:168(para)
+msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
+msgstr "Incluso hai máis información dispoñíbel na wiki de openSUSE en http://en.opensuse.org/. En \"Documentation,\" atopará ligazóns a información útil creada e mantida por outros usuarios de openSUSE. Tamén poderá atopar ligazóns á documentación dispoñíbel no sitio web oficial de SUSE. Para obter axuda sobre problemas específicos de openSUSE, consulte a Base de datos de soporte en www.opensuse.org"
+
+#: slideshow.xml:179(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr "Para soporte doutros usuarios de openSUSE visite os foros oficiais de openSUSE en http://forums.opensuse.org/. Aquí atopará miles doutros usuarios de openSUSE, dispostos a axudarlle a conseguir o máximo de Linux. Se é un usuario experto de openSUSE, os foros son un magnífico sitio para reunirse con outros usuarios e axudarlles."
+
+#: slideshow.xml:188(para)
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "Desexa mellorar openSUSE? Pode construír case calquera cousa con openSUSE. É fácil crear e compartir novos paquetes para varias distribucións de Linux usando o único e potente Servizo de openSUSE Build. Únase a openSUSE.org para colaborar."
+
+#: slideshow.xml:197(title)
+msgid "SUSE and Linux"
+msgstr "SUSE e Linux"
+
+#: slideshow.xml:198(para)
+msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
+msgstr "SUSE está comprometido co seu éxito con Linux. Ademais de openSUSE, SUSE tamén distribúe unha emocionante suite de produtos deseñados para cubrir as necesidades de empresas grandes e pequenas."
+
+#: slideshow.xml:203(para)
+#, fuzzy
+#| msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgstr "A liña de produtos de Linux de SUSE inclúe SUSE Linux Enterprise Server e SUSE Linux Enterprise Desktop. Os nosos produtos empresariais entréganse cunha garantía de mantemento de sete anos e programas de soporte opcionais. Para obter máis información sobre os produtos de SUSE para empresas baseados en Linux, visite http://www.suse.com"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"Jesús Bravo Álvarez <jba@pobox.com>, 2000.\n"
+"Manuel A. Vázquez <xixirei@yahoo.es>, 2008, 2010, 2011.\n"
+"Leandro Regueiro <leandro.regueiro@gmail.com>, 2008. "
+
+#~| msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.1."
+#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.2."
+#~ msgstr "Se emprega o ordenador para comunicarse cos amigos, a familia, ou os colegas; se o usa para xestionar e gozar das súas imaxes e a súa música; se o usa para buscar na Internet as últimas novas ou por goce; se o usa para escribir un informe ou levar as contas; ou se o usa para aloxar un sitio web persoal ou unha rede caseira, atopará todo o que precisa en openSUSE 13.2."
+
+#~| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+#~ msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE 13.2."
+#~ msgstr "Descargue música da Internet. Extraia CDs para crear a súa biblioteca de música persoal. Escoite a súa lista de reprodución en liña. Grave CDs ou DVDs. Copie os seus ficheiros a un iPod ou un reprodutor multimedia e leve a súa música a todas partes. Xestione e edite imaxes dixitais con editores de gráficos potentes. Todo é sinxelo con openSUSE 13.2."
+
+#~| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgid "Using the tools in openSUSE 13.2, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgstr "Usando as ferramentas de openSUSE 13.2, poderá crear ou editar case calquera tipo de gráfico. Para a manipulación avanzada de imaxes e a creación de gráficos, use o GIMP, unha potente ferramenta para o retoque, composición e creación de imaxes."
+
+#~ msgid "Keep Your System Secure and Up to Date"
+#~ msgstr "Manteña o seu sistema seguro e actualizado"
+
+#, fuzzy
+#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+#~ msgstr "Pode comunicarse de xeito máis efectivo con openSUSE 11.0 porque proporciona un completo conxunto de ferramentas para navegar pola Web e xestionar o correo electrónico—incluso inclúe a nova tecnoloxía de Voz sobre IP."

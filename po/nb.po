@@ -1,0 +1,229 @@
+# translation of slideshow.po to norsk bokmål
+# translation of slideshow.nb.po to
+# translation of slideshow.po to
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+# Olav Pettershagen <olav.pet@online.no>, 2006, 2007.
+# Rune Nordbøe Skillingstad <rune@skillingstad.no>, 2007.
+# Olav Pettershagen <olav.pet@gmail.com>, 2008, 2009, 2011, 2013.
+# Olav P. <olav.pet@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-19 10:05+0200\n"
+"PO-Revision-Date: 2013-10-04 18:14+0200\n"
+"Last-Translator: Olav Pettershagen <olpetter@bbnett.no>\n"
+"Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: slideshow.xml:14(title)
+msgid "Slide Show"
+msgstr "Presentasjon"
+
+#: slideshow.xml:17(title)
+msgid "Welcome to openSUSE™!"
+msgstr "Velkommen til openSUSE™!"
+
+#: slideshow.xml:19(para)
+msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+msgstr ""
+
+#: slideshow.xml:25(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:27(para)
+msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
+msgstr "openSUSE-prosjektet er opprettet og støttet av Novell. openSUSE er et frivillig samarbeidsprosjekt, der målet er å levere verdens mest brukervennlige dataplattform. Mange mennesker over hele verden bidrar til openSUSE-prosjektet ved å pakke programvare, teste programmer, skrive dokumentasjon og oversette komponenter til en lang rekke språk. Resultatet av alt dette arbeidet er fritt tilgjengelig i openSUSE-distribusjonen på www.opensuse.org."
+
+#: slideshow.xml:35(para)
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+msgstr "Besøk www.opensuse.org/How_to_Participate for å se hvordan du kan bli med i openSUSE-fellesskapet."
+
+#: slideshow.xml:40(title)
+msgid "openSUSE in Many Languages"
+msgstr "openSUSE på mange språk"
+
+#: slideshow.xml:42(para)
+msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
+msgstr "openSUSE er tilgjengelig på mange språk. Oversetting av openSUSE-programvare utføres av hardtarbeidende, frivillige oversetterlag. Takk til alle våre bidragsytere. Oversettelsesportalen finner du på http://i18n.opensuse.org/"
+
+#: slideshow.xml:51(title)
+msgid "Connect and Communicate"
+msgstr "Grenseløs kommunikasjon"
+
+#: slideshow.xml:53(para)
+#, fuzzy
+#| msgid "You can communicate more effectively with openSUSE 13.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
+msgstr "Du kan kommunisere mer effektivt med openSUSE 13.1 fordi systemet har et komplett verktøysett for Internett og e-post, og inneholder til og med de nyeste teknologiene for internettbasert telefoni."
+
+#: slideshow.xml:59(para)
+#, fuzzy
+#| msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "Med openSUSE får du Mozilla Firefox, en av de beste nettleserne på markedet. Firefox har alle funksjonene du trenger for å få fullt utbytte av Internett, blant annet de nyeste HTML5-teknologiene. Firefox gjengir nettsidene lynraskt, og inneholder mange nye funksjoner for bedre personvern og sikkerhet."
+
+#: slideshow.xml:65(para)
+#, fuzzy
+#| msgid "Also included with openSUSE are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgstr "openSUSE kommer også med Evolution og Kontact, komplette programmer for e-post og kontaktadministrasjon. For hurtigmeldinger tilbyr openSUSE brukervennlige meldingsprogrammer som støtter alle de populære protokollene: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise og mange andre."
+
+#: slideshow.xml:74(title)
+msgid "Create, View and Listen"
+msgstr "Grenseløs multimedia"
+
+#: slideshow.xml:75(para)
+#, fuzzy
+#| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
+msgstr "Last ned musikk fra Internett. Kopier favorittmusikken fra CD til din egen skreddersydde musikksamling. Lytt til låtene på spillelisten online. Brenn en CD eller DVD. Du kan til og med kopiere filene til en iPod eller andre mediespillere for å ta med deg musikken hvor som helst. Administrer og rediger digitale bilder med effektive grafiske verktøy. Med openSUSE er det enkelt."
+
+#: slideshow.xml:85(title)
+msgid "Documents, Spreadsheets and More"
+msgstr "Dokumenter, regneark og mye mer"
+
+#: slideshow.xml:87(para)
+#, fuzzy
+#| msgid "The openSUSE 13.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr "openSUSE 13.1 kommer med den nyeste versjonen av den ledende kontorpakken for Linux, LibreOffice. LibreOffice har effektive programmer for blant annet tekstbehandling, regneark, HTML-redigering, presentasjoner og database. Du kan lese og lagre filer i mange formater, også MS Office-formater, slik at du enkelt kan flytte filer mellom openSUSE og kontorprogramvare for andre plattformer enn Linux. LibreOffice er det perfekte valget for rapporter, dokumenter, budsjetter, enkel grafikk og mye mer."
+
+#: slideshow.xml:98(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "Grafikk, grafikk og enda mer grafikk"
+
+#: slideshow.xml:100(para)
+#, fuzzy
+#| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgstr "Med verktøyene i openSUSE kan du lage og redigere praktisk talt alle typer grafikk. For bildebehandling og kreativ grafikk er GIMP ett av flere effektive verktøy for fotoretusjering, bilderedigering og annet kreativt grafisk arbeid."
+
+#: slideshow.xml:105(para)
+#, fuzzy
+#| msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgstr "For vektorgrafikk tilbyr openSUSE Inkscape, et allsidig grafisk verktøy som støtter transparente lag, punktgrafikk, grafisk tekst og mye mer."
+
+#: slideshow.xml:113(title)
+msgid "Computing On-the-Go"
+msgstr "Mobil databehandling"
+
+#: slideshow.xml:115(para)
+#, fuzzy
+#| msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
+msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
+msgstr "openSUSE har svært avanserte funksjoner for mobil databehandling. Bytt mellom trådløst nettverk og kabelnettverk med NetworkManager. Kommuniser med mobile enheter som mobiltelefoner og PDA-er via Bluetooth, eller bruk infrarøde porter for å synkronisere data."
+
+#: slideshow.xml:119(para)
+msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
+msgstr "Avanserte strømstyringsfunksjoner fra openSUSE gjør deg enda mer mobil og gir deg større frihet til å ta med deg arbeidet overalt."
+
+#: slideshow.xml:127(title)
+msgid "Your operating system - respecting privacy - providing security"
+msgstr ""
+
+#: slideshow.xml:129(para)
+#, fuzzy
+#| msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgstr "Brannmuren i SUSE Linux bidrar til å beskytte systemet og innholdet på datamaskinen mot innbrudd utenfra. Den er aktivert som standard og er enkel å sette opp. openSUSE kommer også med AppArmor, den mest effektive og brukervennlige sikkerhetsløsningen på programnivå som finnes for Linux i dag. AppArmor beskytter både operativsystem og programvare mot eksterne og interne sikkerhetstrusler."
+
+#. for the online update feature, see bnc#793710
+#: slideshow.xml:133(para)
+#, fuzzy
+#| msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgstr "I tillegg til SUSE Firewall og AppArmor har openSUSE også et spesielt system for sikkerhetsoppdateringer. For å sikre at de siste sikkerhetsoppdateringene er installert på systemet ditt, bør du utføre en online-oppdatering på slutten av installasjonsprosessen. Senere vil du automatisk bli informert om viktige sikkerhetsoppdateringer, slik at du kan installere dem når du vil."
+
+#: slideshow.xml:145(title)
+msgid "Virtualization Technology and Application Development Tools"
+msgstr "Avansert virtualiseringsteknologi og verktøy for programvareutvikling"
+
+#: slideshow.xml:147(para)
+#, fuzzy
+#| msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgstr "openSUSE kommer med XEN hypervisor, en av de mest robuste virtualiseringsløsningene på markedet. openSUSE har også verktøy for fildeling via nettverket (Samba, NFS osv.), utskrift (CUPS) og webservere (Apache). For programutvikling har openSUSE et komplett sett kjøremiljøer samt en lang rekke utviklingsverktøy."
+
+#: slideshow.xml:157(title)
+msgid "Learn More"
+msgstr "Mer informasjon"
+
+#: slideshow.xml:158(para)
+#, fuzzy
+#| msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgstr "openSUSE kommer med omfattende dokumentasjon hvis du lurer på noe i forbindelse med openSUSE eller Linux generelt. Hjelpesenteret er tilgjengelig via hovedmenyen. Du kan også laste ned og skrive ut dokumentasjon i PDF-format (http://en.opensuse.org/Portal:Documentation)."
+
+#: slideshow.xml:168(para)
+msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
+msgstr "Du finner enda mer dokumentasjon i openSUSE wiki på http://en.opensuse.org/. Under «Documentation» finner du lenker til en mengde nyttig informasjon som legges inn og vedlikeholdes av andre openSUSE-brukere. Det er også lenker til tilgjengelig dokumentasjon på SUSE-nettsidene. Hvis du trenger hjelp med spesifikke openSUSE-problemer, kan du søke i Support Database på www.opensuse.org."
+
+#: slideshow.xml:179(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr "Besøk det offisielle openSUSE-forumet på http://forums.opensuse.org/ for å få hjelp fra andre openSUSE-brukere. Her møter du tusenvis av mennesker som gjerne vil hjelpe deg med å få maksimalt ut av Linux. Hvis du er en erfaren openSUSE-bruker er forumet et perfekt sted å møte andre brukere på, og kanskje du har noen tips å bidra med selv."
+
+#: slideshow.xml:188(para)
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "Vil du gjøre openSUSE enda bedre? Du kan bygge nesten hva som helst med openSUSE. Det er enkelt å lage og dele nye pakker for flere Linux-distribusjoner med openSUSE Build Service. Bli med i openSUSE.org-fellesskapet for å gi ditt bidrag."
+
+#: slideshow.xml:197(title)
+msgid "SUSE and Linux"
+msgstr "SUSE og Linux"
+
+#: slideshow.xml:198(para)
+msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
+msgstr "SUSE ønsker å gi deg en god Linux-opplevelse. I tillegg til openSUSE har SUSE en spennende produktportefølje som er utformet for å oppfylle behovene i store og små bedrifter."
+
+#: slideshow.xml:203(para)
+#, fuzzy
+#| msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgstr "Linux-produktene for bedrifter fra SUSE består blant annet av SUSE Linux Enterprise Server og SUSE Linux Enterprise Desktop. Våre bedriftsprodukter leveres med syv års vedlikeholdsgaranti og valgfrie brukerstøtteprogrammer. Du finner mer informasjon om Linux-produktene for bedrifter fra SUSE på http://www.suse.com"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "Oversettelse: Olav Pettershagen, Sveinung Marvik, Rune Nordbøe Skillingstad"
+
+#, fuzzy
+#~| msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.1."
+#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.2."
+#~ msgstr "Enten du bruker datamaskinen til å kommunisere med venner, familie og kolleger, til bilder og musikk, til å lete etter nyheter og informasjon på nettet, til å skrive rapporter eller sette opp et budsjett eller til å administrere en hjemmeside eller et hjemmenettverk, finner du alt du trenger i openSUSE 13.1."
+
+#, fuzzy
+#~| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+#~ msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE 13.2."
+#~ msgstr "Last ned musikk fra Internett. Kopier favorittmusikken fra CD til din egen skreddersydde musikksamling. Lytt til låtene på spillelisten online. Brenn en CD eller DVD. Du kan til og med kopiere filene til en iPod eller andre mediespillere for å ta med deg musikken hvor som helst. Administrer og rediger digitale bilder med effektive grafiske verktøy. Med openSUSE er det enkelt."
+
+#, fuzzy
+#~| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgid "Using the tools in openSUSE 13.2, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgstr "Med verktøyene i openSUSE kan du lage og redigere praktisk talt alle typer grafikk. For bildebehandling og kreativ grafikk er GIMP ett av flere effektive verktøy for fotoretusjering, bilderedigering og annet kreativt grafisk arbeid."
+
+#~ msgid "Keep Your System Secure and Up to Date"
+#~ msgstr "Hold systemet sikkert og oppdatert"
+
+#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 12.3."
+#~ msgstr "Enten du bruker datamaskinen til å kommunisere med venner, familie og kolleger, til håndtering av bilder og musikk, til å lete etter nyheter og informasjon på nettet, til å skrive rapporter eller sette opp et budsjett eller til å administrere en hjemmeside eller et hjemmenettverk, finner du alt du trenger i openSUSE 12.3."
+
+#~ msgid "You can communicate more effectively with openSUSE 12.3 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+#~ msgstr "Du kan kommunisere mer effektivt med openSUSE 12.3 fordi systemet har et komplett verktøysett for Internett og e-post, og inneholder til og med de nyeste teknologiene for internettbasert telefoni."
+
+#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.4."
+#~ msgstr "Enten du bruker datamaskinen til å kommunisere med venner, familie og kolleger, til bilder og musikk, til å lete etter nyheter og informasjon på nettet, til å skrive rapporter eller sette opp et budsjett eller til å administrere en hjemmeside eller et hjemmenettverk, finner du alt du trenger i openSUSE 11.4."
+
+#~ msgid "You can communicate more effectively with openSUSE 11.4 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+#~ msgstr "Du kan kommunisere mer effektivt med openSUSE 11.4 fordi systemet har et komplett verktøysett for Internett og e-post, og inneholder til og med de nyeste teknologiene innen IP-telefoni."
+
+#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+#~ msgstr "Du kan kommunisere mer effektivt med openSUSE 11.1 fordi systemet har et komplett verktøysett for Internett og e-post, og inneholder til og med de nyeste teknologiene for internettbasert telefoni."

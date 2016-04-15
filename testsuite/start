@@ -1,2 +1,0 @@
-#!/bin/sh
-/usr/lib/YaST2/bin/y2base test_slide_show.ycp qt -geometry 1024x768

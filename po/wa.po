@@ -1,0 +1,214 @@
+# translation of slideshow.wa.po to Walloon
+# Translation into the walloon language.
+# Copyright (C) 2007 SUSE Linux Products GmbH.
+#
+# Pablo Saratxaga <pablo@walon.org>, 2001, 2004.
+# Jean Cayron <jean.cayron@base.be>, 2007, 2008, 2009, 2011.
+# Jean Cayron <jean.cayron@base.be>, 2008, 2012.
+# Djan Cayron <jean.cayron@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow.wa\n"
+"POT-Creation-Date: 2015-10-19 10:05+0200\n"
+"PO-Revision-Date: 2012-08-19 15:23+0200\n"
+"Last-Translator: Jean Cayron <jean.cayron@base.be>\n"
+"Language-Team: Walloon <linux-wa@walon.org>\n"
+"Language: wa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: slideshow.xml:14(title)
+msgid "Slide Show"
+msgstr "Môde diyas"
+
+#: slideshow.xml:17(title)
+msgid "Welcome to openSUSE™!"
+msgstr "Bénvnowe dins openSUSE™!"
+
+#: slideshow.xml:19(para)
+msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+msgstr ""
+
+#: slideshow.xml:25(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:27(para)
+msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
+msgstr "openSUSE est on cominåltaire pordjet ahivé eyet sponsorijhî pa SUSE po dner al Daegne li pus ahessåve sistinme d' operance libe po copiutrece. Bråmint des djins di tot costé del daegne aidnut l' pordjet openSUSE e fijhant des pacaedjes di programes, e sicrijhant del documintåcion eyet e ratournant les componints dins bråmint des lingaedjes. On pout awè ttafwait cist ovraedje po rén el distribucion openSUSE Linux sol waibe www.opensuse.org."
+
+#: slideshow.xml:35(para)
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+msgstr "Vizitez www.opensuse.org/How_to_Participate pos aprinde comint vos ploz intrer dins l' cominålté openSUSE."
+
+#: slideshow.xml:40(title)
+msgid "openSUSE in Many Languages"
+msgstr "openSUSE dins bråmint des lingaedjes"
+
+#: slideshow.xml:42(para)
+msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
+msgstr "Li distribucion openSUSE est disponibe dins bråmint des lingaedjes. Li locålijhaedje des programes d' openSUSE si fwait gråce a l' efoirt di nos ekipes cominåltaires di ratournaedje ki trîxhèt. Gråce a zels! Trovez l' poite del locålizåcion so: http://i18n.opensuse.org/"
+
+#: slideshow.xml:51(title)
+msgid "Connect and Communicate"
+msgstr "Raloyîz vs et atôtchîz vos soçons"
+
+#: slideshow.xml:53(para)
+#, fuzzy
+msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
+msgstr "Vos savoz mia atôchî les djins avou openSUSE 12.2 ca i dene on djeu complet d' usteyes pol betchtaedje waibe eyet l' manaedjmint des emiles — i gn a minme divins l' dierinne tecnolodjeye di telefone båzé sol daegntoele (VoIP)."
+
+#: slideshow.xml:59(para)
+#, fuzzy
+#| msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "Vos avoz dins l' distribucion openSUSE li betchteu waibe Mozilla Firefox, onk des meyeus betchteus waibes del daegne. Firefox a tos les usteyes po naivyî so l' etrernet avou les totes dierinnès tecnolodjeyes HTML5. Firefox, c' est ossu des performances al roedeu del loumire eyet beacôp des amidraedjes pinsés po waeranti vosse privaceye eyet espaitchî les atakes d' anzinaedje (phishing)."
+
+#: slideshow.xml:65(para)
+#, fuzzy
+#| msgid "Also included with openSUSE are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgstr "I gn a dvins openSUSE, eto, Evolution eyet Kontact, des programes complets po ls emiles eyet l' manaedjmint do calpin d' adresses. Pol messaedjreye sol moumint, openSUSE a des cliyints MSM åjheys a eployî ki sopoitnut tos les protocoles populaires: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise et co ds ôtes!"
+
+#: slideshow.xml:74(title)
+msgid "Create, View and Listen"
+msgstr "Ahivez, voeyoz et schoûtez"
+
+#: slideshow.xml:75(para)
+#, fuzzy
+#| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
+msgstr "Aberwetez del muzike del daegntoele. Eredjistrîz çou ki gn a so vos plakes lazer po ahiver l' livreye di muzike da vosse. Schoûtez vos djivêyes di léjhaedje so fyis. Broûlez vos plakes lazer CD ou DVD. Copyîz vos fitchîs viè on iPod oudonbén on djouweu d' media eyet purdoz avou vos vosse muzike tolminme ewou ç' ki vs voroz. Manaedjîz eyet aspougnîz vos fotos limerikes avou des pouxhants aspougneus d' imådje. Tot ça est est åjhey avou openSUSE."
+
+#: slideshow.xml:85(title)
+msgid "Documents, Spreadsheets and More"
+msgstr "Documints, tåvleas et co pus"
+
+#: slideshow.xml:87(para)
+#, fuzzy
+msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr "Li distribucion openSUSE 12.2 arive avou tot ddins la k' i gn a l' dierinne modêye do mwaisse shûte di burotike da Linux, Libre Office I gn a dvins en aspougneu d' tecse, on programe po fé des tåvleas, en aspougneu HTML, en usteye po fé des prezintaedje eyet on manaedjeu d' båze di dnêyes Ele lét eyet scrît ossu bråmint des cawetes di fitchî —come les cognes Microsoft Office— po k' vos poloxhe rivni en eri eyet passer åjheymint inte openSUSE eyet en ôte populaire programe di burotike nén Linux. Libre Office est l' parfait tchoes po fé des rapoirts, des årtikes, des budjets pol måjhon, des simpes grafikes et co pus."
+
+#: slideshow.xml:98(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "Imådjes, imådjes, imådjes"
+
+#: slideshow.xml:100(para)
+#, fuzzy
+#| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgstr "Avou ls usteyes k' i gn a dvins openSUSE, vos ploz ahiver eyet aspougnî cåzu totes les sôres d' imådjes. Po l' sipepieus apougnaedje eyet l' ahivaedje d' imådjes , eployîz l' GIMP, ene fele usteye po candjî des imådjes, fé des compôzucions eyet des edvintaedjes."
+
+#: slideshow.xml:105(para)
+#, fuzzy
+#| msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgstr "Po les dessins pa royes, gn a dvins openSUSE Inkscape— ene solucion di dessinaedje ki sait tot fé et ki dene li sopoirt po des transparintès coûtches, do metaedje e royes di bitmaps, des tchimins di tecses et co pus.                                         "
+
+#: slideshow.xml:113(title)
+msgid "Computing On-the-Go"
+msgstr "Copiutrece presse a-z eployî"
+
+#: slideshow.xml:115(para)
+#, fuzzy
+#| msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
+msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
+msgstr "openSUSE a les ahesses les pus nouves po les agayons axhlåves. Vos ploz passez sins vs sicrandi inte les rantoeles sins ou avou fyis en eployant NetworkManager d' openSUSE. Raloyîz vs avou des axhlåves éndjins come des GSM oudonbén des PDAs pa Bluetooth oudonbén eployîz les pôrts infrarodje po sincronijhî vos dnêyes."
+
+#: slideshow.xml:119(para)
+msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
+msgstr "Les pus noûs advintaedjes d' openSUSE e manaedjmint d' enerdjeye fwait crexhe vos possibilités d' axhler eyet vs dene li liberté d' ovrer tolminme ewou ç' ki vs aloxhe."
+
+#: slideshow.xml:127(title)
+msgid "Your operating system - respecting privacy - providing security"
+msgstr ""
+
+#: slideshow.xml:129(para)
+#, fuzzy
+#| msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgstr "Aidîz l' såvrité d' vosse sistinme eyet d' vos dinêyes des brigands del daegntoele avou l' Côpe feu SUSE. Cist éndjin di såvrité est prémetou en alaedje eyet åjhey a apontyî. Mins vs poloz fé co pus po waeranti vosse sistinme avou openSUSE a cåze k' il a AppArmor, eto, li sistinme di såvrité po Linux li pus adroet et åjhey a eployî k' i gn a ouy. AppArmor waeranti di dvant vosse sistinme d' operance eyet vos programes des dvintrinnès et dfoûtrinnès atakes."
+
+#. for the online update feature, see bnc#793710
+#: slideshow.xml:133(para)
+#, fuzzy
+msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgstr "Di pus kel Côpe feu SUSE eyet AppArmor, i gn a eto dvins openSUSE on speciå sistinme di metaedje a djoû avou des coridjaedjes. Po esse seur ki les dierins coridjaedjes sistinme sont bén astalés so vosse sistinme, vos ploz tchoezi di fé on metaedje a djoû so fyis al difén d' l' astalaedje. Adonpwis vos seroz otomaticmint advierti cwand gn årè des impôrtants metaedjes a djoû di såvrité. Inla, vos les pôroz astaler cwand vs vôroz."
+
+#: slideshow.xml:145(title)
+msgid "Virtualization Technology and Application Development Tools"
+msgstr "Tecnolodjeye di virtouwålizåcion et usteyes di disvelopmint des programes"
+
+#: slideshow.xml:147(para)
+#, fuzzy
+#| msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgstr "Li hipervizeu Xen est dvins openSUSE. Xen est l' programe di virtouwålizåcion li pus stocasse k' i gn åye. Di pus, openSUSE dene des usteyes rantoele pol pårtaedje di fitchîs (Samba, NFS, evnd.), l' imprimaedje (CUPS) eyet l' lodjaedje di waibes (Apache). Pol diswalpaedje des programes, openSUSE a ene chilêye d' evironmints d' enondaedje eyet des completès usteyes pol diswalpaedje di programes."
+
+#: slideshow.xml:157(title)
+msgid "Learn More"
+msgstr "Endè saveur di pus"
+
+#: slideshow.xml:158(para)
+#, fuzzy
+#| msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgstr "Li distribucion openSUSE a ene grande documintåcion po des kesse åd fwait d' openSUSE oudonbén åd fwait di Linux. Li Cinte d' aidance est accessibe pal mwaisse dressêye. Les lives d' aidance sont ossu disponibes e PDF, polèt esse aberwetés eyet imprimés (http://en.opensuse.org/Portal:Documentation)."
+
+#: slideshow.xml:168(para)
+msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
+msgstr "Gn a co dpus d' pondants et djondants sol wiki d' openSUSE so http://fr.opensuse.org/. Divins «Documentation», vos discovroz ds hårdêyes viè des ahessåvès informåcions ahivêyes eyet mintnowes pa ds ôtes uzeus d' openSUSE. Vos ploz ossu trover des loyéns viè l' documintåcion k' i gn a sol oficire waibe di SUSE. Po d' l' aidance avou des problinmes sipecifikes a openSUSE, verifyîz sol Båze di dnêye Sopoirt so www.opensuse.org"
+
+#: slideshow.xml:179(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr "Pol sopoirt d' ôtes uzeus d' openSUSE, vizitez les foroms oficires d' openSUSE so http://forums.opensuse.org. Vos trovroz vaila des meyes d' ôtes uzeus d' openSUSE presse a vs aidî a rexhe tot c' ki vs poloz di vosse Linux. Si vs estoz on vî uzeu d' openSUSE, les foroms sont ene grande plaece po rescontrer d' ôtes uzeus eyet aidî d' ôtes uzeus di Linux. Vos ploz ossu viziter l' waibe d' aidance e WALON : http://walotux.walon.org"
+
+#: slideshow.xml:188(para)
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "Vos vloz rinde openSUSE co meyeuse. Vos ploz cåzu tot costrure avou openSUSE. Il est åjhey d' ahiver eyet pårtaedjî des noveas pacaedjes po bråmint des distribucions Linux en eployant l' mierseu eyet pouxhant openSUSE Build Service. Djondoz openSUSE.org po-z ovrer avou nos-ôtes."
+
+#: slideshow.xml:197(title)
+msgid "SUSE and Linux"
+msgstr "SUSE eyet Linux"
+
+#: slideshow.xml:198(para)
+msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
+msgstr "SUSE vout k' tot våye bén por vos avou Linux. Di dpus k' openSUSE, SUSE eplaide ossu ene zûnante shûte di prodûts apougnîs po rescontrer çou k' ont dandjî les ptites et les grandès societés."
+
+#: slideshow.xml:203(para)
+#, fuzzy
+#| msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgstr "Dins les prodûts Linux di SUSE po les eterprijhes, i gn a and SUSE Linux Enterprise Server eyet SUSE Linux Enterprise Desktop. Nos prodûts po ls eterprijhes sont dnés avou ene waeranteye di mintnance di set anêyes eyet des programes di sopoirt al tchuze. Endè saveur di pus so Linux di SUSE po les eterprijhes? Vizitez http://www.suse.com"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "Djan Cayron <jean.cayron@gmail.com>, 2007, 2008."
+
+#, fuzzy
+#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.2."
+#~ msgstr "Cwè ki ç' ki vs fijhîz avou voste éndjole : houkî vos soçons, les djins d' vosse famile oudonbén les cénk ki vs boutez avou ; relére ou rloukî vos fotos et schoûter vosse muzike ; cachî avå l' daegntoele après les dierinnès noveles ou bén djusse pol plaijhi ; scrire on rapoirt ou on budjet ; ou co bén lodjî li waibe da vosse ou ene rantoele di måjhon, vos trovroz tot ç' ki vs avoz dandjî dins openSUSE 12.2."
+
+#, fuzzy
+#~| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+#~ msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE 13.2."
+#~ msgstr "Aberwetez del muzike del daegntoele. Eredjistrîz çou ki gn a so vos plakes lazer po ahiver l' livreye di muzike da vosse. Schoûtez vos djivêyes di léjhaedje so fyis. Broûlez vos plakes lazer CD ou DVD. Copyîz vos fitchîs viè on iPod oudonbén on djouweu d' media eyet purdoz avou vos vosse muzike tolminme ewou ç' ki vs vôroz. Manaedjîz eyet aspougnîz vos fotos limerikes avou des pouxhants aspougneus d' imådje. Tot ça est est åjhey avou openSUSE."
+
+#, fuzzy
+#~| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgid "Using the tools in openSUSE 13.2, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgstr "Avou ls usteyes k' i gn a dvins openSUSE, vos ploz ahiver eyet aspougnî cåzu totes les sôres d' imådjes. Po l' sipepieus apougnaedje eyet l' ahivaedje d' imådjes , eployîz l' GIMP, ene fele usteye po candjî des imådjes, fé des compôzucions eyet des edvintaedjes."
+
+#~ msgid "Keep Your System Secure and Up to Date"
+#~ msgstr "Wårdez vosse sistinme e såvrité eyet a djoû"
+
+#, fuzzy
+#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+#~ msgstr "Vos ploz mia comuniker avou openSUSE 11.0 ca i dene on djeu complet d' usteyes pol betchtaedje waibe eyet l' manaedjmint des emiles — i gn a minme divins l' pus nouve tecnolodjeye d' telefone båzé sol daegntoele (VoIP)."
+
+#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
+#~ msgstr "Vos avoz ossu dvins openSUSE Evolucion di Novelle eyet Kontact. Ces complets programes d' emilaedje eyet d' manaedjmint di vosse calpin d' adresse vos aidront a assonrer eyet waitî a tos vos contes emile. Li distribucion openSUSE avou l' meyeuse voye po fé del Vwès dzeu IP (Voice over IP - VoIP) ki vs permete di comuniker avou des djins raloyîs sol daegntoele totavå l' daegn."
