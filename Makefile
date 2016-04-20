@@ -29,7 +29,7 @@ XSLTPROC = xsltproc
 XMLLINT = xmllint
 XML2PO = xml2po
 
-MSGMERGE_UPDATE = msgmerge --update
+MSGMERGE_UPDATE = msgmerge --update --previous
 
 all: validate rtf
 
