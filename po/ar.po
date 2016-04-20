@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2015-10-19 10:05+0200\n"
+"POT-Creation-Date: 2016-04-15 18:12+0200\n"
 "PO-Revision-Date: 2015-05-21 09:35+0300\n"
 "Last-Translator: malhargan <malham1@gmail.com>\n"
 "Language-Team: سوزي\n"
@@ -18,7 +18,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Virtaal 0.7.1\n"
 
 #: slideshow.xml:14(title)
@@ -30,7 +31,17 @@ msgid "Welcome to openSUSE™!"
 msgstr "مرحبا بك في اوبن سوزي ™!"
 
 #: slideshow.xml:19(para)
-msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+msgid ""
+"There is a reason why openSUSE is \"the makers' choice for sysadmins, "
+"developers and desktop users;\" openSUSE gives you choice and provides a "
+"user-friendly desktop, and feature-rich server environment. People torn "
+"between newer software and a long-term, highly stable Linux system turn to "
+"openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and "
+"contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 "
+"combines the proven SUSE core with the innovative spirit of open-source "
+"communities. That combinations gives makers choices and Leap 42.1 "
+"complements openSUSE's other release Tumbleweed, which caters to those who "
+"want continuously updated, tested and new stable packages."
 msgstr ""
 
 #: slideshow.xml:25(title)
@@ -38,20 +49,44 @@ msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
-msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "أوبن سوزي مشروع مجتمعي أنشأته وترعاها سوزي لتمنحه للحواسيب الأكثر استعمالا في العالم. كثير من الناس من جميع أنحاء العالم يسهم مشروع أوبن سوزي المشروع بتحزيم البرمجيات، اختبار البرامج وكتابة الوثائق وترجمة المكونات إلى عشرات اللغات. كل ذلك العمل متاح مجاناً في أوبن سوزي توزيعة لينكس المتوفرة في www.opensuse.org."
+msgid ""
+"openSUSE is a community project created and sponsored by SUSE to deliver the "
+"world's most user-friendly computing platform. Many people from around the "
+"world contribute to the openSUSE Project by packaging software, testing "
+"programs, writing documentation, and translating components into dozens of "
+"languages. All of that work is available for free in the openSUSE Linux "
+"distribution available at www.opensuse.org."
+msgstr ""
+"أوبن سوزي مشروع مجتمعي أنشأته وترعاها سوزي لتمنحه للحواسيب الأكثر استعمالا "
+"في العالم. كثير من الناس من جميع أنحاء العالم يسهم مشروع أوبن سوزي المشروع "
+"بتحزيم البرمجيات، اختبار البرامج وكتابة الوثائق وترجمة المكونات إلى عشرات "
+"اللغات. كل ذلك العمل متاح مجاناً في أوبن سوزي توزيعة لينكس المتوفرة في www."
+"opensuse.org."
 
 #: slideshow.xml:35(para)
-msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
-msgstr "قم بزيارة www.opensuse.org/How_to_Participate لمعرفة كيف يمكنك الانضمام إلى المجتمع أوبن سوزي."
+#, fuzzy
+msgid ""
+"Visit en.opensuse.org/How_to_Participate to learn how you can join the "
+"openSUSE community."
+msgstr ""
+"قم بزيارة www.opensuse.org/How_to_Participate لمعرفة كيف يمكنك الانضمام إلى "
+"المجتمع أوبن سوزي."
 
 #: slideshow.xml:40(title)
 msgid "openSUSE in Many Languages"
 msgstr "أوبن سوزي بالعديد من اللغات"
 
 #: slideshow.xml:42(para)
-msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
-msgstr "توزيع أوبن سوزي تتوفر في العديد من اللغات. التطويع اللغوي لبرمجيات أوبن سوزي يتم عن طريق الجهود التي تبذلها فرق اللغة يالتي تعمل بجد، نابعة من المجتمع المحلي. شكرا لجميع المساهمين معنا. العثور على بوابة التعريب في: http://i18n.opensuse.org/"
+msgid ""
+"The openSUSE distribution is available in many languages. Localization for "
+"openSUSE software occurs through the efforts of our hard-working, community-"
+"driven language teams. Thank you to all of our contributors. Find the "
+"localization portal at: http://i18n.opensuse.org/"
+msgstr ""
+"توزيع أوبن سوزي تتوفر في العديد من اللغات. التطويع اللغوي لبرمجيات أوبن سوزي "
+"يتم عن طريق الجهود التي تبذلها فرق اللغة يالتي تعمل بجد، نابعة من المجتمع "
+"المحلي. شكرا لجميع المساهمين معنا. العثور على بوابة التعريب في: http://i18n."
+"opensuse.org/"
 
 #: slideshow.xml:51(title)
 msgid "Connect and Communicate"
@@ -59,21 +94,40 @@ msgstr "الاتصال والتواصل"
 
 #: slideshow.xml:53(para)
 #, fuzzy
-#| msgid "You can communicate more effectively with openSUSE 13.2 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
-msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
-msgstr "يمكنك الاتصال بفعالية أكبر مع أوبن سوزي 13.2 لأنه يوفر مجموعة كاملة من أدوات إدارة تصفح الويب والبريد الإلكتروني – وتشمل حتى أحدث تقنيات الصوت عبر IP."
+msgid ""
+"You can communicate more effectively with openSUSE Leap 42.1 because it "
+"provides a complete set of tools for Web browsing and e-mail management — it "
+"even includes the newest Voice over IP technology."
+msgstr ""
+"يمكنك الاتصال بفعالية أكبر مع أوبن سوزي 13.2 لأنه يوفر مجموعة كاملة من أدوات "
+"إدارة تصفح الويب والبريد الإلكتروني – وتشمل حتى أحدث تقنيات الصوت عبر IP."
 
 #: slideshow.xml:59(para)
 #, fuzzy
-#| msgid "openSUSE 13.2 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "يشمل أوبن سوزي 13.2 موزيلا فيرفكس، أحد أفضل مستعرضات ويب في العالم. بجميع الميزات التي تحتاجها للتمتع بشبكة الإنترنت، بما في ذلك HTML5. فيرفكس يمتلك الأداء سريع كالبرق، وعدد من التحسينات التي تهدف إلى حماية الخصوصية ومنع هجمات الخداع."
+msgid ""
+"openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in "
+"the world. Firefox includes all the features you need to enjoy the Web, "
+"including the newest HTML5 technologies. Firefox also boasts lightning-fast "
+"performance, and a number of improvements designed to protect your privacy "
+"and prevent phishing attacks."
+msgstr ""
+"يشمل أوبن سوزي 13.2 موزيلا فيرفكس، أحد أفضل مستعرضات ويب في العالم. بجميع "
+"الميزات التي تحتاجها للتمتع بشبكة الإنترنت، بما في ذلك HTML5. فيرفكس يمتلك "
+"الأداء سريع كالبرق، وعدد من التحسينات التي تهدف إلى حماية الخصوصية ومنع "
+"هجمات الخداع."
 
 #: slideshow.xml:65(para)
 #, fuzzy
-#| msgid "Also included with openSUSE 13.2 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr "يشمل أوبن سوزي 13.2 أيضا على تطورات في الإتصالات، بالبريد الإلكتروني الكامل وتطبيقات إدارة جهات الاتصال. للمراسلة الفورية، من السهل استخدام الدردشة مع العملاء التي تدعم كافة البروتوكولات شعبية: فيسبوك، AIM، وجوجل، جابر، MSN، ياهو، Groupwise، والعديد من الآخرين."
+msgid ""
+"Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-"
+"mail and contact management applications. For instant messaging, openSUSE "
+"features easy to use IM clients that support all of the popular protocols: "
+"AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgstr ""
+"يشمل أوبن سوزي 13.2 أيضا على تطورات في الإتصالات، بالبريد الإلكتروني الكامل "
+"وتطبيقات إدارة جهات الاتصال. للمراسلة الفورية، من السهل استخدام الدردشة مع "
+"العملاء التي تدعم كافة البروتوكولات شعبية: فيسبوك، AIM، وجوجل، جابر، MSN، "
+"ياهو، Groupwise، والعديد من الآخرين."
 
 #: slideshow.xml:74(title)
 msgid "Create, View and Listen"
@@ -81,9 +135,18 @@ msgstr "أنشئ، أعرض واستمتع"
 
 #: slideshow.xml:75(para)
 #, fuzzy
-#| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE 13.2."
-msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
-msgstr "تحميل الإيقاعات من الإنترنت. نسخ الأقراص المضغوطة لإنشاء مكتبة الموسيقى الخاصة. الاستماع إلى قائمة قراءة خاصة على الإنترنت. نسخ الأقراص المضغوطة أو أقراص Dvd نسخ الملفات على مشغل أي بود أو مشغل الوسائط. أخذ الموسيقى معك في أي مكان. إدارة وتحرير الصور الرقمية مع محررات الرسومات القوية. هذه أعمال سهلة جداً مع أوبن سوزي 13.2."
+msgid ""
+"Download tunes from the Internet. Rip CDs to create your own customized "
+"music library. Listen to your playlist online. Burn CDs or DVDs. Copy your "
+"files to an iPod or media player and take your music anywhere. Manage and "
+"edit digital pictures with powerful graphics editors. It's all easy with "
+"openSUSE Leap 42.1."
+msgstr ""
+"تحميل الإيقاعات من الإنترنت. نسخ الأقراص المضغوطة لإنشاء مكتبة الموسيقى "
+"الخاصة. الاستماع إلى قائمة قراءة خاصة على الإنترنت. نسخ الأقراص المضغوطة أو "
+"أقراص Dvd نسخ الملفات على مشغل أي بود أو مشغل الوسائط. أخذ الموسيقى معك في "
+"أي مكان. إدارة وتحرير الصور الرقمية مع محررات الرسومات القوية. هذه أعمال "
+"سهلة جداً مع أوبن سوزي 13.2."
 
 #: slideshow.xml:85(title)
 msgid "Documents, Spreadsheets and More"
@@ -91,9 +154,21 @@ msgstr "مستندات وجداول بيانات والمزيد"
 
 #: slideshow.xml:87(para)
 #, fuzzy
-#| msgid "The openSUSE 13.2 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "توزيعة أوبن سوزي 13.2 تأتي مع أحدث إصدار أوفيس لينكس الرائد ليبر أوفيس. الذي يتميز بمعالج النصوص وتطبيق جداول بيانات، محرر HTML، مصمم العروض التقديمية ، ومدير قاعدة البيانات. أنه يقرأ ويكتب تنسيقات متعددة – بما في ذلك تنسيقات Microsoft Office — حيث يمكنك التنقل بين أوبن سوزي وبرامج أنظمة التشغيل الأخرى. ليبر أوفيس هو الخيار الأمثل للتقارير ,وأوراق العمل، والميزانيات المنزلية، والرسومات البسيطة وأكثر."
+msgid ""
+"The openSUSE Leap 42.1 distribution comes complete with the latest version "
+"of the leading Linux productivity suite, LibreOffice. It features a word "
+"processor, spreadsheet application, HTML editor, presentation designer, and "
+"database manager. It reads and writes multiple formats—including Microsoft "
+"Office formats—so you can move back and forth easily between openSUSE and "
+"popular non-Linux productivity software. LibreOffice is the perfect choice "
+"for reports, papers, home budgets, simple graphics and more."
+msgstr ""
+"توزيعة أوبن سوزي 13.2 تأتي مع أحدث إصدار أوفيس لينكس الرائد ليبر أوفيس. الذي "
+"يتميز بمعالج النصوص وتطبيق جداول بيانات، محرر HTML، مصمم العروض التقديمية ، "
+"ومدير قاعدة البيانات. أنه يقرأ ويكتب تنسيقات متعددة – بما في ذلك تنسيقات "
+"Microsoft Office — حيث يمكنك التنقل بين أوبن سوزي وبرامج أنظمة التشغيل "
+"الأخرى. ليبر أوفيس هو الخيار الأمثل للتقارير ,وأوراق العمل، والميزانيات "
+"المنزلية، والرسومات البسيطة وأكثر."
 
 #: slideshow.xml:98(title)
 msgid "Graphics, Graphics, Graphics"
@@ -101,15 +176,25 @@ msgstr "الرسومات، والرسومات، والرسومات"
 
 #: slideshow.xml:100(para)
 #, fuzzy
-#| msgid "Using the tools in openSUSE 13.2, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "استخدام الأدوات في أوبن سوزي 13.2، يمكنك إنشاء أو تحرير تقريبا كل أنواع الرسوم. التعديل المتقدم في الصورة وإنشاء الرسومات، استخدم جيمب أداة قوية للصورة وإضافة لمسات، التكوين، والتأليف."
+msgid ""
+"Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
+"type of graphic. For advanced image manipulation and graphics creation, use "
+"The GIMP a powerful tool for image retouching, composition, and authoring."
+msgstr ""
+"استخدام الأدوات في أوبن سوزي 13.2، يمكنك إنشاء أو تحرير تقريبا كل أنواع "
+"الرسوم. التعديل المتقدم في الصورة وإنشاء الرسومات، استخدم جيمب أداة قوية "
+"للصورة وإضافة لمسات، التكوين، والتأليف."
 
 #: slideshow.xml:105(para)
 #, fuzzy
-#| msgid "For vector graphics, openSUSE 13.2 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "للرسم المتجه، يتضمن أوبن سوزي 13.2 برنامج Inkscape – حل نموذجي للرسومات متعددة الاستخدامات يوفر الدعم لطبقات شفافة وتتبع الصورة النقطية ومسارات النص وأكثر من ذلك بكثير."
+msgid ""
+"For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
+"graphics solution delivers support for transparent layers, bitmap tracing, "
+"text paths and much more."
+msgstr ""
+"للرسم المتجه، يتضمن أوبن سوزي 13.2 برنامج Inkscape – حل نموذجي للرسومات "
+"متعددة الاستخدامات يوفر الدعم لطبقات شفافة وتتبع الصورة النقطية ومسارات النص "
+"وأكثر من ذلك بكثير."
 
 #: slideshow.xml:113(title)
 msgid "Computing On-the-Go"
@@ -117,13 +202,23 @@ msgstr "الحوسبة أثناء التنقل"
 
 #: slideshow.xml:115(para)
 #, fuzzy
-#| msgid "openSUSE 13.2 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
-msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
-msgstr "أوبن سوزي 13.2 يتضمن ميزات التنقل الأكثر تقدما. يمكنك التبديل بين الشبكات السلكية واللاسلكية باستخدام مدير الشبكات. الاتصال بالأجهزة المحمولة مثل الهواتف المحمولة والأجهزة اللوحية عن طريق البلوتوث."
+msgid ""
+"openSUSE Leap 42.1 includes the most advanced mobility features. You can "
+"switch effortlessly between wireless and wired networks using "
+"NetworkManager. Connect with mobile devices like mobile phones, tablets and "
+"PDAs via Bluetooth."
+msgstr ""
+"أوبن سوزي 13.2 يتضمن ميزات التنقل الأكثر تقدما. يمكنك التبديل بين الشبكات "
+"السلكية واللاسلكية باستخدام مدير الشبكات. الاتصال بالأجهزة المحمولة مثل "
+"الهواتف المحمولة والأجهزة اللوحية عن طريق البلوتوث."
 
 #: slideshow.xml:119(para)
-msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr "أحدث الابتكارات في إدارة الطاقة من أوبن سوزي لراحة في التنقل، ويمنحك حرية أخذ العمل معك أينما ذهبت."
+msgid ""
+"The newest innovations in power management from openSUSE increase your "
+"mobility and give you the freedom to take your work wherever you go."
+msgstr ""
+"أحدث الابتكارات في إدارة الطاقة من أوبن سوزي لراحة في التنقل، ويمنحك حرية "
+"أخذ العمل معك أينما ذهبت."
 
 #: slideshow.xml:127(title)
 msgid "Your operating system - respecting privacy - providing security"
@@ -131,16 +226,43 @@ msgstr ""
 
 #: slideshow.xml:129(para)
 #, fuzzy
-#| msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE 13.2 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgstr "المساعدة على تأمين النظام والبيانات من متطفلي الإنترنت مع جدار حماية سوزي. أمن الجهاز يتم تفعيله بشكل افتراضي ومن السهل إعداده. لكن يمكنك أن تفعل المزيد لحماية النظام مع أوبن سوزي 13.2 لأنه أيضا يتضمن درع التطبيقات، أكثر نظم الأمن المتاحة فعالية وسهولة عند استخدام تطبيقات لينكس اليوم. درع التطبيقات استباقي يحمي نظام التشغيل والتطبيقات من التهديدات الداخلية أو الخارجية."
+msgid ""
+"openSUSE builds something that puts you in control. Rolling or Stable, you "
+"decide. Unlike windows, you decide which updates get applied when. Unlike "
+"most distros, you decide which desktop you want (or none at all), you have "
+"tools like YaST to help you configure your machine and control your security "
+"and privacy. Secure your system and data from Internet intruders with SUSE "
+"Firewall. This security device is activated by default and easy to "
+"configure. But you can do even more to protect your system with openSUSE "
+"Leap 42.1 because it also includes AppArmor, the most effective and easy-to-"
+"use Linux application security system available today. AppArmor proactively "
+"protects your operating system and applications from internal or external "
+"threats."
+msgstr ""
+"المساعدة على تأمين النظام والبيانات من متطفلي الإنترنت مع جدار حماية سوزي. "
+"أمن الجهاز يتم تفعيله بشكل افتراضي ومن السهل إعداده. لكن يمكنك أن تفعل "
+"المزيد لحماية النظام مع أوبن سوزي 13.2 لأنه أيضا يتضمن درع التطبيقات، أكثر "
+"نظم الأمن المتاحة فعالية وسهولة عند استخدام تطبيقات لينكس اليوم. درع "
+"التطبيقات استباقي يحمي نظام التشغيل والتطبيقات من التهديدات الداخلية أو "
+"الخارجية."
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:133(para)
 #, fuzzy
-#| msgid "In addition to SUSE Firewall and AppArmor, openSUSE 13.2 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
-msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
-msgstr "إضافة إلى جدار حماية سوزي وأنظمة الأمن المتاحة، يتضمن أوبن سوزي 13.2 أيضا نظام تحديث وتصحيح أمان خاص. لضمان أن أحدث تصحيحات الأمان مثبتة على النظام، يمكنك اختيار إجراء تحديث من الإنترنت بعد نهاية التثبيت (إذا كنت لم تختار التثبيت التلقائي في البداية). وفي المستقبل، ستكون على علم تلقائياً بتوفر تحديثات أمان هامة، حيث يمكنك تثبيتها على راحتك."
+msgid ""
+"In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes "
+"a special security patch update system. To ensure that the latest security "
+"patches are installed on your system, you can choose to perform an online "
+"update at the end of this installation procedure (if you did not choose the "
+"automatic installation modus at the beginning). And in the future, you will "
+"be automatically informed of the availability of important security updates, "
+"so you can install them at your convenience."
+msgstr ""
+"إضافة إلى جدار حماية سوزي وأنظمة الأمن المتاحة، يتضمن أوبن سوزي 13.2 أيضا "
+"نظام تحديث وتصحيح أمان خاص. لضمان أن أحدث تصحيحات الأمان مثبتة على النظام، "
+"يمكنك اختيار إجراء تحديث من الإنترنت بعد نهاية التثبيت (إذا كنت لم تختار "
+"التثبيت التلقائي في البداية). وفي المستقبل، ستكون على علم تلقائياً بتوفر "
+"تحديثات أمان هامة، حيث يمكنك تثبيتها على راحتك."
 
 #: slideshow.xml:145(title)
 msgid "Virtualization Technology and Application Development Tools"
@@ -148,9 +270,19 @@ msgstr "تكنولوجيا المحاكاة الافتراضية وتطبيق أ
 
 #: slideshow.xml:147(para)
 #, fuzzy
-#| msgid "Both Xen and KVM hypervisors are included with openSUSE 13.2. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
-msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
-msgstr "كلاً من Xen وKVM لمراقب الاجهزة الافتراضية تم تضمينه مع أوبن سوزي 13.2. Xen أحد أقوى الحلول المتاحة للمحاكاة الافتراضية. وبالإضافة إلى ذلك، أوبن سوزي توفر أدوات تبادل ملفات الشبكة (Samba, NFS, etc.)، طباعة (CUPS) واستضافة الويب(أباتشي). لتطوير التطبيقات، أوبن سوزي تأتي مع مجموعة كاملة من بيئات وقت التشغيل بالإضافة إلى أدوات تطوير التطبيقات واسعة النطاق."
+msgid ""
+"Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is "
+"one of the most robust solutions for virtualization available. In addition, "
+"openSUSE provides tools for network file sharing (Samba, NFS, etc.), "
+"printing (CUPS) and Web hosting (Apache). For application development, "
+"openSUSE comes with a complete set of runtime environments plus extensive "
+"application development tools."
+msgstr ""
+"كلاً من Xen وKVM لمراقب الاجهزة الافتراضية تم تضمينه مع أوبن سوزي 13.2. Xen "
+"أحد أقوى الحلول المتاحة للمحاكاة الافتراضية. وبالإضافة إلى ذلك، أوبن سوزي "
+"توفر أدوات تبادل ملفات الشبكة (Samba, NFS, etc.)، طباعة (CUPS) واستضافة "
+"الويب(أباتشي). لتطوير التطبيقات، أوبن سوزي تأتي مع مجموعة كاملة من بيئات وقت "
+"التشغيل بالإضافة إلى أدوات تطوير التطبيقات واسعة النطاق."
 
 #: slideshow.xml:157(title)
 msgid "Learn More"
@@ -158,43 +290,100 @@ msgstr "اعرف المزيد"
 
 #: slideshow.xml:158(para)
 #, fuzzy
-#| msgid "openSUSE 13.2 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
-msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
-msgstr "توزيعة أوبن سوزي 13.2 توفر وثائق شاملة لأسئلة مخصصة لأوبن سوزي، فضلا عن الأسئلة الشائعة ذات الصلة بلينكس. يتم الوصول لمركز المساعدة من خلال القائمة الرئيسية. دليل المستخدم متاح أيضا بصيغة PDF مكن تحميله وطباعته من الموقع (http://en.opensuse.org/Portal:Documentation)."
+msgid ""
+"openSUSE Leap 42.1 provides extensive documentation for specific openSUSE "
+"questions as well as general Linux-related questions. The Help Center is "
+"accessible via the main menu. Manuals are also available in PDF and can be "
+"downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgstr ""
+"توزيعة أوبن سوزي 13.2 توفر وثائق شاملة لأسئلة مخصصة لأوبن سوزي، فضلا عن "
+"الأسئلة الشائعة ذات الصلة بلينكس. يتم الوصول لمركز المساعدة من خلال القائمة "
+"الرئيسية. دليل المستخدم متاح أيضا بصيغة PDF مكن تحميله وطباعته من الموقع "
+"(http://en.opensuse.org/Portal:Documentation)."
 
 #: slideshow.xml:168(para)
-msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "مزيد من المعلومات متاحة في ويكي أوبن سوزي في http://en.opensuse.org/. تحت بند \"الوثائق،\" ستكتشف روابط لمعلومات مفيدة أنشأت وتدار من قبل مستخدمي أوبن سوزي الآخرين. يمكنك أيضا العثور على روابط للوثائق المتاحة على موقع ويب سوزي الرسمي. للحصول على تعليمات مشاكل أوبن سوزي المحددة، راجع قاعدة الدعم في www.opensuse.org"
+msgid ""
+"Even more information is available in the openSUSE wiki at http://en."
+"opensuse.org/. Under \"Documentation,\" you'll discover links to useful "
+"information created and maintained by other openSUSE users. You can also "
+"find links to the documentation available on the official SUSE Web site. For "
+"help with specific openSUSE problems, check out the Support Database at www."
+"opensuse.org"
+msgstr ""
+"مزيد من المعلومات متاحة في ويكي أوبن سوزي في http://en.opensuse.org/. تحت "
+"بند \"الوثائق،\" ستكتشف روابط لمعلومات مفيدة أنشأت وتدار من قبل مستخدمي أوبن "
+"سوزي الآخرين. يمكنك أيضا العثور على روابط للوثائق المتاحة على موقع ويب سوزي "
+"الرسمي. للحصول على تعليمات مشاكل أوبن سوزي المحددة، راجع قاعدة الدعم في www."
+"opensuse.org"
 
 #: slideshow.xml:179(para)
-msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr "لمزيد من الدعم من قبل مستخدمين آخرين أوبن سوزي، قم بزيارة منتديات أوبن سوزي الرسمية في http://forums.opensuse.org/. هنا ستجد آلاف مستخدمين الآخرين لأوبن سوزي، حريصون على مساعدتك للحصول على كل ما يمكن عمله على لينكس. إذا كنت أحد مستخدمي أوبن سوزي ذوي خبرة، المنتديات مكان عظيم لمقابلة المستخدمين الآخرين، ومساعدة مستخدمي لينكس."
+msgid ""
+"For support from other openSUSE users, visit the official openSUSE forums at "
+"http://forums.opensuse.org/. Here you'll find thousands of other openSUSE "
+"users, eager to help you get everything you can out of Linux. If you're an "
+"experienced openSUSE user, the forums are a great place to meet other users, "
+"and help out other Linux users."
+msgstr ""
+"لمزيد من الدعم من قبل مستخدمين آخرين أوبن سوزي، قم بزيارة منتديات أوبن سوزي "
+"الرسمية في http://forums.opensuse.org/. هنا ستجد آلاف مستخدمين الآخرين لأوبن "
+"سوزي، حريصون على مساعدتك للحصول على كل ما يمكن عمله على لينكس. إذا كنت أحد "
+"مستخدمي أوبن سوزي ذوي خبرة، المنتديات مكان عظيم لمقابلة المستخدمين الآخرين، "
+"ومساعدة مستخدمي لينكس."
 
 #: slideshow.xml:188(para)
-msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "هل ترغب في جعل أوبن سوزي أفضل؟ يمكنك بناء أي شيء تقريبا مع أوبن سوزي. من السهل إنشاء ومشاركة حزم جديدة لتوزيعات لينكس المتعددة باستخدام خدمة البناء على أوبن سوزي المميزة. انضم إلى openSUSE.org للمشاركة."
+msgid ""
+"Want to make openSUSE even better? You can build almost anything with "
+"openSUSE. It's easy to create and share new packages for multiple Linux "
+"distributions using the unique and powerful openSUSE Build Service. Join "
+"openSUSE.org to collaborate."
+msgstr ""
+"هل ترغب في جعل أوبن سوزي أفضل؟ يمكنك بناء أي شيء تقريبا مع أوبن سوزي. من "
+"السهل إنشاء ومشاركة حزم جديدة لتوزيعات لينكس المتعددة باستخدام خدمة البناء "
+"على أوبن سوزي المميزة. انضم إلى openSUSE.org للمشاركة."
 
 #: slideshow.xml:197(title)
 msgid "SUSE and Linux"
 msgstr "سوزي ولنكس"
 
 #: slideshow.xml:198(para)
-msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
-msgstr "سوزي ملتزمة بنجاحك مع ينكس. بالإضافة إلى أوبن سوزي، تنتج سوزي أيضا مجموعة مثيرة من المنتجات المصممة لتلبية احتياجات الشركات الكبيرة والصغيرة."
+msgid ""
+"SUSE is committed to your success with Linux. In addition to openSUSE, SUSE "
+"also delivers an exciting suite of products designed to meet the needs of "
+"businesses large and small."
+msgstr ""
+"سوزي ملتزمة بنجاحك مع ينكس. بالإضافة إلى أوبن سوزي، تنتج سوزي أيضا مجموعة "
+"مثيرة من المنتجات المصممة لتلبية احتياجات الشركات الكبيرة والصغيرة."
 
 #: slideshow.xml:203(para)
 #, fuzzy
-#| msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
-msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
-msgstr "تشمل منتجات لينكس المنتجة من سوزي توزيعة لينكس سوزي Enterprise للخوادم و لينكس سوزي Enterprise للأجهزة الشخصية. يتم تسليم منتجات المؤسسات مع ضمان لمدة سبع سنوات، وبرامج الدعم الاختيارية. لمزيد من المعلومات عن مؤسسة لينكس من سوزي، قم بزيارة http://www.suse.com"
+msgid ""
+"The enterprise Linux products from SUSE include SUSE Linux Enterprise Server "
+"and SUSE Linux Enterprise Desktop. Our enterprise products are delivered "
+"with a 10 year maintenance guarantee out of the box with the possibility of "
+"extending it to 13 years as well as other optional support programs. For "
+"more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgstr ""
+"تشمل منتجات لينكس المنتجة من سوزي توزيعة لينكس سوزي Enterprise للخوادم و "
+"لينكس سوزي Enterprise للأجهزة الشخصية. يتم تسليم منتجات المؤسسات مع ضمان "
+"لمدة سبع سنوات، وبرامج الدعم الاختيارية. لمزيد من المعلومات عن مؤسسة لينكس "
+"من سوزي، قم بزيارة http://www.suse.com"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "محمد الحرقان"
 
-#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.2."
-#~ msgstr "سواء كنت تستخدم الكمبيوتر للاتصال بالأصدقاء أو الأسرة أو الزملاء؛ التعليم أوالتمتع بالصور والموسيقى؛ لتصفح الإنترنت للإطلاع على آخر الأخبار أو للمتعة؛ لكتابة تقرير أو الميزانية؛ أو استضافة مواقع ويب الشخصية أو شبكة الاتصال المنزلية، سوف تجد كل ما تحتاجه في اوبن سوزي 13.2."
+#~ msgid ""
+#~ "Whether you use your computer to communicate with friends, family, or "
+#~ "colleagues; to manage and enjoy your pictures and music; to browse the "
+#~ "Internet for the latest news or for fun; to write a report or budget; or "
+#~ "to host a personal Web site or home network, you will find everything you "
+#~ "need in openSUSE 13.2."
+#~ msgstr ""
+#~ "سواء كنت تستخدم الكمبيوتر للاتصال بالأصدقاء أو الأسرة أو الزملاء؛ التعليم "
+#~ "أوالتمتع بالصور والموسيقى؛ لتصفح الإنترنت للإطلاع على آخر الأخبار أو "
+#~ "للمتعة؛ لكتابة تقرير أو الميزانية؛ أو استضافة مواقع ويب الشخصية أو شبكة "
+#~ "الاتصال المنزلية، سوف تجد كل ما تحتاجه في اوبن سوزي 13.2."
 
 #~ msgid "Keep Your System Secure and Up to Date"
 #~ msgstr "الحفاظ على النظام آمن وحتى محدّث"

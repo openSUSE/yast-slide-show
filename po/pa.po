@@ -1,0 +1,204 @@
+# translation of slideshow.pa.po to Panjabi
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# A S Alam <aalam@users.sf.net>, 2007.
+# KDB <brar.kd@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow.pa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-15 18:12+0200\n"
+"PO-Revision-Date: 2008-11-23 08:13+0530\n"
+"Last-Translator: KDB <brar.kd@gmail.com>\n"
+"Language-Team: Panjabi <punjabi-l10n@list.sf.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: slideshow.xml:14(title)
+msgid "Slide Show"
+msgstr "ਸਲਾਇਡ ਸ਼ੋ"
+
+#: slideshow.xml:17(title)
+#, fuzzy
+msgid "Welcome to openSUSE™!"
+msgstr "openSUSE™ ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ"
+
+#: slideshow.xml:19(para)
+msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+msgstr ""
+
+#: slideshow.xml:25(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:27(para)
+#, fuzzy
+msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
+msgstr "ਓਪਨ-ਸੂਸੇ (openSUSE) ਪਰੋਜੈਕਟ ਰਾਹੀਂ ਬਣਾਇਆ ਅਤੇ ਨੋਵਲ (Novell) ਵਲੋਂ ਸਪਾਂਸਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਓਪਨਸੂਸੇ ਸੰਸਾਰ ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤਣ ਲਈ ਆਸਾਨ ਓਪਨ ਸੋਰਸ ਕੰਪਿਊਟਿੰਗ ਪਲੇਟਫਾਰਮ ਦੇਣ ਲਈ ਕਮਿਊਨਟੀ ਦਾ ਜਤਨ ਹੈ। ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਓਪਨ-ਸੂਸੇ ਪਰੋਜੈੱਕਟ ਲਈ ਸਾਫਟਵੇਅਰ ਪੈਕ ਕਰਨ, ਪਰੋਗਰਾਮ ਟੈਸਟਿੰਗ, ਦਸਤਾਵੇਜ਼ ਲਿਖਣ ਅਤੇ ਲੋਕਲ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਸਮੱਗਰੀ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਸਤੇ ਯੋਗਦਾਨ ਦਿੰਦੇ ਹਨ। ਉਹ ਸਭ ਕੰਮ ਓਪਨ-ਸੂਸੇ ਲੀਨਕਸ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਰਾਹੀਂ ਮੁਫ਼ਤ ਉਪਲੱਬਧ ਹੈ: www.opensuse.org"
+
+#: slideshow.xml:35(para)
+#, fuzzy
+msgid "Visit en.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+msgstr "www.opensuse.org/How_to_Participate ਉੱਤੇ ਜਾਓ ਅਤੇ openSUSE ਕਮਿਊਨਟੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਬਾਰੇ ਜਾਣੋ।"
+
+#: slideshow.xml:40(title)
+msgid "openSUSE in Many Languages"
+msgstr "openSUSE ਕਈ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ"
+
+#: slideshow.xml:42(para)
+msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
+msgstr "ਓਪਨ-ਸੂਸੇ (openSUSE) ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਉਪਲੱਬਧ ਹੈ। ਓਪਨ-ਸੂਸੇ ਦੇ ਖਾਸ ਸਾਫਟਵੇਅਰ ਦਾ ਅਨੁਵਾਦ ਸਾਡੀਆਂ ਮੇਹਨਤੀ ਕਮਿਊਨਟੀ ਭਾਸ਼ਾ ਟੀਮਾਂ ਵਲੋਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਉਨ੍ਹਾਂ ਸਭ ਦਾ ਧੰਨਵਾਦ ਹੈ। ਲੋਕਾਈਜ਼ੇਸ਼ਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਈ ਪੋਰਟਲ http://i18n.opensuse.org/ ਵੇਖੋ।"
+
+#: slideshow.xml:51(title)
+msgid "Connect and Communicate"
+msgstr "ਕੁਨੈਕਟ ਅਤੇ ਕਮਿਊਨੀਕੇਸ਼ਨ"
+
+#: slideshow.xml:53(para)
+#, fuzzy
+msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
+msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ 11.1 ਨਾਲ ਹੋਰ ਪਰਭਾਵੀ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਈਮੇਲ ਪਰਬੰਧ ਲਈ ਸਭ ਟੂਲ ਦਿੰਦਾ ਹੈ—ਇਸ ਵਿੱਚ ਨਵੀਂ ਵਾਇਸ ਓਵਰ ਆਈ ਪੀ (VoIP) ਫੋਨ ਤਕਨਾਲੋਜੀ ਵੀ ਹੈ।"
+
+#: slideshow.xml:59(para)
+#, fuzzy
+msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "ਓਪਨਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਤੁਸੀਂ ਲਵੋਗੇ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ-ਮਾਰਕੀਟ ਵਿੱਚ ਉਪਲੱਬਧ ਸਭ ਤੋਂ ਵਧੀਆ ਵੈੱਬ ਬਰਾਊਜ਼ਰ। ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਰਾਊਜ਼ਰ ਦੇ ਸਭ ਫੀਚਰ, ਜਿੰਨ੍ਹਾਂ ਵਿੱਚ ਜਾਵਾ, ਅਡੋਬ ਰੀਡਰ, ਰੀਅਲ-ਪਲੇਅਰ ਅਤੇ ਮਾਈਕਰੋਮੀਡਿਆ ਫਲੈਸ਼ ਪਲੱਗਇਨ ਆਦਿ ਫੀਚਰ ਦੇ ਨਾਲ ਨਾਲ ਬਹੁਤ ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਵੀ ਸ਼ਾਮਲ ਹੈ। ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਿਜਲੀ ਦੀ ਤੇਜ਼ੀ, ਅਤੇ ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਬਚਾਉਣ ਅਤੇ ਫਿਸ਼ਿੰਗ ਹਮਲਿਆਂ ਨੂੰ ਰੋਕਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ।"
+
+#: slideshow.xml:65(para)
+#, fuzzy
+msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgstr "ਓਪਨਸੂਸੇ ਨਾਲ ਨੋਵਲ ਈਵੂਲੇਸ਼ਨ ਅਤੇ ਕੌਨਟਿਕਟ, ਪੂਰਾ ਈਮੇਲ ਅਤੇ ਸੰਪਰਕ ਪਰਬੰਧ ਐਪਲੀਕੇਸ਼ਨ ਹਨ। ਤੁਰੰਤ ਮੈਸਜ਼ਿੰਗ ਲਈ,ਓਪਨਸੂਸੇ ਵਿੱਚ ਸੌਖੀ ਤਰ੍ਹਾਂ ਵਰਤਣ ਵਾਸਤੇ ਸਭ ਹਰਮਨਪਿਆਰੇ ਪਰੋਟੋਕਾਲਾਂ ਨੂੰ ਮੱਦਦਗਾਰ IM ਕਲਾਇਟ ਹਨ, ਜਿਸ ਵਿੱਚ ਹਨ: AIM, ਗੂਗਲ ਟਾਕ, ਜੱਬਰ, MSN, ਯਾਹੂ!, ਗਰੁੱਪਵਾਈਜ਼ ਅਤੇ ਕਈ ਹੋਰ।"
+
+#: slideshow.xml:74(title)
+msgid "Create, View and Listen"
+msgstr "ਬਣਾਓ, ਵੇਖੋ ਅਤੇ ਸੁਣੋ"
+
+#: slideshow.xml:75(para)
+#, fuzzy
+msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
+msgstr "ਇੰਟਰਨੈੱਟ ਤੋਂ ਟਿਊਨਾਂ ਡਾਊਨਲੋਡ ਕਰੋ। ਆਪਣੀ ਨਿੱਜੀ ਪਸੰਦ ਮੁਤਾਬਕ ਸੰਗੀਤ ਲਾਇਬਰੇਰੀ ਬਣਾਉਣ ਲਈ CD ਰਿਪ ਕਰੋ। ਆਪਣੀ ਪਲੇਅ-ਲਿਸਟ ਆਨਲਾਇਨ ਸੁਣੋ। CD ਜਾਂ DVD ਬਰਨ ਕਰੋ। ਆਪਣੀਆਂ ਫਾਇਲਾਂ ਨੂੰ iPoD ਜਾਂ ਮੀਡਿਆ ਪਲੇਅਰ ਕਾਪੀ ਕਰੋ ਅਤੇ ਆਪਣੇ ਗਾਣੇ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ। ਸ਼ਾਨਦਾਰ ਗਰਾਫਿਕਲ ਐਡੀਟਰਾਂ ਨਾਲ ਡਿਜ਼ੀਟਲ ਤਸਵੀਰਾਂ ਵੇਖੋ ਅਤੇ ਸੋਧੋ। ਇਹ ਸਭ ਸੌਖਾ ਹੈ ਓਪਨ-ਸੂਸੇ (openSUSE) ਨਾਲ।"
+
+#: slideshow.xml:85(title)
+msgid "Documents, Spreadsheets and More"
+msgstr "ਡੌਕੂਮੈਂਟ, ਸਪਰੈੱਡਸ਼ੀਟਾਂ ਅਤੇ ਹੋਰ"
+
+#: slideshow.xml:87(para)
+#, fuzzy
+msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr "ਓਪਨ-ਸੂਸੇ 11.1 ਡਿਸ਼ਟਰੀਬਿਊਸ਼ਨ ਮੋਹਰੀ ਲੀਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸੂਟ, ਓਪਨ-ਆਫਿਸ.ਆਰਗ (OpenOffice.org) ਦੇ ਨਵੇਂ ਵਰਜਨ ਉਪਲੱਬਧ ਕਰਵਾ ਰਿਹਾ ਹੈ। ਇਸ ਦੇ ਫੀਚਰਾਂ ਵਿੱਚ ਇੱਕ ਵਰਡ ਪਰੋਸੈਸਰ, ਸਪਰੈੱਡ ਸ਼ੀਟ ਐਪਲੀਕੇਸ਼ਨ, HTML ਐਡੀਟਰ, ਪਰਿਜ਼ੈੱਨਟੇਸ਼ਨ ਡਿਜ਼ਾਇਨਰ ਅਤੇ ਡਾਟਾਬੇਸ ਮੈਨੇਜਰ ਹਨ। ਇਹ ਕਈ ਫਾਇਲ ਐਕਸ਼ਟੈਸ਼ਨਾਂ ਨੂੰ ਪੜ੍ਹ ਅਤੇ ਲਿਖ ਸਕਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ ਅਤੇ ਹੋਰ ਹਰਮਨ-ਪਿਆਰੇ ਗ਼ੈਰ-ਲੀਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸਾਫਟਵੇਅਰਾਂ ਵਿੱਚ ਆਸਾਨੀ ਨਾਲ ਲੈ ਕੇ ਜਾ ਆ ਸਕੋ। ਓਪਨ-ਆਫਿਸ ਰਿਪੋਰਟਾਂ, ਪੇਪਰਾਂ,ਘਰ ਬਜਟ, ਸਧਾਰਨ ਗਰਾਫਿਕਸ ਅਤੇ ਹੋਰ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਚੋਣ ਹੈ।"
+
+#: slideshow.xml:98(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "ਗਰਾਫਿਕਸ, ਗਰਾਫਿਕਸ, ਗਰਾਫਿਕਸ"
+
+#: slideshow.xml:100(para)
+#, fuzzy
+msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgstr "ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਉਪਲੱਬਧ ਟੂਲਾਂ ਨਾਲ, ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੇ ਗਰਾਫਿਕਸ ਬਣਾ ਜਾਂ ਸੋਧ ਸਕਦੇ ਹੋ। ਤਕਨੀਕੀ ਚਿੱਤਰ ਕਾਰਵਾਈਆਂ ਅਤੇ ਗਰਾਫਿਕਸ ਬਣਾਉਣ ਲਈ, ਸ਼ਾਨਦਾਰ ਜੈਮਪ (GIMP) ਟੂਲ ਵਰਤੋਂ, ਜਿਸ ਵਿੱਚ ਰੀ-ਟੱਚਿੰਗ, ਕੰਪੋਜ਼ੀਸ਼ਨ ਅਤੇ ਆਥਰਿੰਗ ਸਹੂਲਤਾਂ ਹਨ।"
+
+#: slideshow.xml:105(para)
+#, fuzzy
+msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgstr "ਵੈਕਟਰ ਗਰਾਫਿਕਸ ਲਈ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਇਕਸਪੇਸ ਹੈ। ਇਹ ਵੈਕਟਰ ਅਧਾਰਿਤ ਗਰਾਫਿਕਸ ਟੂਲ ਟਰਾਂਸਪੇਰਟ ਲੇਅਰਾਂ, ਬਿੱਟਮੈਪ ਟਰੇਸਿੰਗ, ਟੈਕਸਟ ਮਾਰਗ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਉਪਲੱਬਧ ਕਰਵਾਉਦਾ ਹੈ।"
+
+#: slideshow.xml:113(title)
+msgid "Computing On-the-Go"
+msgstr "ਆਨ-ਦਾ-ਗੋ ਕੰਪਿਊਟਿੰਗ"
+
+#: slideshow.xml:115(para)
+#, fuzzy
+msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
+msgstr "ਓਪਨਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਸਭ ਤੋਂ ਨਵੇਂ ਮੋਬਾਇਲਟੀ ਫੀਚਰ ਹਨ। ਓਪਨਸੂਸੇ ਵਿੱਚ ਨੈੱਟਵਰਕ-ਮੈਨੇਜਰ ਰਾਹੀਂ ਬੇਤਾਰ ਅਤੇ ਤਾਰ ਵਾਲੇ ਨੈੱਟਵਰਕ ਵਿੱਚ ਸੌਖੀ ਤਰ੍ਹਾਂ ਬਦਲੋ। ਮੋਬਾਇਲ ਜੰਤਰ, ਜਿਵੇਂ ਕਿ ਮੋਬਾਇਲ ਫੋਨ ਅਤੇ PDA ਨਾਲ ਬਲਿਊਟੁੱਥ ਜਾਂ ਇੰਫਰਾਰੈੱਡ ਪੋਰਟਾਂ ਰਾਹੀਂ ਕੁਨੈਕਟ ਕਰਕੇ ਆਪਣਾ ਡਾਟਾ ਸੈਕਰੋਨਾਇਜ਼ ਕਰੋ। "
+
+#: slideshow.xml:119(para)
+msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
+msgstr "ਓਪਨਸੂਸੇ ਵਲੋਂ ਪਾਵਰ ਪਰਬੰਧ ਦੀ ਨਵੀਂ ਪਹਿਲ ਨਾਲ ਆਪਣੀ ਮੋਬਾਇਲਟੀ ਵਧਾਓ ਅਤੇ ਆਪਣਾ ਕੰਮ ਕਿਤੇ ਵੀ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਣ ਦੀ ਆਜ਼ਾਦੀ ਦਾ ਫਾਇਦਾ ਲਵੋ।"
+
+#: slideshow.xml:127(title)
+msgid "Your operating system - respecting privacy - providing security"
+msgstr ""
+
+#: slideshow.xml:129(para)
+#, fuzzy
+msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgstr "ਆਪਣੇ ਸਿਸਟਮ ਅਤੇ ਡਾਟੇ ਨੂੰ ਇੰਟਰਨੈੱਟ ਹਮਲਾਵਾਰਾਂ (intruders) ਤੋਂ ਬਚਾਉਣ ਲਈ ਸੂਸੇ ਫਾਇਰਵਾਲ (SUSE Firewall) ਵਰਤੋਂ। ਇਹ ਸੁਰੱਖਿਆ ਜੰਟਰ ਨੂੰ ਡਿਫਾਲਟ ਹੀ ਐਕਟਿਵੇਟ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਸੰਰਚਿਤ ਕਰਨਾ ਬਹੁਤ ਆਸਾਨ ਹੈ। ਪਰ ਫੇਰ ਵੀ ਤੁਸੀਂ ਆਪਣੇ ਸਿਸਟਮ ਨੂੰ ਓਪਨ-ਸੂਸੇ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਹੋਰ ਵੀ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਸ ਵਿੱਚ ਅੱਪਾਰਮੋਰ (AppArmor), ਅੱਜ ਤੱਕ ਉਪਲੱਬਧ ਸਭ ਤੋਂ ਪਰਭਾਵੀ ਅਤੇ ਵਰਤਣ ਲਈ ਆਸਾਨ ਲਿਨਕਸ ਸੁਰੱਖਿਆ ਸਿਸਟਮ ਹੈ, ਵੀ ਉਪਲੱਬਧ ਹੈ। ਅੱਪਾਰਮੋਰ ਪਰੋ-ਐਕਟਿਵਲੀ ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਅਤੇ ਕਾਰਜਾਂ ਨੂੰ ਅੰਦਰੂਨੀ ਜਾਂ ਬਾਹਰੀ ਹਮਲਿਆਂ ਤੋਂ ਬਚਾਉਦਾ ਹੈ।"
+
+#. for the online update feature, see bnc#793710
+#: slideshow.xml:133(para)
+#, fuzzy
+msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgstr "ਸੂਸੇ ਫਾਇਰਵਾਲ ਅਤੇ ਅੱਪਾਰਮੋਰ ਤੋਂ ਇਲਾਵਾ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਇੱਕ ਖਾਸ ਸੁਰੱਖਿਆ ਪੈਚ ਅੱਪਡੇਟ ਸਿਸਟਮ ਹੈ। ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਕਿ ਤੁਹਾਡੇ ਸਿਸਟਮ ਉੱਤੇ ਸਭ ਤੋਂ ਨਵੇਂ ਸੁਰੱਖਿਆ ਪੈਚ ਉਪਲੱਬਧ ਹਨ, ਤੁਸੀਂ ਇਹ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਹੋਣ ਦੇ ਬਾਅਦ ਇੱਕ ਆਨਲਾਇਨ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ। ਅਤੇ ਇਸ ਫੀਚਰ ਦੇ ਪੂਰਾ ਹੋਣ ਬਾਅਦ, ਤੁਹਾਨੂੰ ਖਾਸ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਦੀ ਮੌਜੂਦਗੀ ਬਾਰੇ ਜਾਣਕਾਰੀ ਆਟੋਮੈਟਿਕ ਹੀ ਦਿੱਤੀ ਜਾਵੇਗੀ ਤਾਂ ਕਿ ਤੁਸੀਂ ਆਪਣੀ ਸਹੂਲਤ ਮੁਤਾਬਕ ਉਨ੍ਹਾਂ ਨੂੰ ਇੰਸਟਾਸ ਕਰ ਸਕੋ।"
+
+#: slideshow.xml:145(title)
+msgid "Virtualization Technology and Application Development Tools"
+msgstr "ਵੁਰਚੁਅਲ ਤਕਨਾਲੋਜੀ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪਮਿੰਟ ਟੂਲ"
+
+#: slideshow.xml:147(para)
+#, fuzzy
+msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgstr "ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਜ਼ੈਨ ਹਾਈਪਰਵਿਜ਼ਰ (Xen hypervisor) ਹੈ - ਸਭ ਤੋਂ ਵਧੀਆ ਉਪਲੱਬਧ ਵੁਰਚੁਲਾਈਜ਼ੇਸ਼ਨ ਸਾਫਟਵੇਅਰ ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਨੈੱਟਵਰਕ ਫਾਇਲ ਸ਼ੇਅਰਿੰਗ, ਪਰਿੰਟਿੰਗ (CUPS) ਅਤੇ ਵੈੱਬ ਹੋਸਟਿੰਗ (ਆਪਚੇ) ਲਈ ਟੂਲ ਉਪਲੱਬਧ ਹਨ। ਐਪਲੀਕੇਸ਼ਨ (ਕਾਰਜ) ਡਿਵੈਲਪਮਿੰਟ ਲਈ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਰਨ-ਟਾਇਮ ਇੰਵਾਇਰਨਮਿੰਟ ਦੇ ਪੂਰੇ ਸੈੱਟ ਤੋਂ ਬਿਨਾਂ, ਖਾਸ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪਮਿੰਟ ਟੂਲ ਉਪਲੱਬਧ ਹਨ, ਜਿਸ ਵਿੱਚ KDevelop, Eclipse, ਅਤੇ ਮੋਨੋ ਹਨ।"
+
+#: slideshow.xml:157(title)
+msgid "Learn More"
+msgstr "ਹੋਰ ਜਾਣੋ"
+
+#: slideshow.xml:158(para)
+#, fuzzy
+msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgstr "ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਖਾਸ ਓਪਨ-ਸੂਸੇ ਸਵਾਲਾਂ ਦੇ ਨਾਲ ਨਾਲ ਆਮ ਲੀਨਕਸ ਨਾਲ ਸਬੰਧਿਤ ਸਵਾਲਾਂ ਲਈ ਖਾਸ ਡੌਕੂਮੈਂਟ ਵੀ ਉਪਲੱਬਧ ਹਨ। ਮੱਦਦ ਸੈਂਟਰ ਮੁੱਖ ਮੇਨੂ ਰਾਹੀਂ ਵੀ ਉਪਲੱਬਧ ਹੈ। ਡੌਕੂਮੈਂਟ PDF ਦੇ ਰੂਪ ਵਿੱਚ ਵੀ ਉਪਲੱਬਧ ਹਨ ਅਤੇ (http://en.opensuse.org/Documentation) ਤੋਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਅਤੇ ਪਰਿੰਟ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।"
+
+#: slideshow.xml:168(para)
+#, fuzzy
+msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
+msgstr "ਓਪਨ-ਸੂਸੇ ਵਿਕਿ (http://en.opensuse.org/ ਉੱਤੇ) ਹੋਰ ਜਾਣਕਾਰੀ ਵੀ ਉਪਲੱਬਧ ਹੈ। \"Documentation\" ਹੇਠ, ਹੋਰ ਓਪਨ-ਸੂਸੇ ਯੂਜ਼ਰਾਂ ਰਾਹੀਂ ਬਣਾਈ ਅਤੇ ਸੰਭਾਲੀ ਜਾਂਦੀ ਲਾਭਦਾਇਕ ਜਾਣਕਾਰੀ ਲਈ ਦਿੱਤੇ ਲਿੰਕ ਵੇਖੋ।ਤੁਸੀਂ ਓਫੀਸ਼ਲ ਨੋਵਲ ਵੈੱਬ ਸਾਇਟ ਉੱਤੇ ਉਪਲੱਬਧ ਡੌਕੂਮੈਂਟਾਂ ਲਈ ਲਿੰਕ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ। ਖਾਸ ਓਪਨ-ਸੂਸੇ ਸਮੱਸਿਆਵਾਂ ਨਾਲ ਮੱਦਦ ਲਈ, www.opensuse.org ਉੱਤੇ ਸਹਿਯੋਗ ਡਾਟਾਬੇਸ ਚੈੱਕ ਕਰੋ।"
+
+#: slideshow.xml:179(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr ""
+
+#: slideshow.xml:188(para)
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ ਨਾਲ ਕੁਝ ਵੀ ਬਿਲਡ ਕਰ ਸਕਦੇ ਹੋ। ਨਵੇਂ ਪੈਕੇਜ ਵਿਲੱਖਣ ਅਤੇ ਪਰਭਾਵੀ ਓਪਨ-ਸੂਸੇ ਬਿਲਡ ਸਰਵਿਸ ਨਾਲ ਕਈ ਲਿਨਕਸ ਡਿਸਟਰੀਊਸ਼ਨਾਂ ਲਈ ਬਿਲਡ ਕਰਨੇ ਅਤੇ ਸਾਂਝੇ ਕਰਨੇ ਸੌਖੇ ਹੋ ਗਏ ਹਨ। ਆਓ openSUSE.org ਉੱਤੇ ਸਹਿਯੋਗ ਕਰੋ।"
+
+#: slideshow.xml:197(title)
+#, fuzzy
+msgid "SUSE and Linux"
+msgstr "ਨੋਵਲ ਅਤੇ ਲੀਨਕਸ"
+
+#: slideshow.xml:198(para)
+#, fuzzy
+msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
+msgstr "ਨੋਵਲ ਲੀਨਕਸ ਉੱਤੇ ਤੁਹਾਡੀ ਸਫ਼ਲਤਾ ਲਈ ਵਚਨਬੱਧ ਹੈ। openSUSE ਦੇ ਨਾਲ ਨਾਲ, ਨੋਵਲ ਤੁਹਾਡੇ ਵੱਡੇ ਅਤੇ ਛੋਟੇ ਬਿਜ਼ਨਸ ਦੀ ਲੋੜ ਮੁਤਾਬਕ ਕਈ ਵਧੀਆ ਪਰੋਡੱਕਟ ਸੂਟ ਉਪਲੱਬਧ ਕਰਵਾਉਦਾ ਹੈ।"
+
+#: slideshow.xml:203(para)
+#, fuzzy
+msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgstr "ਨੋਵਲ (Novell) ਵਲੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿਨਕਸ ਪਰੋਡੱਕਟ ਵਿੱਚ SUSE ਲਿਨਕਸ ਇੰਟਰਪਰਾਈਜ਼ ਸਰਵਰ (SLES), SUSE ਲਿਨਕਸ ਇੰਟਰਪਰਾਈਜ਼ ਡੈਸਕਟਾਪ (SLED) ਅਤੇ ਨੋਵਲ ਓਪਨ ਇੰਟਰਪਾਈਜ਼ ਸਰਵਰ (NOES) ਸ਼ਾਮਲ ਹਨ। ਸਾਡੇ ਇੰਟਰਪਰਾਈਜ਼ ਪਰੋਡੱਕਟ ਨੂੰ ਸੱਤ ਸਾਲ ਦੀ ਮੇਨਟੇਨਸ ਗਾਰੰਟੀ ਅਟੇ ਚੋਣਵੇਂ ਸਪੋਰਟ ਪਰੋਗਰਾਮਾਂ ਨਾਲ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।ਨੋਵਲ ਤੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿਨਕਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਈ http://www.novell.com/linux ਵੇਖੋ।"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ <aalam@users.sf.net> 2007, 2008"
+
+#, fuzzy
+#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.2."
+#~ msgstr "ਭਾਵੇਂ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ, ਰਿਸ਼ਤੇਦਾਰਾਂ ਜਾਂ ਸਹਿਯੋਗੀਆਂ ਨਾਲ ਕਮਿਊਨੀਕੇਸ਼ਨ ਕਰਨ ਲਈ ਵਰਤਣਾ ਹੋਵੇ, ਜਾਂ ਆਪਣੀਆਂ ਤਸਵੀਰਾਂ ਅਤੇ ਸੰਗੀਤ ਦਾ ਆਨੰਦ ਮਾਣਨ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਦੇਖਭਾਲ ਲਈ, ਜਾਂ ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ ਜਾਂ ਜਾਣਕਾਰੀ ਲਈ ਲੈਣ ਵਾਸਤੇ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ, ਜਾਂ ਇੱਕ ਰਿਪੋਰਟ ਜਾਂ ਬਜਟ ਲਿਖਣ ਵਾਸਤੇ ਜਾਂ ਨਿੱਜੀ ਵੈੱਬ ਸਾਇਟ ਹੋਸਟ ਕਰਨ ਲਈ ਜਾਂ ਘਰੇ ਨੈੱਟਵਰਕ ਬਣਾਉਣ ਲਈ ਵਰਤਣ ਹੋਵੇ, ਤੁਸੀਂ openSUSE 11.1 ਵਿੱਚ ਸਭ ਕੁਝ ਲੱਭ ਸਕਦੇ ਹੋ।"
+
+#, fuzzy
+#~| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+#~ msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE 13.2."
+#~ msgstr "ਇੰਟਰਨੈੱਟ ਤੋਂ ਟਿਊਨਾਂ ਡਾਊਨਲੋਡ ਕਰੋ। ਆਪਣੀ ਨਿੱਜੀ ਪਸੰਦ ਮੁਤਾਬਕ ਸੰਗੀਤ ਲਾਇਬਰੇਰੀ ਬਣਾਉਣ ਲਈ CD ਰਿਪ ਕਰੋ। ਆਪਣੀ ਪਲੇਅ-ਲਿਸਟ ਆਨਲਾਇਨ ਸੁਣੋ। CD ਜਾਂ DVD ਬਰਨ ਕਰੋ। ਆਪਣੀਆਂ ਫਾਇਲਾਂ ਨੂੰ iPoD ਜਾਂ ਮੀਡਿਆ ਪਲੇਅਰ ਕਾਪੀ ਕਰੋ ਅਤੇ ਆਪਣੇ ਗਾਣੇ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ। ਸ਼ਾਨਦਾਰ ਗਰਾਫਿਕਲ ਐਡੀਟਰਾਂ ਨਾਲ ਡਿਜ਼ੀਟਲ ਤਸਵੀਰਾਂ ਵੇਖੋ ਅਤੇ ਸੋਧੋ। ਇਹ ਸਭ ਸੌਖਾ ਹੈ ਓਪਨ-ਸੂਸੇ (openSUSE) ਨਾਲ।"
+
+#, fuzzy
+#~| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgid "Using the tools in openSUSE 13.2, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgstr "ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਉਪਲੱਬਧ ਟੂਲਾਂ ਨਾਲ, ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੇ ਗਰਾਫਿਕਸ ਬਣਾ ਜਾਂ ਸੋਧ ਸਕਦੇ ਹੋ। ਤਕਨੀਕੀ ਚਿੱਤਰ ਕਾਰਵਾਈਆਂ ਅਤੇ ਗਰਾਫਿਕਸ ਬਣਾਉਣ ਲਈ, ਸ਼ਾਨਦਾਰ ਜੈਮਪ (GIMP) ਟੂਲ ਵਰਤੋਂ, ਜਿਸ ਵਿੱਚ ਰੀ-ਟੱਚਿੰਗ, ਕੰਪੋਜ਼ੀਸ਼ਨ ਅਤੇ ਆਥਰਿੰਗ ਸਹੂਲਤਾਂ ਹਨ।"
+
+#~ msgid "Keep Your System Secure and Up to Date"
+#~ msgstr "ਆਪਣੇ ਸਿਸਟਮ ਨੂੰ ਸੁਰੱਖਿਅਤ ਅਤੇ ਅੱਪਡੇਟ ਰੱਖੋ"
