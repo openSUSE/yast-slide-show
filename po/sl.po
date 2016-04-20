@@ -1,0 +1,218 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-15 18:12+0200\n"
+"PO-Revision-Date: 2005-08-24 17:37+0200\n"
+"Last-Translator: Janez Krek <janez.krek@euroteh.si>\n"
+"Language-Team: Slovenščina <sl@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms:  nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+#: slideshow.xml:14(title)
+#, fuzzy
+msgid "Slide Show"
+msgstr "Predstavitev SUSE Linuxa 10.1"
+
+#: slideshow.xml:17(title)
+#, fuzzy
+msgid "Welcome to openSUSE™!"
+msgstr "Dobrodošli v svetu SUSE Linuxa!"
+
+#: slideshow.xml:19(para)
+msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+msgstr ""
+
+#: slideshow.xml:25(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:27(para)
+#, fuzzy
+msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
+msgstr "SUSE Linux je ustvaril projekt OpenSUSE, ki ga sponzorira Novell. Namen projekta OpenSUSE je ustvariti najbolj uporaben odprtokodni operacijski sistem, SUSE Linux. Projekt gostuje na spletnem naslovu opensuse.org in vsebuje pregleden postopek razvoja, enostavne možnosti sodelovanja, obsežna razvojna okolja in preprost dostop do posameznih izdaj za vsakogar. Namen projekta OpenSUSE je ustvariti različico Linuxa, ki bo ustrezna za vsakršno uporabo na osebnem računalniku. Obiščite opensuse.org in se pridružite OpenSUSE skupnosti!"
+
+#: slideshow.xml:35(para)
+msgid "Visit en.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+msgstr ""
+
+#: slideshow.xml:40(title)
+msgid "openSUSE in Many Languages"
+msgstr ""
+
+#: slideshow.xml:42(para)
+msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
+msgstr ""
+
+#: slideshow.xml:51(title)
+msgid "Connect and Communicate"
+msgstr "Povežite se s svetovnim spletom!"
+
+#: slideshow.xml:53(para)
+#, fuzzy
+msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
+msgstr "SUSE Linux 10.1 nudi celoten obseg orodij za pregledovanje spletnih strani, urejanje elektronske pošte in celo najnovejša orodja za spletno telefonijo."
+
+#: slideshow.xml:59(para)
+#, fuzzy
+msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "Spletni brskalnik Firefox je najboljši brskalnik na trgu. Njegove prednosti so velike zmožnosti in raznovrstna uporabnost. Med drugim omogoča vključke za Javo, Adobe Reader, RealPlayer in Macromedia Flash. Hitrega delovanja niti ni potrebno posebej omenjati."
+
+#: slideshow.xml:65(para)
+msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgstr ""
+
+#: slideshow.xml:74(title)
+#, fuzzy
+msgid "Create, View and Listen"
+msgstr "Ustvarjajte, glejte in poslušajte"
+
+#: slideshow.xml:75(para)
+#, fuzzy
+msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
+msgstr "Pretočite glasbo s spleta ali si izdelajte zbirko glasbe na svojih zgoščenkah. Poslušajte internetne radijske postaje, zapecite si svojo CD ali DVD zgoščenko, shranite glasbene datoteke na iPOD ali podobno napravo, ki vam omogoča poslušanje glasbe kjerkoli. Urejajte digitalne fotografije z zmogljivimi urejevalniki slik. S SUSE Linuxom gre enostavno!"
+
+#: slideshow.xml:85(title)
+#, fuzzy
+msgid "Documents, Spreadsheets and More"
+msgstr "Dokumenti, preglednice, predstavitve....in še več!"
+
+#: slideshow.xml:87(para)
+#, fuzzy
+msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr "SUSE LINUX 10.1 prinaša najnovejšo različico vodilne pisarniške zbirke OpenOffice.org 2.0. Zbirka vsebuje urejevalnik besedil, preglednico, HTML urejevalnik, program za izdelavo predstavitev in bazo podatkov. Omogoča tudi branje in zapis formata datotek zelo razširjene pisarniške zbirke, ki pa na Linuxu ne deluje.OpenOffice.org predstavlja odlično izbiro za izdelavo poročil, člankov, domačih financ ali enostavnih slik."
+
+#: slideshow.xml:98(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "Grafika, grafika, grafika"
+
+#: slideshow.xml:100(para)
+#, fuzzy
+msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
+msgstr "Z orodji, vključenimi v SUSE Linux, lahko izdelate in urejate praktično vse grafične formate. Za napredne uporabnike in njihove zahteve je na voljo program GIMP, celovito orodje za urejanje slik, njihovo sestavljanje, spreminjanje in shranjevanje. GIMP vsebuje dovolj možnosti, da zadovolji tudi najbolj zahtevne uporabnike."
+
+#: slideshow.xml:105(para)
+#, fuzzy
+msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgstr "Za urejanje vektorske grafike preizkusite Inkspace, zmogljiv program s podporo za prosojnice, iskanje znotraj bitnih slik, vključevanje besedila  in še mnogo več."
+
+#: slideshow.xml:113(title)
+msgid "Computing On-the-Go"
+msgstr "Računalništvo na poti"
+
+#: slideshow.xml:115(para)
+msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
+msgstr ""
+
+#: slideshow.xml:119(para)
+msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
+msgstr ""
+
+#: slideshow.xml:127(title)
+msgid "Your operating system - respecting privacy - providing security"
+msgstr ""
+
+#: slideshow.xml:129(para)
+#, fuzzy
+msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgstr "Če je vaš računalnik priključen na internet, ga pred vdori z interneta varuje požarni zid SUSE Firewall. Njegova vključitev in nastavitev traja le trenutek, omogoča pa vam zelo veliko stopnjo varnosti pred vdori z interneta. SUSE Linux vsebuje AppArmor Lite, posebno izdajo inovativne varnostne rešitve podjetja Novell, ki dodatno varuje vaš sistem pred napadi."
+
+#. for the online update feature, see bnc#793710
+#: slideshow.xml:133(para)
+#, fuzzy
+msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgstr "SUSE Linux vsebuje tudi sistem za varnostno posodabljanje. Kakor hitro so na voljo varnostne posodobitve za Linux jedro in za programske pakete, vključene v SUSE Linux, vam omogočimo dostop do njih na posebnem strežniku. Če hočete zagotoviti, da vaš sistem vsebuje zadnje varnostne posodobitve, izberite možnost posodobitve s spleta ob koncu te namestitve. V bodoče vas bo o novih posodobitvah obveščal program za posodabljanje zen-updater, vi pa jih boste lahko nameščali po svoji presoji."
+
+#: slideshow.xml:145(title)
+#, fuzzy
+msgid "Virtualization Technology and Application Development Tools"
+msgstr "Zmogljiva orodja za domače omrežje in za razvoj programja"
+
+#: slideshow.xml:147(para)
+#, fuzzy
+msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgstr "SUSE Linux vsebuje orodja za zaščito podatkov in sistema pred vdori (požarni zid), orodje za skupno rabo datotek in tiskalnikov (Samba), spletno gostovanje (Apache) in virtualizacijo (XEN). Za razvoj programja je na voljo veliko število delovnih okolij in razvojnih orodij, med katerimi so KDevelop, Eclipse in Mono. Karkoli že si zamislite, s SUSE Linuxom lahko to tudi izpeljete. Na spletnih straneh openSUSE.org se lahko pridružite ostalim SUSE Linux uporabnikom in sodelujete pri razvoju novih programov in orodij za SUSE Linux."
+
+#: slideshow.xml:157(title)
+msgid "Learn More"
+msgstr ""
+
+#: slideshow.xml:158(para)
+msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgstr ""
+
+#: slideshow.xml:168(para)
+msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
+msgstr ""
+
+#: slideshow.xml:179(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr ""
+
+#: slideshow.xml:188(para)
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr ""
+
+#: slideshow.xml:197(title)
+#, fuzzy
+msgid "SUSE and Linux"
+msgstr "Novell in Linux"
+
+#: slideshow.xml:198(para)
+msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
+msgstr ""
+
+#: slideshow.xml:203(para)
+#, fuzzy
+msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgstr "Linija izdelkov Novell Enterprise Linux vsebuje SUSE LINUX Enterprise Server, Novell Open Enterprise Server in Novell Linux Desktop. Naši izdelki za podjetja vsebujejo jamstvo vzdrževanja v trajanju 5 let, dodatne programe za podporo in zaščitni program za Linux ."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "podatki o prevajalcih"
+
+#, fuzzy
+#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.2."
+#~ msgstr "Ne glede na to, ali uporabljate računalnik za spletno druženje s prijatelji, urejanje in pregledovanje slik in glasbe, pregledovanje zadnjih novic, pisanje poročil ali pregledovanje financ, gostovanje osebne strani ali za strežnik domačega omrežja, SUSE LINUX 10.1 vsebuje vse, kar potrebujete."
+
+#, fuzzy
+#~ msgid "Keep Your System Secure and Up to Date"
+#~ msgstr "Sistem naj bo varen in posodobljen"
+
+#, fuzzy
+#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
+#~ msgstr "Novell Evolution in Kontact sta celoviti orodji za urejanje elektronske pošte in stikov. SUSE Linux vsebuje tudi orodji Linphone in Twinkle - rešitvi za telefonijo preko interneta (VoIP), ki omogoča povezavo z ljudmi po vsem svetu."
+
+#~ msgid "The Latest Desktop Innovations"
+#~ msgstr "Najnovejše rešitve na vašem namizju"
+
+#, fuzzy
+#~ msgid "openSUSE provides you with a choice of the most usable graphical desktop environments. Choose from the most up-to-date Linux graphical environments--GNOME and KDE--each combining ease of use, contemporary functionality, and outstanding graphical design with the technological superiority of the Linux operating system."
+#~ msgstr "SUSE Linux vam nudi izbiro najbolj uporabnih namiznih okolij. Izbirate lahko med dvema najnovejšima grafičnima okoljema v Linuxu: GNOME 2.12 in KDE 3.5. Za obe so značilni enostavnost upravljanja, velika uporabnost in izvrsten grafični izgled ob tehnični dovršenosti operacijskega sistema Linux."
+
+#, fuzzy
+#~ msgid "If you run Linux on a laptop, you will be glad you chose openSUSE. It includes the most advanced mobility features. Switch between wireless and wired networks with our NetworkManager, connect with mobile phones and PDAs that support Bluetooth, and even use infrared ports to synchronize with cell phones or PalmOS devices. Of course, USB memory sticks are no problem. Finally, new power management features give you the option to \"suspend\" your session, saving it to disk or RAM. Not only does suspend allow you to turn off and restart the system faster, but when you do restart, you are exactly where you were when you stopped."
+#~ msgstr "Če uporabljate Linux na prenosnem računalniku, boste nadvse zadovoljni, da ste izbrali SUSE Linux. SUSE Linux vsebuje najnovejše mobilne možnosti: preklop med žičnim in brezžičnim omrežjem, priključitev mobilnih telefonov in dlančnikov, ki podpirajo Bluetooth, uporabo infrardečih vrat za uskladitev podatkov s PalmOS napravami. Uporaba USB pomnilnika seveda ne predstavlja težav. Ne nazadnje, novo upravljanje z energijo vam omogoča uporabo možnosti \"suspend\", ki vašo trenutno sejo shrani na disk. S tem se računalnik naslednjič ne le hitreje zažene, ampak lahko nadaljujete delo tam, kjer ste ga prej končali."
+
+#, fuzzy
+#~ msgid "Learn More with Documentation"
+#~ msgstr "Dokumentacija za pomoč in podporo"
+
+#, fuzzy
+#~ msgid "Remember to Register Your Software"
+#~ msgstr "Ne pozabite registrirati svoje programske opreme"
+
+#, fuzzy
+#~ msgid "When you complete the installation process, you have a chance to register this software at Novell. It only takes few seconds and is worth it. When you are registered, you receive early notification of important software updates."
+#~ msgstr "Po končani namestitvi programske opreme (ne bo trajala dolgo!), lahko svojo programsko opremo registrirate pri Novellu. Registracija traja le nekaj sekund in se izplača. Če se registrirate, boste obveščeni o pomembnih posodobitvah programske opreme , hkrati pa boste uvrščeni na seznam za beta testiranje novih zmožnosti in novih različic SUSE Linuxa."

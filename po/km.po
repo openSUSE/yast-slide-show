@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.km\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2015-10-19 10:05+0200\n"
+"POT-Creation-Date: 2016-04-15 18:12+0200\n"
 "PO-Revision-Date: 2012-08-14 08:40+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Khmer <support@khmeros.info>\n"
@@ -25,7 +25,17 @@ msgid "Welcome to openSUSE™!"
 msgstr "សូម​ស្វាគមន៍​ការ​មក​កាន់ openSUSE™!"
 
 #: slideshow.xml:19(para)
-msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+msgid ""
+"There is a reason why openSUSE is \"the makers' choice for sysadmins, "
+"developers and desktop users;\" openSUSE gives you choice and provides a "
+"user-friendly desktop, and feature-rich server environment. People torn "
+"between newer software and a long-term, highly stable Linux system turn to "
+"openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and "
+"contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 "
+"combines the proven SUSE core with the innovative spirit of open-source "
+"communities. That combinations gives makers choices and Leap 42.1 "
+"complements openSUSE's other release Tumbleweed, which caters to those who "
+"want continuously updated, tested and new stable packages."
 msgstr ""
 
 #: slideshow.xml:25(title)
@@ -33,20 +43,41 @@ msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
-msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "អូផឹន​ស៊ូស៊ី​គឺ​ជា​គម្រោង​សហគមន៍​ដែល​បាន​បង្កើត និង​គាំទ្រ​ដោយ​ស៊ូស៊ី ដើម្បី​ផ្ដល់​នូវ​វេទិកា​កុំព្យូទ័រ​ងាយស្រួល​ប្រើ​របស់​ពិភពលោក ។ មនុស្ស​ជា​ច្រើន​នៅ​​ជុំវិញ​ពិភព​លោក​ចែកចាយ​គម្រោង​អូផឹន​ស៊ូស៊ី​ដោយ​ខ្ចប់​កម្មវិធី សាកល្បង​កម្មវិធី សរសេរ​ឯកសារ និង​បកប្រែ​សមាសភាគ​ជា​ច្រើន​ជា​ភាសា​ផ្សេងៗ ។ ការងារ​ទាំងអស់​នោះ គឺ​អាច​ប្រើ​បាន​​ដោយ​សេរី​នៅ​ក្នុង​ការ​ចែកចាយ​លីនុច​អូផឹន​ស៊ូស៊ី ដោយគ្រាន់តែទៅកាន់វិបសាយ www.opensuse.org ។"
+msgid ""
+"openSUSE is a community project created and sponsored by SUSE to deliver the "
+"world's most user-friendly computing platform. Many people from around the "
+"world contribute to the openSUSE Project by packaging software, testing "
+"programs, writing documentation, and translating components into dozens of "
+"languages. All of that work is available for free in the openSUSE Linux "
+"distribution available at www.opensuse.org."
+msgstr ""
+"អូផឹន​ស៊ូស៊ី​គឺ​ជា​គម្រោង​សហគមន៍​ដែល​បាន​បង្កើត និង​គាំទ្រ​ដោយ​ស៊ូស៊ី ដើម្បី​ផ្ដល់​នូវ​វេទិកា​កុំព្យូទ័រ​ងាយស្រួល​ប្រើ​របស់​"
+"ពិភពលោក ។ មនុស្ស​ជា​ច្រើន​នៅ​​ជុំវិញ​ពិភព​លោក​ចែកចាយ​គម្រោង​អូផឹន​ស៊ូស៊ី​ដោយ​ខ្ចប់​កម្មវិធី សាកល្បង​កម្មវិធី សរសេរ​"
+"ឯកសារ និង​បកប្រែ​សមាសភាគ​ជា​ច្រើន​ជា​ភាសា​ផ្សេងៗ ។ ការងារ​ទាំងអស់​នោះ គឺ​អាច​ប្រើ​បាន​​ដោយ​សេរី​នៅ​ក្នុង​"
+"ការ​ចែកចាយ​លីនុច​អូផឹន​ស៊ូស៊ី ដោយគ្រាន់តែទៅកាន់វិបសាយ www.opensuse.org ។"
 
 #: slideshow.xml:35(para)
-msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
-msgstr "ចូល​ទស្សនា www.opensuse.org/How_to_Participate ដើម្បី​សិក្សា​អំពី​របៀប​ចូលរួម​សហគមន៍​អូផឹន​ស៊ូស៊ី ។"
+#, fuzzy
+msgid ""
+"Visit en.opensuse.org/How_to_Participate to learn how you can join the "
+"openSUSE community."
+msgstr ""
+"ចូល​ទស្សនា www.opensuse.org/How_to_Participate ដើម្បី​សិក្សា​អំពី​របៀប​ចូលរួម​សហគមន៍​អូផឹន​ស៊ូស៊ី ។"
 
 #: slideshow.xml:40(title)
 msgid "openSUSE in Many Languages"
 msgstr "អូផឹន​ស៊ូស៊ី​មាន​ច្រើន​ភាសា"
 
 #: slideshow.xml:42(para)
-msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
-msgstr "ការ​ចេញ​ផ្សាយ​របស់​អូផឹន​ស៊ូស៊ី​មាន​ច្រើន​ភាសា ។ ការ​បកប្រែ​សម្រាប់​អូផឹន​ស៊ូស៊ី​កើតឡើង​តាមរយៈ​កិច្ចប្រឹងប្រែង​​របស់​ពួក​យើង ក្រុម​ភាសា​ដែល​បាន​ដឹកនាំ​ដោយ​សហគមន៍ ។ សូម​អរគុណ​ចំពោះ​ការ​ចូល​រួម​របស់​អ្នក ។ ស្វែងរក​ខ្លោងទ្វារ​​បណ្ដាញ​នៃ​ការ​បកប្រែ​នៅ ៖ http://i18n.opensuse.org/"
+msgid ""
+"The openSUSE distribution is available in many languages. Localization for "
+"openSUSE software occurs through the efforts of our hard-working, community-"
+"driven language teams. Thank you to all of our contributors. Find the "
+"localization portal at: http://i18n.opensuse.org/"
+msgstr ""
+"ការ​ចេញ​ផ្សាយ​របស់​អូផឹន​ស៊ូស៊ី​មាន​ច្រើន​ភាសា ។ ការ​បកប្រែ​សម្រាប់​អូផឹន​ស៊ូស៊ី​កើតឡើង​តាមរយៈ​កិច្ចប្រឹងប្រែង​​របស់​ពួក​"
+"យើង ក្រុម​ភាសា​ដែល​បាន​ដឹកនាំ​ដោយ​សហគមន៍ ។ សូម​អរគុណ​ចំពោះ​ការ​ចូល​រួម​របស់​អ្នក ។ ស្វែងរក​ខ្លោងទ្វារ​​បណ្ដាញ​"
+"នៃ​ការ​បកប្រែ​នៅ ៖ http://i18n.opensuse.org/"
 
 #: slideshow.xml:51(title)
 msgid "Connect and Communicate"
@@ -54,21 +85,41 @@ msgstr "តភ្ជាប់ និង​ទំនាក់ទំនង"
 
 #: slideshow.xml:53(para)
 #, fuzzy
-#| msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
-msgstr "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១១.១ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​រួម​បញ្ចូល​បច្ចេកវិទ្យា​ Voice over IP ដ៏​ថ្មី​បំផុត ។"
+msgid ""
+"You can communicate more effectively with openSUSE Leap 42.1 because it "
+"provides a complete set of tools for Web browsing and e-mail management — it "
+"even includes the newest Voice over IP technology."
+msgstr ""
+"អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១១.១ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​"
+"សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​រួម​បញ្ចូល​បច្ចេកវិទ្យា​ Voice over IP ដ៏​ថ្មី​បំផុត ។"
 
 #: slideshow.xml:59(para)
 #, fuzzy
-#| msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "អូផឹន​ស៊ូស៊ី​រួមមាន​ Mozilla Firefox  ដែល​ជា​កម្មវិធី​រុករក​បណ្ដាញ​ដ៏​ល្បី​បំផុត​មួយ​ក្នុងចំណោម​កម្មវិធី​ទាំងឡាយ​ក្នុង​ពិភពលោក ។ Firefox រួម​មាន​​លក្ខណ​ពិសេស​ទាំង​អស់ ដែល​អ្នក​ត្រូវការ​សម្រាប់​ការ​ប្រើប្រាស់​បណ្ដាញ ដោយ​រួម​បញ្ចូល​ទាំង​បច្ចេកវិទ្យា​ HTML5 ដ៏​ថ្មី​បំផុត​ផងដែរ ។ ក្រៅពី​នេះ Firefox មាន​លក្ខណៈ​មួយ​ដែល​ដំណើរការ​លឿន​បំផុត​ ហើយ​ការ​ធ្វើឲ្យ​ប្រសើរ​ឡើង​មួយ​ចំនួន​ក៏​ត្រូវ​បាន​កំណត់​សម្រាប់​ការ​ការពារ​ភាព​ឯកជន​​​​ និង​ការ​វាយ​ប្រហារ​នានា​ផង​ដែរ ។"
+msgid ""
+"openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in "
+"the world. Firefox includes all the features you need to enjoy the Web, "
+"including the newest HTML5 technologies. Firefox also boasts lightning-fast "
+"performance, and a number of improvements designed to protect your privacy "
+"and prevent phishing attacks."
+msgstr ""
+"អូផឹន​ស៊ូស៊ី​រួមមាន​ Mozilla Firefox  ដែល​ជា​កម្មវិធី​រុករក​បណ្ដាញ​ដ៏​ល្បី​បំផុត​មួយ​ក្នុងចំណោម​កម្មវិធី​ទាំងឡាយ​ក្នុង​"
+"ពិភពលោក ។ Firefox រួម​មាន​​លក្ខណ​ពិសេស​ទាំង​អស់ ដែល​អ្នក​ត្រូវការ​សម្រាប់​ការ​ប្រើប្រាស់​បណ្ដាញ ដោយ​រួម​"
+"បញ្ចូល​ទាំង​បច្ចេកវិទ្យា​ HTML5 ដ៏​ថ្មី​បំផុត​ផងដែរ ។ ក្រៅពី​នេះ Firefox មាន​លក្ខណៈ​មួយ​ដែល​ដំណើរការ​លឿន​"
+"បំផុត​ ហើយ​ការ​ធ្វើឲ្យ​ប្រសើរ​ឡើង​មួយ​ចំនួន​ក៏​ត្រូវ​បាន​កំណត់​សម្រាប់​ការ​ការពារ​ភាព​ឯកជន​​​​ និង​ការ​វាយ​ប្រហារ​នានា​"
+"ផង​ដែរ ។"
 
 #: slideshow.xml:65(para)
 #, fuzzy
-#| msgid "Also included with openSUSE are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr "ដែល​ត្រូវ​បាន​រួមបញ្ចូល​ជាមួយ​អូផឹន​ស៊ូស៊ី​ផង​ដែរ​នោះ​ គឺ​ Evolution និង​ Kontact  វា​គឺ​កម្មវិធី​គ្រប់គ្រង​ទំនាក់ទំនង និង​អ៊ីមែល​ដ៏​ពេញលេញ​មួយ ។ សម្រាប់​ការ​ផ្ញើ​សារ​ជា​បន្ទាន់ លក្ខណ​ពិសេស​ដែល​ងាយស្រួល​ប្រើ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី​នោះ គឺ​កម្មវិធី​ IM ដែល​គាំទ្រ​គ្រប់​ពិធីការ​ដែល​ពេញនិយមទាំងអស់​ដូចជា ៖ AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise និង​ផ្សេងៗទៀត ។"
+msgid ""
+"Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-"
+"mail and contact management applications. For instant messaging, openSUSE "
+"features easy to use IM clients that support all of the popular protocols: "
+"AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+msgstr ""
+"ដែល​ត្រូវ​បាន​រួមបញ្ចូល​ជាមួយ​អូផឹន​ស៊ូស៊ី​ផង​ដែរ​នោះ​ គឺ​ Evolution និង​ Kontact  វា​គឺ​កម្មវិធី​គ្រប់គ្រង​"
+"ទំនាក់ទំនង និង​អ៊ីមែល​ដ៏​ពេញលេញ​មួយ ។ សម្រាប់​ការ​ផ្ញើ​សារ​ជា​បន្ទាន់ លក្ខណ​ពិសេស​ដែល​ងាយស្រួល​ប្រើ​នៅ​ក្នុង​អូផឹន​"
+"ស៊ូស៊ី​នោះ គឺ​កម្មវិធី​ IM ដែល​គាំទ្រ​គ្រប់​ពិធីការ​ដែល​ពេញនិយមទាំងអស់​ដូចជា ៖ AIM, Facebook, Google "
+"Talk, Jabber, MSN, Yahoo!, Groupwise និង​ផ្សេងៗទៀត ។"
 
 #: slideshow.xml:74(title)
 msgid "Create, View and Listen"
@@ -76,9 +127,17 @@ msgstr "បង្កើត មើល និង​ស្ដាប់"
 
 #: slideshow.xml:75(para)
 #, fuzzy
-#| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
-msgstr "ទាញ​យក​បទចម្រៀង​ពី​អ៊ីនធឺ​ណិត ។ ច្រៀក ស៊ីឌី ដើម្បី​បង្កើត​បណ្ណាល័យ​តន្ត្រី​ផ្ទាល់​ខ្លួន​​របស់​អ្នក ។ ស្ដាប់​បញ្ជី​ចាក់​របស់អ្នក​នៅលើ​បណ្ដាញ ។ ដុត ស៊ីឌី ឬ​ឌីវីឌី ។ ​ចម្លង​ឯកសារ​របស់​អ្នក​ទៅកាន់ iPod ឬ​កម្មវិធី​ចាក់ និង​យក​តន្ត្រី​របស់​អ្នក​ពី​កន្លែង​ណាមួយ​ ។ គ្រប់​គ្រង និង​កែ​សម្រួល​រូបភាពឌីជីថលដោយ​ប្រើ​កម្មវិធី​និពន្ធ​ក្រាហ្វិក​ដ៏មាន​អនុភាព ។ វា​ពិត​ជា​​ងាយ​ស្រួល​ជាមួយ​នឹង​អូផឹន​ស៊ូស៊ី ។"
+msgid ""
+"Download tunes from the Internet. Rip CDs to create your own customized "
+"music library. Listen to your playlist online. Burn CDs or DVDs. Copy your "
+"files to an iPod or media player and take your music anywhere. Manage and "
+"edit digital pictures with powerful graphics editors. It's all easy with "
+"openSUSE Leap 42.1."
+msgstr ""
+"ទាញ​យក​បទចម្រៀង​ពី​អ៊ីនធឺ​ណិត ។ ច្រៀក ស៊ីឌី ដើម្បី​បង្កើត​បណ្ណាល័យ​តន្ត្រី​ផ្ទាល់​ខ្លួន​​របស់​អ្នក ។ ស្ដាប់​បញ្ជី​ចាក់​"
+"របស់អ្នក​នៅលើ​បណ្ដាញ ។ ដុត ស៊ីឌី ឬ​ឌីវីឌី ។ ​ចម្លង​ឯកសារ​របស់​អ្នក​ទៅកាន់ iPod ឬ​កម្មវិធី​ចាក់ និង​យក​តន្ត្រី​"
+"របស់​អ្នក​ពី​កន្លែង​ណាមួយ​ ។ គ្រប់​គ្រង និង​កែ​សម្រួល​រូបភាពឌីជីថលដោយ​ប្រើ​កម្មវិធី​និពន្ធ​ក្រាហ្វិក​ដ៏មាន​អនុភាព ។ "
+"វា​ពិត​ជា​​ងាយ​ស្រួល​ជាមួយ​នឹង​អូផឹន​ស៊ូស៊ី ។"
 
 #: slideshow.xml:85(title)
 msgid "Documents, Spreadsheets and More"
@@ -86,8 +145,21 @@ msgstr "ឯកសារ សៀវភៅ​បញ្ជី និង​អ្វ�
 
 #: slideshow.xml:87(para)
 #, fuzzy
-msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "ការ​ចែកចាយ​អូផឹន​ស៊ូស៊ី ១២​.២ មាន​ភ្ជាប់​មក​ជាមួយ​នូវ​កំណែ​ចុងក្រោយបំផុត​​នៃ​ឈុត​នាំ​មុខ​គេ​របស់​លីនុច គឺ LibreOffice ។ វា​រួម​មាន​កម្មវិធី​វាយ​អត្ថបទ​ កម្មវិធី​សៀវភៅ​បញ្ជី កម្មវិធី​បង្កើត​ HTML កម្មវិធី​រចនាបទបង្ហាញ និង​កម្មវិធី​គ្រប់គ្រង​មូលដ្ឋាន​ទិន្នន័យ ។ វា​អាច​អាន​ និង​សរសេរ​ជា​ទ្រង់ទ្រាយ​ផ្សេងៗ រួម​ទាំង​​ទ្រង់ទ្រាយ​ Microsoft Office ផង​ដែរ ដូច្នេះ អ្នក​អាច​ផ្លាស់ទី​ទៅវិញ​ទៅមក​បាន​យ៉ាង​ងាយស្រួល​រវាង​អូផឹន​ស៊ូស៊ី និង​កម្មវិធី​ដ៏​ពេញ​និយម​ដែល​មិន​មែន​ជា​លីនុច ។ LibreOffice គឺ​ជា​ជម្រើស​ដ៏​ល្អ​បំផុត​សម្រាប់​របាយការណ៍ ក្រដាស ថវិកា​គ្រួសារ ក្រាហ្វិក​សាមញ្ញ និង​អ្វីៗ​ជាច្រើន​ទៀត ។"
+msgid ""
+"The openSUSE Leap 42.1 distribution comes complete with the latest version "
+"of the leading Linux productivity suite, LibreOffice. It features a word "
+"processor, spreadsheet application, HTML editor, presentation designer, and "
+"database manager. It reads and writes multiple formats—including Microsoft "
+"Office formats—so you can move back and forth easily between openSUSE and "
+"popular non-Linux productivity software. LibreOffice is the perfect choice "
+"for reports, papers, home budgets, simple graphics and more."
+msgstr ""
+"ការ​ចែកចាយ​អូផឹន​ស៊ូស៊ី ១២​.២ មាន​ភ្ជាប់​មក​ជាមួយ​នូវ​កំណែ​ចុងក្រោយបំផុត​​នៃ​ឈុត​នាំ​មុខ​គេ​របស់​លីនុច គឺ "
+"LibreOffice ។ វា​រួម​មាន​កម្មវិធី​វាយ​អត្ថបទ​ កម្មវិធី​សៀវភៅ​បញ្ជី កម្មវិធី​បង្កើត​ HTML កម្មវិធី​"
+"រចនាបទបង្ហាញ និង​កម្មវិធី​គ្រប់គ្រង​មូលដ្ឋាន​ទិន្នន័យ ។ វា​អាច​អាន​ និង​សរសេរ​ជា​ទ្រង់ទ្រាយ​ផ្សេងៗ រួម​ទាំង​​"
+"ទ្រង់ទ្រាយ​ Microsoft Office ផង​ដែរ ដូច្នេះ អ្នក​អាច​ផ្លាស់ទី​ទៅវិញ​ទៅមក​បាន​យ៉ាង​ងាយស្រួល​រវាង​អូផឹន​"
+"ស៊ូស៊ី និង​កម្មវិធី​ដ៏​ពេញ​និយម​ដែល​មិន​មែន​ជា​លីនុច ។ LibreOffice គឺ​ជា​ជម្រើស​ដ៏​ល្អ​បំផុត​សម្រាប់​របាយការណ៍ "
+"ក្រដាស ថវិកា​គ្រួសារ ក្រាហ្វិក​សាមញ្ញ និង​អ្វីៗ​ជាច្រើន​ទៀត ។"
 
 #: slideshow.xml:98(title)
 msgid "Graphics, Graphics, Graphics"
@@ -95,15 +167,24 @@ msgstr "ក្រាហ្វិក ក្រាហ្វិក ក្រាហ�
 
 #: slideshow.xml:100(para)
 #, fuzzy
-#| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "ដោយ​ប្រើ​​ឧបករណ៍​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី អ្នក​អាច​បង្កើត ឬ​កែសម្រួល​ស្ទើរ​តែ​គ្រប់​ប្រភេទ​ក្រាហ្វិក​បាន ។ ចំពោះ​ការ​បង្កើត​ក្រាហ្វិក និង​ការ​លាយ​រូបភាព​កម្រិត​ខ្ពស់ គឺ​ប្រើ​កម្មវិធី​ដែល​មាន​អានុភាព ដូចជា GIMP ដែល​ជា​​កម្មវិធី​កែកុន តែង និង​បង្កើត​រូបភាព ។"
+msgid ""
+"Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
+"type of graphic. For advanced image manipulation and graphics creation, use "
+"The GIMP a powerful tool for image retouching, composition, and authoring."
+msgstr ""
+"ដោយ​ប្រើ​​ឧបករណ៍​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី អ្នក​អាច​បង្កើត ឬ​កែសម្រួល​ស្ទើរ​តែ​គ្រប់​ប្រភេទ​ក្រាហ្វិក​បាន ។ ចំពោះ​ការ​"
+"បង្កើត​ក្រាហ្វិក និង​ការ​លាយ​រូបភាព​កម្រិត​ខ្ពស់ គឺ​ប្រើ​កម្មវិធី​ដែល​មាន​អានុភាព ដូចជា GIMP ដែល​ជា​​កម្មវិធី​"
+"កែកុន តែង និង​បង្កើត​រូបភាព ។"
 
 #: slideshow.xml:105(para)
 #, fuzzy
-#| msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "សម្រាប់​ក្រាហ្វិក​​ដែល​មាន​លក្ខណៈ​វ៉ិចទ័រ អូផឹន​ស៊ូស៊ី​រួម​បញ្ចូល​នូវ​កម្មវិធី Inkscape ។ ដំណោះស្រាយក្រាហ្វិក​ដែល​អាច​ផ្លាស់ប្ដូរ​បាន ផ្ដល់​នូវ​ការ​គាំទ្រ​សម្រាប់​ស្រទាប់​ថ្លា តាមដាន​រូបភាព​តូចៗ ផ្លូវ​អត្ថបទ និង​អ្វីៗ​ជាច្រើន​ទៀត ។"
+msgid ""
+"For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
+"graphics solution delivers support for transparent layers, bitmap tracing, "
+"text paths and much more."
+msgstr ""
+"សម្រាប់​ក្រាហ្វិក​​ដែល​មាន​លក្ខណៈ​វ៉ិចទ័រ អូផឹន​ស៊ូស៊ី​រួម​បញ្ចូល​នូវ​កម្មវិធី Inkscape ។ ដំណោះស្រាយក្រាហ្វិក​ដែល​អាច​"
+"ផ្លាស់ប្ដូរ​បាន ផ្ដល់​នូវ​ការ​គាំទ្រ​សម្រាប់​ស្រទាប់​ថ្លា តាមដាន​រូបភាព​តូចៗ ផ្លូវ​អត្ថបទ និង​អ្វីៗ​ជាច្រើន​ទៀត ។"
 
 #: slideshow.xml:113(title)
 msgid "Computing On-the-Go"
@@ -111,13 +192,23 @@ msgstr "ប្រើកុំព្យូទ័រ​គ្រប់​ទីក
 
 #: slideshow.xml:115(para)
 #, fuzzy
-#| msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
-msgstr "​អូផឹន​ស៊ូស៊ី រួម​មាន​លក្ខណៈ​ពិសេស​ចល័ត​កម្រិត​ខ្ពស់​បំផុត ។ អ្នក​អាច​ធ្វើការ​ផ្លាស់ប្ដូរ​រវាង​បណ្ដាញ​ឥត​ខ្សែ និង​មាន​ខ្សែ​ដោយ​ប្រើ NetworkManager ដែល​បាន​មក​ពី​អូផឹន​ស៊ូស៊ី ។ តភ្ជាប់​ជា​មួយ​ឧបករណ៍​ចល័ត​ដូចជា ទូរស័ព្ទ​ចល័ត និង PDAs តាមរយៈ​ប៊្លូសធូស ឬ​ប្រើ​ច្រក​អ៊ីនហ្វ្រារ៉េដ ដើម្បី​ធ្វើ​សមកាល​កម្ម​ទិន្នន័យ​របស់​អ្នក ។"
+msgid ""
+"openSUSE Leap 42.1 includes the most advanced mobility features. You can "
+"switch effortlessly between wireless and wired networks using "
+"NetworkManager. Connect with mobile devices like mobile phones, tablets and "
+"PDAs via Bluetooth."
+msgstr ""
+"​អូផឹន​ស៊ូស៊ី រួម​មាន​លក្ខណៈ​ពិសេស​ចល័ត​កម្រិត​ខ្ពស់​បំផុត ។ អ្នក​អាច​ធ្វើការ​ផ្លាស់ប្ដូរ​រវាង​បណ្ដាញ​ឥត​ខ្សែ និង​មាន​"
+"ខ្សែ​ដោយ​ប្រើ NetworkManager ដែល​បាន​មក​ពី​អូផឹន​ស៊ូស៊ី ។ តភ្ជាប់​ជា​មួយ​ឧបករណ៍​ចល័ត​ដូចជា ទូរស័ព្ទ​ចល័ត និង "
+"PDAs តាមរយៈ​ប៊្លូសធូស ឬ​ប្រើ​ច្រក​អ៊ីនហ្វ្រារ៉េដ ដើម្បី​ធ្វើ​សមកាល​កម្ម​ទិន្នន័យ​របស់​អ្នក ។"
 
 #: slideshow.xml:119(para)
-msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr "ការកែប្រែ​ថ្មី​បំផុត​នៅ​ក្នុង​ការ​គ្រប់គ្រង​ថាមពល​ពី​អូផឹន​ស៊ូស៊ី បង្កើន​នូវ​ភាព​ចល័ត​របស់​អ្នក និង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​សេរីភាព ដើម្បី​យក​ការងារ​របស់​អ្នក​ទៅ​គ្រប់​ទីកន្លែង​បាន ។"
+msgid ""
+"The newest innovations in power management from openSUSE increase your "
+"mobility and give you the freedom to take your work wherever you go."
+msgstr ""
+"ការកែប្រែ​ថ្មី​បំផុត​នៅ​ក្នុង​ការ​គ្រប់គ្រង​ថាមពល​ពី​អូផឹន​ស៊ូស៊ី បង្កើន​នូវ​ភាព​ចល័ត​របស់​អ្នក និង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​"
+"សេរីភាព ដើម្បី​យក​ការងារ​របស់​អ្នក​ទៅ​គ្រប់​ទីកន្លែង​បាន ។"
 
 #: slideshow.xml:127(title)
 msgid "Your operating system - respecting privacy - providing security"
@@ -125,15 +216,42 @@ msgstr ""
 
 #: slideshow.xml:129(para)
 #, fuzzy
-#| msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgstr "ជញ្ជាំង​ភ្លើង​ស៊ូស៊ី ជួយ​ការ​ពារ​សុវត្ថិភាព​ប្រព័ន្ធ និង​ទិន្នន័យ​របស់​អ្នក​ពី​​អ្នក​រំខាន​តាម​អ៊ីនធឺណិត ។ វា​ត្រូវបាន​ធ្វើ​ឲ្យ​សកម្ម​ជា​លំនាំដើម និង​ងាយស្រួល​ក្នុង​ការ​កំណត់​រចនា​សម្ព័ន្ធ ។ ប៉ុន្តែ​អ្នក​អាច​ធ្វើ​អ្វី​ជា​ច្រើន​ដើម្បី​ការពារ​ប្រព័ន្ធ​របស់​អ្នក​ជា​មួយ​អូផឹន​​ស៊ូស៊ី ពីព្រោះ​វា​ក៏​រួម​បញ្ចូល​នូវ AppArmor ដែល​មាន​ប្រសិទ្ធភាព​បំផុត និង​ងាយស្រួល​ប្រើ​​ប្រព័ន្ធ​សុវត្ថិភាព​​កម្មវិធី​របស់​លីនុច​ ដែល​អាច​រក​បាន​ក្នុង​ពេល​បច្ចុប្បន្ន ។AppArmor ការពារ​ប្រព័ន្ធ​ប្រតិបត្តិការ និង​ការពារ​កម្មវិធី​ពី​ការ​គំរាមកំហែង​ពី​ខាងក្នុង និង​ខាង​ក្រៅ ។"
+msgid ""
+"openSUSE builds something that puts you in control. Rolling or Stable, you "
+"decide. Unlike windows, you decide which updates get applied when. Unlike "
+"most distros, you decide which desktop you want (or none at all), you have "
+"tools like YaST to help you configure your machine and control your security "
+"and privacy. Secure your system and data from Internet intruders with SUSE "
+"Firewall. This security device is activated by default and easy to "
+"configure. But you can do even more to protect your system with openSUSE "
+"Leap 42.1 because it also includes AppArmor, the most effective and easy-to-"
+"use Linux application security system available today. AppArmor proactively "
+"protects your operating system and applications from internal or external "
+"threats."
+msgstr ""
+"ជញ្ជាំង​ភ្លើង​ស៊ូស៊ី ជួយ​ការ​ពារ​សុវត្ថិភាព​ប្រព័ន្ធ និង​ទិន្នន័យ​របស់​អ្នក​ពី​​អ្នក​រំខាន​តាម​អ៊ីនធឺណិត ។ វា​ត្រូវបាន​ធ្វើ​"
+"ឲ្យ​សកម្ម​ជា​លំនាំដើម និង​ងាយស្រួល​ក្នុង​ការ​កំណត់​រចនា​សម្ព័ន្ធ ។ ប៉ុន្តែ​អ្នក​អាច​ធ្វើ​អ្វី​ជា​ច្រើន​ដើម្បី​ការពារ​"
+"ប្រព័ន្ធ​របស់​អ្នក​ជា​មួយ​អូផឹន​​ស៊ូស៊ី ពីព្រោះ​វា​ក៏​រួម​បញ្ចូល​នូវ AppArmor ដែល​មាន​ប្រសិទ្ធភាព​បំផុត និង​ងាយស្រួល​ប្រើ​​"
+"ប្រព័ន្ធ​សុវត្ថិភាព​​កម្មវិធី​របស់​លីនុច​ ដែល​អាច​រក​បាន​ក្នុង​ពេល​បច្ចុប្បន្ន ។AppArmor ការពារ​ប្រព័ន្ធ​"
+"ប្រតិបត្តិការ និង​ការពារ​កម្មវិធី​ពី​ការ​គំរាមកំហែង​ពី​ខាងក្នុង និង​ខាង​ក្រៅ ។"
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:133(para)
 #, fuzzy
-msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
-msgstr "បន្ថែម​ពីលើ​ ជញ្ជាំង​ភ្លើង​របស់​ស៊ូស៊ី និង AppArmor អូផឹន​ស៊ូស៊ី​ក៏​រួមបញ្ចូល​ប្រព័ន្ធ​ធ្វើ​បច្ចុប្បន្នភាព​បំណះ​ដ៏​មាន​សុវត្ថិភាព​ផងដែរ ។ ដើម្បី​ធានា​ថា បំណះ​សុវត្ថិភាព​ចុងក្រោយ​បង្អស់​ត្រូវ​បាន​ដំឡើង​នៅ​លើ​ប្រព័ន្ធ​របស់​អ្នក អ្នក​អាច​ជ្រើស​ដើម្បី​អនុវត្ត​ការ​ធ្វើ​បច្ចុប្បន្នភាព​តាម​បណ្ដាញ​​នៅ​ពេល​បញ្ចប់​ដំណាក់កាល​ដំឡើង​បាន ។ ហើយ​ក្នុង​ពេល​អនាគត អ្នក​នឹង​ត្រូវ​បាន​ជូនដំណឹង​ដោយ​ស្វ័យប្រវត្តិ​អំពី​បច្ចុប្បន្នភាព​សុវត្ថិភាព​ចម្បង​ដែល​មាន ដូច្នេះ​អ្នក​អាច​ដំឡើង​ពួកវា​បាន​យ៉ាង​ងាយស្រួល ។"
+msgid ""
+"In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes "
+"a special security patch update system. To ensure that the latest security "
+"patches are installed on your system, you can choose to perform an online "
+"update at the end of this installation procedure (if you did not choose the "
+"automatic installation modus at the beginning). And in the future, you will "
+"be automatically informed of the availability of important security updates, "
+"so you can install them at your convenience."
+msgstr ""
+"បន្ថែម​ពីលើ​ ជញ្ជាំង​ភ្លើង​របស់​ស៊ូស៊ី និង AppArmor អូផឹន​ស៊ូស៊ី​ក៏​រួមបញ្ចូល​ប្រព័ន្ធ​ធ្វើ​បច្ចុប្បន្នភាព​បំណះ​ដ៏​មាន​"
+"សុវត្ថិភាព​ផងដែរ ។ ដើម្បី​ធានា​ថា បំណះ​សុវត្ថិភាព​ចុងក្រោយ​បង្អស់​ត្រូវ​បាន​ដំឡើង​នៅ​លើ​ប្រព័ន្ធ​របស់​អ្នក អ្នក​"
+"អាច​ជ្រើស​ដើម្បី​អនុវត្ត​ការ​ធ្វើ​បច្ចុប្បន្នភាព​តាម​បណ្ដាញ​​នៅ​ពេល​បញ្ចប់​ដំណាក់កាល​ដំឡើង​បាន ។ ហើយ​ក្នុង​ពេល​"
+"អនាគត អ្នក​នឹង​ត្រូវ​បាន​ជូនដំណឹង​ដោយ​ស្វ័យប្រវត្តិ​អំពី​បច្ចុប្បន្នភាព​សុវត្ថិភាព​ចម្បង​ដែល​មាន ដូច្នេះ​អ្នក​អាច​"
+"ដំឡើង​ពួកវា​បាន​យ៉ាង​ងាយស្រួល ។"
 
 #: slideshow.xml:145(title)
 msgid "Virtualization Technology and Application Development Tools"
@@ -141,9 +259,18 @@ msgstr "បច្ចេកទេស​និម្មិត និង​ឧប�
 
 #: slideshow.xml:147(para)
 #, fuzzy
-#| msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
-msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
-msgstr "អូផឹន​ស៊ូស៊ី រួមបញ្ចូល​នូវ​កម្មវិធី​និម្មិត​ដែល​មាន​សមត្ថភាព​ខ្ពស់​បំផុត គឺ​កម្មវិធី​ត្រួតពិនិត្យ​ម៉ាស៊ីន​និម្មិត XEN ។ លើស​ពីនេះ អូផឹន​ស៊ូស៊ី​ផ្ដល់​នូវ​ឧបករណ៍​សម្រាប់​ការ​ចែករំលែក​ឯកសារ​តាម​បណ្ដាញ (Samba, NFS ។ល។) ការ​បោះពុម្ព (CUPS) និង​ការ​បង្ហោះ​បណ្ដាញ (Apache) ។ ចំពោះ​ការ​អភិវឌ្ឍ​កម្មវិធី អូផឹន​ស៊ូស៊ី​មាន​ភ្ជាប់​មក​ជាមួយ​នូវ​សំណុំ​បរិស្ថាន​ពេលវេលា​រត់​ពេញលេញ បូក​រួម​ទាំង​​ឧបករណ៍​អភិវឌ្ឍន៍​កម្មវិធី​ដ៏​ធំ​ទូលាយ ។"
+msgid ""
+"Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is "
+"one of the most robust solutions for virtualization available. In addition, "
+"openSUSE provides tools for network file sharing (Samba, NFS, etc.), "
+"printing (CUPS) and Web hosting (Apache). For application development, "
+"openSUSE comes with a complete set of runtime environments plus extensive "
+"application development tools."
+msgstr ""
+"អូផឹន​ស៊ូស៊ី រួមបញ្ចូល​នូវ​កម្មវិធី​និម្មិត​ដែល​មាន​សមត្ថភាព​ខ្ពស់​បំផុត គឺ​កម្មវិធី​ត្រួតពិនិត្យ​ម៉ាស៊ីន​និម្មិត XEN ។ លើស​"
+"ពីនេះ អូផឹន​ស៊ូស៊ី​ផ្ដល់​នូវ​ឧបករណ៍​សម្រាប់​ការ​ចែករំលែក​ឯកសារ​តាម​បណ្ដាញ (Samba, NFS ។ល។) ការ​បោះពុម្ព "
+"(CUPS) និង​ការ​បង្ហោះ​បណ្ដាញ (Apache) ។ ចំពោះ​ការ​អភិវឌ្ឍ​កម្មវិធី អូផឹន​ស៊ូស៊ី​មាន​ភ្ជាប់​មក​ជាមួយ​នូវ​សំណុំ​"
+"បរិស្ថាន​ពេលវេលា​រត់​ពេញលេញ បូក​រួម​ទាំង​​ឧបករណ៍​អភិវឌ្ឍន៍​កម្មវិធី​ដ៏​ធំ​ទូលាយ ។"
 
 #: slideshow.xml:157(title)
 msgid "Learn More"
@@ -151,35 +278,81 @@ msgstr "សិក្សា​បន្ថែម"
 
 #: slideshow.xml:158(para)
 #, fuzzy
-#| msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
-msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
-msgstr "​ការ​ចេញ​​ផ្សាយ​នូវ​អូផឹន​​ស៊ូស៊ី​ផ្ដល់​នូវ​ឯកសារ​​ដ៏​ធំ​សម្រាប់​អូផឹន​​ស៊ូស៊ី​ជាក់លាក់​ ដូច​នឹង​សំណួរ​ដែល​ទាក់ទង​នឹង​លីនុច​ទូទៅ​ដែរ ។ មជ្ឈមណ្ឌល​ជំនួយ​គឺ​អាច​ចូល​ដំណើរការ​បាន​តាម​រយៈ​ម៉ឺនុយ​មេ ។ សៀវភៅ​ដៃ​ជា​ទ្រង់ទ្រាយ PDF ក៏​មាន​ផង​ដែរ ហើយ​អាច​ទាញ​យក និង​បោះ​ពុម្ព​បាន​ថែម​ទៀត​ផង (http://en.opensuse.org/Documentation) ។"
+msgid ""
+"openSUSE Leap 42.1 provides extensive documentation for specific openSUSE "
+"questions as well as general Linux-related questions. The Help Center is "
+"accessible via the main menu. Manuals are also available in PDF and can be "
+"downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgstr ""
+"​ការ​ចេញ​​ផ្សាយ​នូវ​អូផឹន​​ស៊ូស៊ី​ផ្ដល់​នូវ​ឯកសារ​​ដ៏​ធំ​សម្រាប់​អូផឹន​​ស៊ូស៊ី​ជាក់លាក់​ ដូច​នឹង​សំណួរ​ដែល​ទាក់ទង​នឹង​លីនុច​ទូទៅ​ដែរ ។ "
+"មជ្ឈមណ្ឌល​ជំនួយ​គឺ​អាច​ចូល​ដំណើរការ​បាន​តាម​រយៈ​ម៉ឺនុយ​មេ ។ សៀវភៅ​ដៃ​ជា​ទ្រង់ទ្រាយ PDF ក៏​មាន​ផង​ដែរ ហើយ​អាច​"
+"ទាញ​យក និង​បោះ​ពុម្ព​បាន​ថែម​ទៀត​ផង (http://en.opensuse.org/Documentation) ។"
 
 #: slideshow.xml:168(para)
-msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "ចំពោះ​ព័ត៌មាន​បន្ថែម​អាច​រក​បាន​នៅ​ក្នុង​វីគី​អូផឹន​ស៊ូស៊ី នៅ http://en.opensuse.org/ ។ ក្រោម \"ឯកសារ\" អ្នក​នឹង​រក​ឃើញ​នូវ​តំណ​ទៅ​កាន់​ព័ត៌មាន​ដ៏​មាន​ប្រយោជន៍ ដែល​បាន​បង្កើត និង​ថែទាំ​ដោយ​អ្នក​ប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេងៗ​ទៀត ។ អ្នក​ក៏​អាច​រក​តំណ​ទៅ​កាន់​ឯកសារ​ដែល​អាច​រក​បាន​នៅ​លើ​តំបន់​បណ្ដាញ​ណូវែល​ជា​ផ្លូវការ ។ ចំពោះ​ជំនួយ​អំពី​បញ្ហា​អូផឹន​ស៊ូស៊ី​ជាក់លាក់ ពិនិត្យ​មើល​ការ​គាំទ្រ​មូលដ្ឋាន​ទិន្នន័យ​នៅ www.opensuse.org"
+msgid ""
+"Even more information is available in the openSUSE wiki at http://en."
+"opensuse.org/. Under \"Documentation,\" you'll discover links to useful "
+"information created and maintained by other openSUSE users. You can also "
+"find links to the documentation available on the official SUSE Web site. For "
+"help with specific openSUSE problems, check out the Support Database at www."
+"opensuse.org"
+msgstr ""
+"ចំពោះ​ព័ត៌មាន​បន្ថែម​អាច​រក​បាន​នៅ​ក្នុង​វីគី​អូផឹន​ស៊ូស៊ី នៅ http://en.opensuse.org/ ។ ក្រោម \"ឯកសារ"
+"\" អ្នក​នឹង​រក​ឃើញ​នូវ​តំណ​ទៅ​កាន់​ព័ត៌មាន​ដ៏​មាន​ប្រយោជន៍ ដែល​បាន​បង្កើត និង​ថែទាំ​ដោយ​អ្នក​ប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេងៗ​"
+"ទៀត ។ អ្នក​ក៏​អាច​រក​តំណ​ទៅ​កាន់​ឯកសារ​ដែល​អាច​រក​បាន​នៅ​លើ​តំបន់​បណ្ដាញ​ណូវែល​ជា​ផ្លូវការ ។ ចំពោះ​ជំនួយ​អំពី​"
+"បញ្ហា​អូផឹន​ស៊ូស៊ី​ជាក់លាក់ ពិនិត្យ​មើល​ការ​គាំទ្រ​មូលដ្ឋាន​ទិន្នន័យ​នៅ www.opensuse.org"
 
 #: slideshow.xml:179(para)
-msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr "សម្រាប់​ការ​គាំទ្រ​ពី​អ្នកប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេង​ទៀតៗ ទស្សនា​វេទិកា​ផ្លូវការ​របស់​អូផឹន​ស៊ូស៊ីនៅ http://forums.opensuse.org/ ។ នៅ​ទីនេះ​អ្នក​នឹង​​ឃើញ​អ្នក​ប្រើ​អូផឹន​ស៊ូស៊ី​រាប់ពាន់នាក់ ដែល​ចង់​ជួយ​អ្នក​ឲ្យ​ទទួល​បាន​អ្វីៗ​គ្រប់យ៉ាង​ដែល​អ្នក​អាច​រក​បាន​នៅ​ក្នុង​លីនុច ។ ប្រសិនបើ​អ្នក​​ជា​អ្នក​​ប្រើ​អូផឹន​ស៊ូស៊ី​ដែល​មាន​​ពិសោធន៍​ វេទិកា​គឺ​ជា​កន្លែង​ដ៏​ល្អ​ដើម្បី​ជួប​អ្នក​ប្រើ​ផ្សេងៗ និង​ជួយ​អ្នកប្រើ​លីនុច​ផ្សេង​ទៀត ។"
+msgid ""
+"For support from other openSUSE users, visit the official openSUSE forums at "
+"http://forums.opensuse.org/. Here you'll find thousands of other openSUSE "
+"users, eager to help you get everything you can out of Linux. If you're an "
+"experienced openSUSE user, the forums are a great place to meet other users, "
+"and help out other Linux users."
+msgstr ""
+"សម្រាប់​ការ​គាំទ្រ​ពី​អ្នកប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេង​ទៀតៗ ទស្សនា​វេទិកា​ផ្លូវការ​របស់​អូផឹន​ស៊ូស៊ីនៅ http://forums."
+"opensuse.org/ ។ នៅ​ទីនេះ​អ្នក​នឹង​​ឃើញ​អ្នក​ប្រើ​អូផឹន​ស៊ូស៊ី​រាប់ពាន់នាក់ ដែល​ចង់​ជួយ​អ្នក​ឲ្យ​ទទួល​បាន​អ្វីៗ​"
+"គ្រប់យ៉ាង​ដែល​អ្នក​អាច​រក​បាន​នៅ​ក្នុង​លីនុច ។ ប្រសិនបើ​អ្នក​​ជា​អ្នក​​ប្រើ​អូផឹន​ស៊ូស៊ី​ដែល​មាន​​ពិសោធន៍​ វេទិកា​គឺ​ជា​"
+"កន្លែង​ដ៏​ល្អ​ដើម្បី​ជួប​អ្នក​ប្រើ​ផ្សេងៗ និង​ជួយ​អ្នកប្រើ​លីនុច​ផ្សេង​ទៀត ។"
 
 #: slideshow.xml:188(para)
-msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "តើ​អ្នក​ចង់​ឲ្យ​អូផឹន​ស៊ូស៊ី​មាន​លក្ខណៈ​កាន់តែ​ប្រសើរ​ទេ ? អ្នក​អាច​ស្ថាបនា​អ្វី​ៗ​ស្ទើរ​តែ​គ្រប់យ៉ាង​បាន​ជា​មួយ​នឹង​អូផឹន​ស៊ូស៊ី ។ វា​ងាយស្រួល​ក្នុង​ការ​បង្កើត និង​ចែករំលែក​កញ្ចប់​ថ្មីៗ​សម្រាប់​ការ​ចែកចាយ​លីនុច​ជាច្រើន​ ដោយ​ការ​ប្រើ​សេវា​ស្ថាបនា​អូផឹន​ស៊ូស៊ី​ដ៏​មាន​អានុភាព ។ ចូល​រួម​ជា​មួយ​ openSUSE.org ដើម្បី​ធ្វើ​ការងារ​រួម​គ្នា ។"
+msgid ""
+"Want to make openSUSE even better? You can build almost anything with "
+"openSUSE. It's easy to create and share new packages for multiple Linux "
+"distributions using the unique and powerful openSUSE Build Service. Join "
+"openSUSE.org to collaborate."
+msgstr ""
+"តើ​អ្នក​ចង់​ឲ្យ​អូផឹន​ស៊ូស៊ី​មាន​លក្ខណៈ​កាន់តែ​ប្រសើរ​ទេ ? អ្នក​អាច​ស្ថាបនា​អ្វី​ៗ​ស្ទើរ​តែ​គ្រប់យ៉ាង​បាន​ជា​មួយ​នឹង​អូផឹន​"
+"ស៊ូស៊ី ។ វា​ងាយស្រួល​ក្នុង​ការ​បង្កើត និង​ចែករំលែក​កញ្ចប់​ថ្មីៗ​សម្រាប់​ការ​ចែកចាយ​លីនុច​ជាច្រើន​ ដោយ​ការ​ប្រើ​"
+"សេវា​ស្ថាបនា​អូផឹន​ស៊ូស៊ី​ដ៏​មាន​អានុភាព ។ ចូល​រួម​ជា​មួយ​ openSUSE.org ដើម្បី​ធ្វើ​ការងារ​រួម​គ្នា ។"
 
 #: slideshow.xml:197(title)
 msgid "SUSE and Linux"
 msgstr "ស៊ូស៊ី និង​លីនុច"
 
 #: slideshow.xml:198(para)
-msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
-msgstr "ស៊ូស៊ី​ គឺ​ត្រូវ​បាន​ដាក់​បញ្ចូល​ដោយ​ជោគជ័យ​​ជា​មួយ​នឹង​អ្នក​ដោយ​ប្រើ​លីនុច​របស់​អ្នក​ ។ ក្រៅពី​អូផឹន​ស៊ូស៊ី​ ស៊ូស៊ី​ក៏​ផ្ដល់​ឲ្យ​អ្នក​នូវ​​ឈុត​កម្មវិធី​ដែល​​គួរ​ឲ្យ​ភ្ញាក់ផ្អើល​ ដែល​ត្រូវ​បាន​រចនា​ឡើង​ដើម្បី​​បំពេញ​​តាម​តម្រូវ​ការ​ផ្នែក​​ពាណិជ្ជកម្ម​ខ្នាត​តូច និង​ធំ ។"
+msgid ""
+"SUSE is committed to your success with Linux. In addition to openSUSE, SUSE "
+"also delivers an exciting suite of products designed to meet the needs of "
+"businesses large and small."
+msgstr ""
+"ស៊ូស៊ី​ គឺ​ត្រូវ​បាន​ដាក់​បញ្ចូល​ដោយ​ជោគជ័យ​​ជា​មួយ​នឹង​អ្នក​ដោយ​ប្រើ​លីនុច​របស់​អ្នក​ ។ ក្រៅពី​អូផឹន​ស៊ូស៊ី​ ស៊ូស៊ី​ក៏​ផ្ដល់​ឲ្យ​អ្នក​នូវ​​ឈុត​"
+"កម្មវិធី​ដែល​​គួរ​ឲ្យ​ភ្ញាក់ផ្អើល​ ដែល​ត្រូវ​បាន​រចនា​ឡើង​ដើម្បី​​បំពេញ​​តាម​តម្រូវ​ការ​ផ្នែក​​ពាណិជ្ជកម្ម​ខ្នាត​តូច និង​"
+"ធំ ។"
 
 #: slideshow.xml:203(para)
 #, fuzzy
-#| msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
-msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
-msgstr "ផលិតផល​សហគ្រាសរបស់​​​លីនុច​ដែល​បាន​ពី​ស៊ូស៊ី​ ដែល​រួម​បញ្ចូល​នូវ ម៉ាស៊ីន​បម្រើ​សហគ្រាស​របស់​ស៊ូស៊ី​លីនុច​ផ្ទៃតុ​សហគ្រាស​របស់​ស៊ូស៊ី​លីនុច ។ ផលិតផល​សហគ្រាស​​របស់​យើង​​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ការ​ធានា​ក្នុង​ការ​​ជួសជុល​រយៈពេល ៧ ឆ្នាំ បូក​រួម​ទាំង​កម្ម​វិធី​ដែល​គាំទ្រ​​ជា​ជម្រើស​ផង​ដែរ ។ ចំពោះ​ព័ត៌មាន​បន្ថែម​អំពី​សហគ្រាស​លីនុច​ដែល​មក​ពី​អូផឹន​ស៊ូស៊ី​ សូម​ចូល​ទៅកាន់ http://www.suse.com"
+msgid ""
+"The enterprise Linux products from SUSE include SUSE Linux Enterprise Server "
+"and SUSE Linux Enterprise Desktop. Our enterprise products are delivered "
+"with a 10 year maintenance guarantee out of the box with the possibility of "
+"extending it to 13 years as well as other optional support programs. For "
+"more information on enterprise Linux from SUSE, visit http://www.suse.com"
+msgstr ""
+"ផលិតផល​សហគ្រាសរបស់​​​លីនុច​ដែល​បាន​ពី​ស៊ូស៊ី​ ដែល​រួម​បញ្ចូល​នូវ ម៉ាស៊ីន​បម្រើ​សហគ្រាស​របស់​ស៊ូស៊ី​លីនុច​ផ្ទៃតុ​សហគ្រាស​របស់​ស៊ូស៊ី​"
+"លីនុច ។ ផលិតផល​សហគ្រាស​​របស់​យើង​​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ការ​ធានា​ក្នុង​ការ​​ជួសជុល​រយៈពេល ៧ ឆ្នាំ បូក​រួម​ទាំង​កម្ម​វិធី​"
+"ដែល​គាំទ្រ​​ជា​ជម្រើស​ផង​ដែរ ។ ចំពោះ​ព័ត៌មាន​បន្ថែម​អំពី​សហគ្រាស​លីនុច​ដែល​មក​ពី​អូផឹន​ស៊ូស៊ី​ សូម​ចូល​ទៅកាន់ http://"
+"www.suse.com"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
@@ -187,27 +360,79 @@ msgid "translator-credits"
 msgstr "ខឹម សុខែម, ម៉ន ម៉េត, សេង សុត្ថា, ចាន់ សម្បត្តិរតនៈ, សុខ សុភា"
 
 #, fuzzy
-#~| msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
-#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 13.2."
-#~ msgstr "ថាតើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ សរសេរ​របាយការណ៍ ឬ​គម្រោង​ថវិកា បង្ហោះ​តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្នក​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែលអ្នក​ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១១.១ ។"
+#~| msgid ""
+#~| "Whether you use your computer to communicate with friends, family, or "
+#~| "colleagues; to manage and enjoy your pictures and music; to browse the "
+#~| "Internet for the latest news or for fun; to write a report or budget; or "
+#~| "to host a personal Web site or home network, you will find everything "
+#~| "you need in openSUSE 11.1."
+#~ msgid ""
+#~ "Whether you use your computer to communicate with friends, family, or "
+#~ "colleagues; to manage and enjoy your pictures and music; to browse the "
+#~ "Internet for the latest news or for fun; to write a report or budget; or "
+#~ "to host a personal Web site or home network, you will find everything you "
+#~ "need in openSUSE 13.2."
+#~ msgstr ""
+#~ "ថាតើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​"
+#~ "ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ សរសេរ​របាយការណ៍ ឬ​គម្រោង​ថវិកា បង្ហោះ​"
+#~ "តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្នក​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែលអ្នក​ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី "
+#~ "១១.១ ។"
 
 #, fuzzy
-#~| msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-#~ msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE 13.2."
-#~ msgstr "ទាញ​យក​បទចម្រៀង​ពី​អ៊ីនធឺ​ណិត ។ ច្រៀក ស៊ីឌី ដើម្បី​បង្កើត​បណ្ណាល័យ​តន្ត្រី​ផ្ទាល់​ខ្លួន​​របស់​អ្នក ។ ស្ដាប់​បញ្ជី​ចាក់​របស់អ្នក​នៅលើ​បណ្ដាញ ។ ដុត ស៊ីឌី ឬ​ឌីវីឌី ។ ​ចម្លង​ឯកសារ​របស់​អ្នក​ទៅកាន់ iPod ឬ​កម្មវិធី​ចាក់ និង​យក​តន្ត្រី​របស់​អ្នក​ពី​កន្លែង​ណាមួយ​ ។ គ្រប់​គ្រង និង​កែ​សម្រួល​រូបភាពឌីជីថលដោយ​ប្រើ​កម្មវិធី​និពន្ធ​ក្រាហ្វិក​ដ៏មាន​អនុភាព ។ វា​ពិត​ជា​​ងាយ​ស្រួល​ជាមួយ​នឹង​អូផឹន​ស៊ូស៊ី ។"
+#~| msgid ""
+#~| "Download tunes from the Internet. Rip CDs to create your own customized "
+#~| "music library. Listen to your playlist online. Burn CDs or DVDs. Copy "
+#~| "your files to an iPod or media player and take your music anywhere. "
+#~| "Manage and edit digital pictures with powerful graphics editors. It's "
+#~| "all easy with openSUSE."
+#~ msgid ""
+#~ "Download tunes from the Internet. Rip CDs to create your own customized "
+#~ "music library. Listen to your playlist online. Burn CDs or DVDs. Copy "
+#~ "your files to an iPod or media player and take your music anywhere. "
+#~ "Manage and edit digital pictures with powerful graphics editors. It's all "
+#~ "easy with openSUSE 13.2."
+#~ msgstr ""
+#~ "ទាញ​យក​បទចម្រៀង​ពី​អ៊ីនធឺ​ណិត ។ ច្រៀក ស៊ីឌី ដើម្បី​បង្កើត​បណ្ណាល័យ​តន្ត្រី​ផ្ទាល់​ខ្លួន​​របស់​អ្នក ។ ស្ដាប់​បញ្ជី​ចាក់​"
+#~ "របស់អ្នក​នៅលើ​បណ្ដាញ ។ ដុត ស៊ីឌី ឬ​ឌីវីឌី ។ ​ចម្លង​ឯកសារ​របស់​អ្នក​ទៅកាន់ iPod ឬ​កម្មវិធី​ចាក់ និង​យក​"
+#~ "តន្ត្រី​របស់​អ្នក​ពី​កន្លែង​ណាមួយ​ ។ គ្រប់​គ្រង និង​កែ​សម្រួល​រូបភាពឌីជីថលដោយ​ប្រើ​កម្មវិធី​និពន្ធ​ក្រាហ្វិក​ដ៏មាន​"
+#~ "អនុភាព ។ វា​ពិត​ជា​​ងាយ​ស្រួល​ជាមួយ​នឹង​អូផឹន​ស៊ូស៊ី ។"
 
 #, fuzzy
-#~| msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-#~ msgid "Using the tools in openSUSE 13.2, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-#~ msgstr "ដោយ​ប្រើ​​ឧបករណ៍​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី អ្នក​អាច​បង្កើត ឬ​កែសម្រួល​ស្ទើរ​តែ​គ្រប់​ប្រភេទ​ក្រាហ្វិក​បាន ។ ចំពោះ​ការ​បង្កើត​ក្រាហ្វិក និង​ការ​រៀបចំ​រូបភាព​កម្រិត​ខ្ពស់ គឺ​ប្រើ​កម្មវិធី​ដែល​មាន​អានុភាព ដូចជា GIMP ដែល​ជា​​កម្មវិធី​កែកុន តែង និង​បង្កើត​រូបភាព ។"
+#~| msgid ""
+#~| "Using the tools in openSUSE, you can create or edit almost any type of "
+#~| "graphic. For advanced image manipulation and graphics creation, use The "
+#~| "GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgid ""
+#~ "Using the tools in openSUSE 13.2, you can create or edit almost any type "
+#~ "of graphic. For advanced image manipulation and graphics creation, use "
+#~ "The GIMP a powerful tool for image retouching, composition, and authoring."
+#~ msgstr ""
+#~ "ដោយ​ប្រើ​​ឧបករណ៍​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី អ្នក​អាច​បង្កើត ឬ​កែសម្រួល​ស្ទើរ​តែ​គ្រប់​ប្រភេទ​ក្រាហ្វិក​បាន ។ ចំពោះ​ការ​"
+#~ "បង្កើត​ក្រាហ្វិក និង​ការ​រៀបចំ​រូបភាព​កម្រិត​ខ្ពស់ គឺ​ប្រើ​កម្មវិធី​ដែល​មាន​អានុភាព ដូចជា GIMP ដែល​ជា​​"
+#~ "កម្មវិធី​កែកុន តែង និង​បង្កើត​រូបភាព ។"
 
 #~ msgid "Keep Your System Secure and Up to Date"
 #~ msgstr "ប្រព័ន្ធ​របស់​អ្នក​នឹង​កាន់​តែ​មាន​សុវត្ថិភាព និង​ទាន់សម័យ"
 
 #, fuzzy
-#~ msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 12.3."
-#~ msgstr "ថា​តើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភ័ក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ ឬ​សម្រាប់​កម្សាន្ត​ សរសេរ​របាយការណ៍ ឬ​សរសេរ​គម្រោង​ថវិកា បង្ហោះ​តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្នក​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែល​អ្នក​ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។"
+#~ msgid ""
+#~ "Whether you use your computer to communicate with friends, family, or "
+#~ "colleagues; to manage and enjoy your pictures and music; to browse the "
+#~ "Internet for the latest news or for fun; to write a report or budget; or "
+#~ "to host a personal Web site or home network, you will find everything you "
+#~ "need in openSUSE 12.3."
+#~ msgstr ""
+#~ "ថា​តើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភ័ក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​"
+#~ "ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ ឬ​សម្រាប់​កម្សាន្ត​ សរសេរ​របាយការណ៍ ឬ​"
+#~ "សរសេរ​គម្រោង​ថវិកា បង្ហោះ​តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្នក​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែល​អ្នក​"
+#~ "ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១២.២ ។"
 
 #, fuzzy
-#~ msgid "You can communicate more effectively with openSUSE 12.3 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-#~ msgstr "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១២.២ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​ថែម​ទាំង​រួម​បញ្ចូល​នូវ​បច្ចេកវិទ្យា​ Voice over IP ដ៏​ថ្មី​បំផុត​ផង​ដែរ ។"
+#~ msgid ""
+#~ "You can communicate more effectively with openSUSE 12.3 because it "
+#~ "provides a complete set of tools for Web browsing and e-mail management—"
+#~ "it even includes the newest Voice over IP technology."
+#~ msgstr ""
+#~ "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១២.២ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​"
+#~ "សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​ថែម​ទាំង​រួម​បញ្ចូល​នូវ​បច្ចេកវិទ្យា​ Voice over IP "
+#~ "ដ៏​ថ្មី​បំផុត​ផង​ដែរ ។"
