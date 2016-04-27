@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"POT-Creation-Date: 2016-04-15 18:12+0200\n"
+"POT-Creation-Date: 2016-04-26 17:56+0200\n"
 "PO-Revision-Date: 2015-12-24 19:29+0800\n"
 "Last-Translator: 玛格丽特 · 苏 <marguerite@opensuse.org>\n"
 "Language-Team: Chinese Simplified <opensuse-zh@opensuse.org>\n"
@@ -68,7 +68,7 @@ msgstr ""
 #: slideshow.xml:35(para)
 #, fuzzy
 msgid ""
-"Visit en.opensuse.org/How_to_Participate to learn how you can join the "
+"Visit www.opensuse.org/How_to_Participate to learn how you can join the "
 "openSUSE community."
 msgstr ""
 "请访问 http://zh.opensuse.org/Portal:如何參與 了解如何加入 openSUSE 社区。"

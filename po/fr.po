@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"POT-Creation-Date: 2016-04-15 18:12+0200\n"
+"POT-Creation-Date: 2016-04-26 17:56+0200\n"
 "PO-Revision-Date: 2015-10-19 12:12+0200\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@opensuse.org>\n"
 "Language-Team: French <opensuse-fr@opensuse.org>\n"
@@ -65,7 +65,7 @@ msgstr ""
 #: slideshow.xml:35(para)
 #, fuzzy
 msgid ""
-"Visit en.opensuse.org/How_to_Participate to learn how you can join the "
+"Visit www.opensuse.org/How_to_Participate to learn how you can join the "
 "openSUSE community."
 msgstr ""
 "Visitez http://fr.opensuse.org/Portal:Comment_participer pour apprendre "
