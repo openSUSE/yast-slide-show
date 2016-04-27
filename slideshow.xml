@@ -1,213 +1,369 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN" "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
 <!ENTITY yast "YaST">
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "Leap 42.1">
+<!ENTITY suse-version "11.1">
+<!ENTITY sle "&suselinux; Enterprise">
+<!ENTITY sls "&sle; Server">
+<!ENTITY sld "&sle; Desktop">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
 <!--     <td valign="top"><img src="&imagedir;/01_welcome.png" width="150" valign="top"></td> -->
 <!--     <td> -->
+
 <section>
  <title>Slide Show</title>
-
- <section label="01_welcome">
-  <title>Welcome to openSUSE™!</title>
-
+ 
+ <section label="01_sle12">
+  <title>&sle; 12</title>
+  <itemizedlist>
+   <listitem>
     <para>
-There is a reason why openSUSE is "the makers' choice for sysadmins, developers and desktop users;" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. &suse-version; provides "The Best of Two Worlds" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, &suse-version; combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and &suse-version; complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages.
-</para>
- </section>
-
- <section label="02_opensuse">
-  <title>openSUSE.org</title>
-
-  <para>
-openSUSE is a community project created and sponsored by SUSE to 
-deliver the world's most user-friendly computing platform. Many people
-from around the world contribute to the openSUSE Project by packaging
-software, testing programs, writing documentation, and translating
-components into dozens of languages. All of that work is available 
-for free in the openSUSE Linux distribution available at www.opensuse.org.
-</para>
-<para>Visit en.opensuse.org/How_to_Participate to learn how you can join 
-the openSUSE community.</para>
- </section>
-
- <section label="02_z_opensuse">
-  <title>openSUSE in Many Languages</title>
-
-  <para>
-The openSUSE distribution is available in many languages. Localization
-for openSUSE software occurs through the efforts of our hard-working,
-community-driven language teams. Thank you to all of our contributors.
-Find the localization portal at: http://i18n.opensuse.org/</para>
-  
- </section>
-
- <section label="03_connect">
-  <title>Connect and Communicate</title>
-
-<para>
-You can communicate more effectively with openSUSE &suse-version; because it
-provides a complete set of tools for Web browsing and e-mail
-management — it even includes the newest Voice over IP technology.
-</para>
-
-<para>openSUSE &suse-version; includes Mozilla Firefox, one of the best Web 
-browsers in the world. Firefox includes all the features you need to enjoy
-the Web, including the newest HTML5 technologies. Firefox also boasts
-lightning-fast performance, and a number of improvements designed to
-protect your privacy and prevent phishing attacks.</para>
-
-<para>Also included with openSUSE &suse-version; are Evolution and Kontact, 
-complete e-mail and contact management applications. For instant 
-messaging, openSUSE features easy to use IM clients that support all 
-of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN,
-Yahoo!, Groupwise, and many others.</para> 
-
- </section>
-
- <section label="04_create">
-  <title>Create, View and Listen</title>
-  <para>
-Download tunes from the Internet. Rip CDs to create your own customized
-music library. Listen to your playlist online. Burn CDs or DVDs. Copy
-your files to an iPod or media player and take your music anywhere. Manage
-and edit digital pictures with powerful graphics editors. It's all easy
-with openSUSE &suse-version;.</para>
-
- </section>
-
- <section label="05_office">
-  <title>Documents, Spreadsheets and More</title>
-
-  <para>
-The openSUSE &suse-version; distribution comes complete with the latest version
-of the leading Linux productivity suite, LibreOffice. It features a word
-processor, spreadsheet application, HTML editor, presentation designer, and
-database manager. It reads and writes multiple formats—including Microsoft
-Office formats—so you can move back and forth easily between openSUSE 
-and popular non-Linux productivity software. LibreOffice is the perfect 
-choice for reports, papers, home budgets, simple graphics and more.</para>
- </section>
-
-<section label="06_graphics">
-  <title>Graphics, Graphics, Graphics</title>
-
-  <para>
-Using the tools in openSUSE &suse-version;, you can create or edit almost any 
-type of graphic. For advanced image manipulation and graphics creation, use The
-GIMP a powerful tool for image retouching, composition, and authoring.</para>
- 
-<para>For vector graphics, openSUSE &suse-version; includes Inkscape — a versatile 
-graphics solution delivers support for transparent layers, bitmap tracing, 
-text paths and much more.
-</para>
- 
- </section>
-
- <section label="08_mobility">
-  <title>Computing On-the-Go</title>
-
-  <para>openSUSE &suse-version; includes the most advanced mobility features. You
-can switch effortlessly between wireless and wired networks using NetworkManager. 
-Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth.</para> 
-
-<para>The newest innovations in power management from openSUSE increase
-your mobility and give you the freedom to take your work wherever you
-go.
-</para>
-
- </section>
-
-<section label="09_security">
- <title>Your operating system - respecting privacy - providing security</title>
-
-  <para>openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE &suse-version; because it also includes AppArmor, the most effective and
-easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats.</para>
-
-<!-- for the online update feature, see bnc#793710 -->
-<para>In addition to SUSE Firewall and AppArmor, openSUSE &suse-version; also 
-includes a special security patch update system. To ensure that the latest security
-patches are installed on your system, you can choose to perform an
-online update at the end of this installation procedure (if you did not
-choose the automatic installation modus at the beginning). And in the
-future, you will be automatically informed of the availability of
-important security updates, so you can install them at your convenience.
-</para>
- 
- </section>
-
- <section label="10_devel">
-  <title>Virtualization Technology and Application Development Tools</title>
-
-  <para>Both Xen and KVM hypervisors are included with openSUSE &suse-version;. 
-Xen is one of the most robust solutions for virtualization available. In addition, 
-openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) 
-and Web hosting (Apache). For application development, openSUSE comes with a complete
-set of runtime environments plus extensive application development tools.
-</para>
-
- </section>
-
-  <section label="11_docs">
-    <title>Learn More</title>
-    <para>
-openSUSE &suse-version; provides extensive documentation for specific
-openSUSE questions as well as general Linux-related questions. The Help
-Center is accessible via the main menu. Manuals are also available in
-PDF and can be downloaded and printed <!-- translator: check whether a
-dedicated page exists for your language and use it instead of "en" -->
-(http://en.opensuse.org/Portal:Documentation).
-
+     Towards Zero Downtime
     </para>
-
+   </listitem>
+   <listitem>
     <para>
-Even more information is available in the openSUSE wiki at <!--
-translator: check whether a dedicated page exists for your language and
-use it instead of "en" -->  http://en.opensuse.org/. Under
-"Documentation," you'll discover links to useful information created and
-maintained by other openSUSE users. You can also find links to the
-documentation available on the official SUSE Web site. For help with
-specific openSUSE problems, check out the Support Database at
-www.opensuse.org
+     Best Managed Linux
     </para>
-
-<para><!-- translator: adjust the snippet about forums according to your
-language; see https://bugzilla.novell.com/show_bug.cgi?id=439101 -->
-For support from other openSUSE users, visit the official openSUSE
-forums at http://forums.opensuse.org/. Here you'll find thousands of other
-openSUSE users, eager to help you get everything you can out of Linux. If 
-you're an experienced openSUSE user, the forums are a great place to meet 
-other users, and help out other Linux users.
-</para>
-
-<para>Want to make openSUSE even better? You can build almost anything 
-with openSUSE. It's easy to create and share new packages for multiple 
-Linux distributions using the unique and powerful openSUSE Build Service. 
-Join openSUSE.org to collaborate.
-</para>
-
-  </section>
-
- <section label="12_suse">
-  <title>SUSE and Linux</title>
-  <para>
-SUSE is committed to your success with Linux. In addition to openSUSE,
-SUSE also delivers an exciting suite of products designed to meet the
-needs of businesses large and small.</para>
-
-  <para>
-The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and
-SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 
-10 year maintenance guarantee out of the box with the possibility of extending 
-it to 13 years as well as other optional support programs. 
-For more information on enterprise Linux from SUSE, visit http://www.suse.com
-</para>
-
+   </listitem>
+   <listitem>
+    <para>
+     Made for Cloud
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Most Interoperable Operating System
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Modular Design
+    </para>
+   </listitem>
+  </itemizedlist>
  </section>
 
+ <section label="02_cont_running_sys">
+  <!-- bnc#885972 -->
+  <title>Towards Zero Downtime</title>
+  <para>
+   Snapshot &amp; rollback for the full system
+  </para>
+  <para>
+   Have a well <emphasis>known state</emphasis> to which you can go
+   back, to give you <emphasis>peace of mind</emphasis> for:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Kernel upgrades
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Service pack installations
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+
+ <section label="03_best_managed_linux">
+  <title>Best Managed Linux</title>
+  <itemizedlist>
+   <listitem>
+    <para>
+     <emphasis>YaST:</emphasis> the only integrated single system
+     management solution in the Linux world
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Write your own extensions in Ruby now!
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Wicked: a new framework for simplifying the complexity of Linux
+     network management
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Network configuration as a service
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Smooth adoption &amp; migration
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="04_cloud">
+  <title>Made for Cloud</title>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Reliable Host
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       KVM and Xen support included
+      </para>
+   </listitem>
+   <listitem>
+    <para>
+     Basis for SUSE OpenStack Cloud
+    </para>
+   </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Perfect Guest
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere,
+       Microsoft® Hyper-V etc.
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Available on Amazon® EC2, Microsoft® Azure, Google® Compute
+       Engine, and other 50+ public clouds
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="05_inter_os">
+  <title>Most Interoperable Operating System</title>
+
+  <itemizedlist>
+   <listitem>
+    <para>
+     Networking – IPv6
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Scalable network infrastructures
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Compliant to USGv6 standard
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Operating Systems
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Windows: Samba 4
+      </para>
+      <itemizedlist>
+       <listitem>
+        <para>
+         Active Directory integration
+        </para>
+       </listitem>
+       <listitem>
+        <para>
+         Out-of-the-box experience via YaST
+        </para>
+       </listitem>
+      </itemizedlist>
+     </listitem>
+     <listitem>
+      <para>
+       UNIX &amp; Linux: NFSv4.1
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+  </itemizedlist>
+ </section>
+
+ <section label="06_modular">
+  <title>Modular Design</title>
+
+  <para>
+   Five different modules give you balance between the latest
+   technologies and enterprise-level stability:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Web and Scripting Module
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Legacy Module
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Toolchain Module
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Public Cloud Module
+    </para>
+   </listitem>
+   <listitem>
+    <!-- bnc#885971 -->
+    <para>
+     Advanced Systems Management
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+ 
+ <section label="07_life">
+  <title>Lifecycle and LTSS</title>
+
+  <para>
+   SUSE® Linux Enterprise Server:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     13-year lifecycle
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       10 years of general support
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Up to 3 years of extended support
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     5-year lifecycle per Service Pack
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       2 years of general support 
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Up to 3 years of extended support
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Long Term Service Pack Support (LTSS) available for all releases
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="08_desktop">
+  <title>Desktop Experience</title>
+
+  <para>
+   GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12
+   provides two desktop experiences for you to chose from:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Using GNOME 3's GNOME Shell you can explore next-generation desktop
+     features that can be used with a mouse and a touchscreen.
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE's default GNOME 3 Classic Mode utilizes the same modern
+     technology, while maintaining well known usage patterns.
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+
+ <section label="09_scc">
+  <title>SUSE Customer Center</title>
+
+  <para>
+   Discover a new way of managing your SUSE account and subscriptions
+   via one interface, anytime, anywhere!
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Centralize access to subscriptions and entitlements
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Quick access to support tools
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Easy way to provide feedback
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="10_more">
+  <title>More from SUSE ...</title>
+
+  <itemizedlist>
+   <listitem>
+    <para>
+     SUSE Linux Enterprise
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     High Availability Extension
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE Manager
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE OpenStack Cloud
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE Storage
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
 </section>
