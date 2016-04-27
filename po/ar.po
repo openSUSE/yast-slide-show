@@ -1,0 +1,256 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow-sles\n"
+"POT-Creation-Date: 2015-11-03 10:04+0100\n"
+"PO-Revision-Date: 2015-11-05 17:01\n"
+"Last-Translator: Novell language <language@novell.com>\n"
+"Language-Team: Novell language <language@novell.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: slideshow.xml:18(title)
+msgid "Slide Show"
+msgstr "عرض الشرائح"
+
+#: slideshow.xml:21(title)
+msgid "SUSE Linux Enterprise 12"
+msgstr "SUSE Linux Enterprise 12"
+
+#. bnc#885972
+#: slideshow.xml:24(para) slideshow.xml:53(title)
+msgid "Towards Zero Downtime"
+msgstr "نحو عدم التعطل نهائيًا"
+
+#: slideshow.xml:29(para) slideshow.xml:76(title)
+msgid "Best Managed Linux"
+msgstr "Linux المدار على أفضل وجه"
+
+#: slideshow.xml:34(para) slideshow.xml:112(title)
+msgid "Made for Cloud"
+msgstr "مخصص لـ Cloud"
+
+#: slideshow.xml:39(para) slideshow.xml:153(title)
+msgid "Most Interoperable Operating System"
+msgstr "نظام التشغيل الأكثر تكاملاً"
+
+#: slideshow.xml:44(para) slideshow.xml:206(title)
+msgid "Modular Design"
+msgstr "التصميم النمطي"
+
+#: slideshow.xml:54(para)
+msgid "Snapshot &amp; rollback for the full system"
+msgstr "الالتقاط والتراجع للنظام بالكامل"
+
+#: slideshow.xml:57(para)
+msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
+msgstr "إذا كان لديك <emphasis>حالة معروفة</emphasis> يمكنك الرجوع إليها، لمنحك <emphasis>الاطمئنان</emphasis> بخصوص:"
+
+#: slideshow.xml:63(para)
+msgid "Kernel upgrades"
+msgstr "ترقيات Kernel"
+
+#: slideshow.xml:68(para)
+msgid "Service pack installations"
+msgstr "تثبيتات حزم الخدمة"
+
+#: slideshow.xml:79(para)
+msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
+msgstr "<emphasis>YaST:</emphasis> حل إدارة النظام الفردي المتكامل الوحيد في عالم Linux"
+
+#: slideshow.xml:85(para)
+msgid "Write your own extensions in Ruby now!"
+msgstr "أدخل الامتدادات الخاصة بك في Ruby الآن!"
+
+#: slideshow.xml:92(para)
+msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
+msgstr "Wicked: إطار جديد لتبسيط التعقيد في إدارة شبكة Linux"
+
+#: slideshow.xml:98(para)
+msgid "Network configuration as a service"
+msgstr "تكوين الشبكة كخدمة"
+
+#: slideshow.xml:103(para)
+msgid "Smooth adoption &amp; migration"
+msgstr "ترحيل واعتماد سلسان"
+
+#: slideshow.xml:115(para)
+msgid "Reliable Host"
+msgstr "مضيف موثوق به"
+
+#: slideshow.xml:120(para)
+msgid "KVM and Xen support included"
+msgstr "متضمن دعم Xen وKVM"
+
+#: slideshow.xml:125(para)
+msgid "Basis for SUSE OpenStack Cloud"
+msgstr "أساس SUSE OpenStack Cloud"
+
+#: slideshow.xml:132(para)
+msgid "Perfect Guest"
+msgstr "ضيف مثالي"
+
+#: slideshow.xml:137(para)
+msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
+msgstr "العمل بشكل جيد على أنظمة hypervisor الأساسية: Xen وKVM وVMware® vSphere وMicrosoft® Hyper-V وغيرها."
+
+#: slideshow.xml:143(para)
+msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
+msgstr "متوفر على Amazon® EC2 وMicrosoft® Azure وGoogle® Compute Engine إلى جانب أكثر من 50 شبكة من الشبكات السحابية العامة الأخرى."
+
+#: slideshow.xml:157(para)
+msgid "Networking – IPv6"
+msgstr "الشبكة - IPv6"
+
+#: slideshow.xml:162(para)
+msgid "Scalable network infrastructures"
+msgstr "البنيات الأساسية للشبكة القابلة للتحجيم"
+
+#: slideshow.xml:167(para)
+msgid "Compliant to USGv6 standard"
+msgstr "متطابق مع المعيار USGv6"
+
+#: slideshow.xml:174(para)
+msgid "Operating Systems"
+msgstr "نظام التشغيل"
+
+#: slideshow.xml:179(para)
+msgid "Windows: Samba 4"
+msgstr "Windows: Samba 4"
+
+#: slideshow.xml:184(para)
+msgid "Active Directory integration"
+msgstr "تكامل الدليل النشط"
+
+#: slideshow.xml:189(para)
+msgid "Out-of-the-box experience via YaST"
+msgstr "استخدام مبتكر عبر YaST"
+
+#: slideshow.xml:196(para)
+msgid "UNIX &amp; Linux: NFSv4.1"
+msgstr "UNIX وLinux‏: NFSv4.1"
+
+#: slideshow.xml:208(para)
+msgid "Five different modules give you balance between the latest technologies and enterprise-level stability:"
+msgstr "خمس وحدات نمطية مختلفة تمنحك التوازن بين أحدث التقنيات والاستقرار على مستوى المؤسسة:"
+
+#: slideshow.xml:214(para)
+msgid "Web and Scripting Module"
+msgstr "Web and Scripting Module"
+
+#: slideshow.xml:219(para)
+msgid "Legacy Module"
+msgstr "Legacy Module"
+
+#: slideshow.xml:224(para)
+msgid "Toolchain Module"
+msgstr "Toolchain Module"
+
+#: slideshow.xml:229(para)
+msgid "Public Cloud Module"
+msgstr "Public Cloud Module"
+
+#. bnc#885971
+#: slideshow.xml:235(para)
+msgid "Advanced Systems Management"
+msgstr "Advanced Systems Management"
+
+#: slideshow.xml:243(title)
+msgid "Lifecycle and LTSS"
+msgstr "دورة العمر و دعم طويل الأمد لحزمة الخدمة (LTSS)"
+
+#: slideshow.xml:245(para)
+msgid "SUSE® Linux Enterprise Server:"
+msgstr "SUSE  Linux  Enterprise  Server  8"
+
+#: slideshow.xml:250(para)
+msgid "13-year lifecycle"
+msgstr "دورة العمر لمدة 13 عامًا"
+
+#: slideshow.xml:255(para)
+msgid "10 years of general support"
+msgstr "10 أعوام من الدعم العام"
+
+#: slideshow.xml:260(para) slideshow.xml:277(para)
+msgid "Up to 3 years of extended support"
+msgstr "ما يصل إلى 3 أعوام من الدعم الموسع"
+
+#: slideshow.xml:267(para)
+msgid "5-year lifecycle per Service Pack"
+msgstr "دورة العمر لمدة 5 أعوام لكل حزمة خدمة"
+
+#: slideshow.xml:272(para)
+msgid "2 years of general support"
+msgstr "عامان من الدعم العام"
+
+#: slideshow.xml:284(para)
+msgid "Long Term Service Pack Support (LTSS) available for all releases"
+msgstr "دعم طويل الأمد لحزمة الخدمة (LTSS) متوفر لكل الإصدارات"
+
+#: slideshow.xml:291(title)
+msgid "Desktop Experience"
+msgstr "استخدام سطح المكتب"
+
+#: slideshow.xml:293(para)
+msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
+msgstr "يوفر GNOME 3 كبيئة سطح مكتب لـ SUSE® Linux Enterprise 12 لك طريقتي استخدام لسطح المكتب كي تختار منهما:"
+
+#: slideshow.xml:299(para)
+msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
+msgstr "يمكنك باستخدام GNOME Shell الخاص بـ GNOME Shell استكشاف ميزات سطح المكتب من الجيل الثاني التي يمكن استخدامها بالماوس وشاشة اللمس."
+
+#: slideshow.xml:305(para)
+msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
+msgstr "يستخدم الوضع الكلاسيكي GNOME 3 للإعداد الافتراضي لـ SUSE نفس التقنية الحديثة، إلى جانب الاحتفاظ بأنماط الاستخدام المعروفة."
+
+#: slideshow.xml:314(title)
+msgid "SUSE Customer Center"
+msgstr "مركز عملاء SUSE"
+
+#: slideshow.xml:316(para)
+msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
+msgstr "استكشف طريقة جديدة لإدارة حساب SUSE والاشتراكات عبر واجهة واحدة في أو وقت ومن أي مكان!"
+
+#: slideshow.xml:322(para)
+msgid "Centralize access to subscriptions and entitlements"
+msgstr "مركزة الوصول إلى الاشتراكات والاستحقاقات"
+
+#: slideshow.xml:327(para)
+msgid "Quick access to support tools"
+msgstr "الوصول السريع إلى أدوات الدعم"
+
+#: slideshow.xml:332(para)
+msgid "Easy way to provide feedback"
+msgstr "طريقة سهلة لتوفير التغذية الرجعية"
+
+#: slideshow.xml:339(title)
+msgid "More from SUSE ..."
+msgstr "المزيد عن SUSE ..."
+
+#: slideshow.xml:343(para)
+msgid "SUSE Linux Enterprise"
+msgstr "SUSE Linux Enterprise"
+
+#: slideshow.xml:348(para)
+msgid "High Availability Extension"
+msgstr "High Availability Extension"
+
+#: slideshow.xml:353(para)
+msgid "SUSE Manager"
+msgstr "SUSE Manager"
+
+#: slideshow.xml:358(para)
+msgid "SUSE OpenStack Cloud"
+msgstr "SUSE OpenStack Cloud"
+
+#: slideshow.xml:363(para)
+msgid "SUSE Storage"
+msgstr "SUSE Storage"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "أسماء المترجمين"

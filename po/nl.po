@@ -1,0 +1,256 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow-sles\n"
+"POT-Creation-Date: 2015-11-03 10:04+0100\n"
+"PO-Revision-Date: 2015-11-05 17:03\n"
+"Last-Translator: Novell language <language@novell.com>\n"
+"Language-Team: Novell language <language@novell.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: slideshow.xml:18(title)
+msgid "Slide Show"
+msgstr "Diavoorstelling"
+
+#: slideshow.xml:21(title)
+msgid "SUSE Linux Enterprise 12"
+msgstr "SUSE Linux Enterprise"
+
+#. bnc#885972
+#: slideshow.xml:24(para) slideshow.xml:53(title)
+msgid "Towards Zero Downtime"
+msgstr "Downtime van bijna nul"
+
+#: slideshow.xml:29(para) slideshow.xml:76(title)
+msgid "Best Managed Linux"
+msgstr "Best beheerde Linux"
+
+#: slideshow.xml:34(para) slideshow.xml:112(title)
+msgid "Made for Cloud"
+msgstr "Gemaakt voor de cloud"
+
+#: slideshow.xml:39(para) slideshow.xml:153(title)
+msgid "Most Interoperable Operating System"
+msgstr "Meest interoperabele besturingssysteem"
+
+#: slideshow.xml:44(para) slideshow.xml:206(title)
+msgid "Modular Design"
+msgstr "Modulair ontwerp"
+
+#: slideshow.xml:54(para)
+msgid "Snapshot &amp; rollback for the full system"
+msgstr "Snapshot en terugdraaien voor het volledige systeem"
+
+#: slideshow.xml:57(para)
+msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
+msgstr "Zorg voor een <emphasis>bekende status</emphasis> om naar te kunnen terugkeren voor <emphasis>gemoedsrust</emphasis> bij het volgende:"
+
+#: slideshow.xml:63(para)
+msgid "Kernel upgrades"
+msgstr "Kernelupgrades"
+
+#: slideshow.xml:68(para)
+msgid "Service pack installations"
+msgstr "Servicepackinstallaties"
+
+#: slideshow.xml:79(para)
+msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
+msgstr "<emphasis>YaST:</emphasis> de enige geïntegreerde beheeroplossing voor enkele systemen in de wereld van Linux"
+
+#: slideshow.xml:85(para)
+msgid "Write your own extensions in Ruby now!"
+msgstr "Schrijf nu uw eigen extensies in Ruby!"
+
+#: slideshow.xml:92(para)
+msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
+msgstr "Wicked: een nieuw framework om de complexiteit van Linux-netwerkbeheer te vereenvoudigen"
+
+#: slideshow.xml:98(para)
+msgid "Network configuration as a service"
+msgstr "Netwerkconfiguratie als een service"
+
+#: slideshow.xml:103(para)
+msgid "Smooth adoption &amp; migration"
+msgstr "Probleemloze adoptie en migratie"
+
+#: slideshow.xml:115(para)
+msgid "Reliable Host"
+msgstr "Betrouwbare host"
+
+#: slideshow.xml:120(para)
+msgid "KVM and Xen support included"
+msgstr "Inclusief KVM- en Xen-ondersteuning"
+
+#: slideshow.xml:125(para)
+msgid "Basis for SUSE OpenStack Cloud"
+msgstr "Basis voor SUSE OpenStack Cloud"
+
+#: slideshow.xml:132(para)
+msgid "Perfect Guest"
+msgstr "Perfecte gast"
+
+#: slideshow.xml:137(para)
+msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
+msgstr "Werkt uitstekend op bekende hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V, etc."
+
+#: slideshow.xml:143(para)
+msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
+msgstr "Beschikbaar op Amazon® EC2, Microsoft® Azure, Google® Compute Engine en meer dan 50 andere openbare clouds"
+
+#: slideshow.xml:157(para)
+msgid "Networking – IPv6"
+msgstr "Netwerken – IPv6"
+
+#: slideshow.xml:162(para)
+msgid "Scalable network infrastructures"
+msgstr "Schaalbare netwerkinfrastructuren"
+
+#: slideshow.xml:167(para)
+msgid "Compliant to USGv6 standard"
+msgstr "Compliant met USGv6-norm"
+
+#: slideshow.xml:174(para)
+msgid "Operating Systems"
+msgstr "Besturingssystemen"
+
+#: slideshow.xml:179(para)
+msgid "Windows: Samba 4"
+msgstr "Windows: Samba 4"
+
+#: slideshow.xml:184(para)
+msgid "Active Directory integration"
+msgstr "Integratie met Active Directory"
+
+#: slideshow.xml:189(para)
+msgid "Out-of-the-box experience via YaST"
+msgstr "Direct gebruiksklaar via YaST"
+
+#: slideshow.xml:196(para)
+msgid "UNIX &amp; Linux: NFSv4.1"
+msgstr "UNIX en Linux: NFSv4.1"
+
+#: slideshow.xml:208(para)
+msgid "Five different modules give you balance between the latest technologies and enterprise-level stability:"
+msgstr "Vijf verschillende modules voor meer evenwicht tussen de nieuwste technologieën en stabiliteit op ondernemingsniveau:"
+
+#: slideshow.xml:214(para)
+msgid "Web and Scripting Module"
+msgstr "Web and Scripting Module"
+
+#: slideshow.xml:219(para)
+msgid "Legacy Module"
+msgstr "Legacy Module"
+
+#: slideshow.xml:224(para)
+msgid "Toolchain Module"
+msgstr "Toolchain Module"
+
+#: slideshow.xml:229(para)
+msgid "Public Cloud Module"
+msgstr "Public Cloud Module"
+
+#. bnc#885971
+#: slideshow.xml:235(para)
+msgid "Advanced Systems Management"
+msgstr "Advanced Systems Management"
+
+#: slideshow.xml:243(title)
+msgid "Lifecycle and LTSS"
+msgstr "Levenscyclus en LTSS"
+
+#: slideshow.xml:245(para)
+msgid "SUSE® Linux Enterprise Server:"
+msgstr "SUSE® Linux Enterprise Server:"
+
+#: slideshow.xml:250(para)
+msgid "13-year lifecycle"
+msgstr "Levenscyclus van 13 jaar"
+
+#: slideshow.xml:255(para)
+msgid "10 years of general support"
+msgstr "10 jaar algemene ondersteuning"
+
+#: slideshow.xml:260(para) slideshow.xml:277(para)
+msgid "Up to 3 years of extended support"
+msgstr "Tot 3 jaar verlengde ondersteuning"
+
+#: slideshow.xml:267(para)
+msgid "5-year lifecycle per Service Pack"
+msgstr "Levenscyclus van 5 jaar per servicepack"
+
+#: slideshow.xml:272(para)
+msgid "2 years of general support"
+msgstr "2 jaar algemene ondersteuning"
+
+#: slideshow.xml:284(para)
+msgid "Long Term Service Pack Support (LTSS) available for all releases"
+msgstr "Long Term Service Pack Support (LTSS) beschikbaar voor alle releases"
+
+#: slideshow.xml:291(title)
+msgid "Desktop Experience"
+msgstr "Desktopervaring"
+
+#: slideshow.xml:293(para)
+msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
+msgstr "GNOME 3 als desktopomgeving voor SUSE® Linux Enterprise 12 biedt u twee desktopervaringen om uit te kiezen:"
+
+#: slideshow.xml:299(para)
+msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
+msgstr "Met GNOME Shell van GNOME 3 kunt u desktopfuncties van de volgende generatie verkennen die met een muis en touchscreen kunnen worden gebruikt."
+
+#: slideshow.xml:305(para)
+msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
+msgstr "De standaard GNOME 3 Classic Mode van SUSE gebruikt dezelfde moderne technologie met behoud van bekende gebruikspatronen."
+
+#: slideshow.xml:314(title)
+msgid "SUSE Customer Center"
+msgstr "SUSE Customer Center"
+
+#: slideshow.xml:316(para)
+msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
+msgstr "Ontdek een nieuwe manier om altijd en overal via één interface uw SUSE-account en abonnementen te beheren!"
+
+#: slideshow.xml:322(para)
+msgid "Centralize access to subscriptions and entitlements"
+msgstr "Centraliseer toegang tot abonnementen en rechten"
+
+#: slideshow.xml:327(para)
+msgid "Quick access to support tools"
+msgstr "Snel toegang tot ondersteuningshulpprogramma's"
+
+#: slideshow.xml:332(para)
+msgid "Easy way to provide feedback"
+msgstr "Eenvoudige manier om feedback te geven"
+
+#: slideshow.xml:339(title)
+msgid "More from SUSE ..."
+msgstr "Meer van SUSE..."
+
+#: slideshow.xml:343(para)
+msgid "SUSE Linux Enterprise"
+msgstr "SUSE Linux Enterprise"
+
+#: slideshow.xml:348(para)
+msgid "High Availability Extension"
+msgstr "Extensie met hoge beschikbaarheid"
+
+#: slideshow.xml:353(para)
+msgid "SUSE Manager"
+msgstr "SUSE Manager"
+
+#: slideshow.xml:358(para)
+msgid "SUSE OpenStack Cloud"
+msgstr "SUSE OpenStack Cloud"
+
+#: slideshow.xml:363(para)
+msgid "SUSE Storage"
+msgstr "SUSE Storage"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "translator-credits"

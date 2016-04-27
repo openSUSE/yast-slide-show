@@ -1,0 +1,256 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow-sles\n"
+"POT-Creation-Date: 2015-11-03 10:04+0100\n"
+"PO-Revision-Date: 2015-11-05 16:59\n"
+"Last-Translator: Novell language <language@novell.com>\n"
+"Language-Team: Novell language <language@novell.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: slideshow.xml:18(title)
+msgid "Slide Show"
+msgstr "投影片"
+
+#: slideshow.xml:21(title)
+msgid "SUSE Linux Enterprise 12"
+msgstr "SUSE Linux Enterprise 12"
+
+#. bnc#885972
+#: slideshow.xml:24(para) slideshow.xml:53(title)
+msgid "Towards Zero Downtime"
+msgstr "業務持續運轉"
+
+#: slideshow.xml:29(para) slideshow.xml:76(title)
+msgid "Best Managed Linux"
+msgstr "最佳 Linux 系統管理"
+
+#: slideshow.xml:34(para) slideshow.xml:112(title)
+msgid "Made for Cloud"
+msgstr "專為雲端而建"
+
+#: slideshow.xml:39(para) slideshow.xml:153(title)
+msgid "Most Interoperable Operating System"
+msgstr "互通性最高的作業系統"
+
+#: slideshow.xml:44(para) slideshow.xml:206(title)
+msgid "Modular Design"
+msgstr "模組化設計"
+
+#: slideshow.xml:54(para)
+msgid "Snapshot &amp; rollback for the full system"
+msgstr "完整系統的快照與復原"
+
+#: slideshow.xml:57(para)
+msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
+msgstr "憑藉系統快照，您可在以後復原先前保留的<emphasis>已知狀態</emphasis>，以便在執行下列任務時<emphasis>無後顧之憂</emphasis>︰"
+
+#: slideshow.xml:63(para)
+msgid "Kernel upgrades"
+msgstr "核心升級"
+
+#: slideshow.xml:68(para)
+msgid "Service pack installations"
+msgstr "Service Pack 安裝"
+
+#: slideshow.xml:79(para)
+msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
+msgstr "<emphasis>YaST︰</emphasis>Linux 業界唯一的整合式單系統管理解決方案"
+
+#: slideshow.xml:85(para)
+msgid "Write your own extensions in Ruby now!"
+msgstr "立刻用 Ruby 撰寫您自己的延伸！"
+
+#: slideshow.xml:92(para)
+msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
+msgstr "Wicked︰一套可簡化 Linux 網路管理複雜性的新架構"
+
+#: slideshow.xml:98(para)
+msgid "Network configuration as a service"
+msgstr "網路組態即服務"
+
+#: slideshow.xml:103(para)
+msgid "Smooth adoption &amp; migration"
+msgstr "順利採用及移轉"
+
+#: slideshow.xml:115(para)
+msgid "Reliable Host"
+msgstr "可靠的主機"
+
+#: slideshow.xml:120(para)
+msgid "KVM and Xen support included"
+msgstr "提供 KVM 與 Xen 支援"
+
+#: slideshow.xml:125(para)
+msgid "Basis for SUSE OpenStack Cloud"
+msgstr "SUSE OpenStack Cloud 的基礎知識"
+
+#: slideshow.xml:132(para)
+msgid "Perfect Guest"
+msgstr "完美的客體"
+
+#: slideshow.xml:137(para)
+msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
+msgstr "可在 Xen、KVM、VMware® vSphere、Microsoft® Hyper-V 等主流監管程式上穩健運作。"
+
+#: slideshow.xml:143(para)
+msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
+msgstr "Amazon® EC2、Microsoft® Azure、Google® Compute Engine 及其他 50 多個公用雲端上都可提供"
+
+#: slideshow.xml:157(para)
+msgid "Networking – IPv6"
+msgstr "網路 – IPv6"
+
+#: slideshow.xml:162(para)
+msgid "Scalable network infrastructures"
+msgstr "可擴充網路基礎架構"
+
+#: slideshow.xml:167(para)
+msgid "Compliant to USGv6 standard"
+msgstr "符合 USGv6 標準"
+
+#: slideshow.xml:174(para)
+msgid "Operating Systems"
+msgstr "作業系統"
+
+#: slideshow.xml:179(para)
+msgid "Windows: Samba 4"
+msgstr "Windows︰Samba 4"
+
+#: slideshow.xml:184(para)
+msgid "Active Directory integration"
+msgstr "Active Directory 整合"
+
+#: slideshow.xml:189(para)
+msgid "Out-of-the-box experience via YaST"
+msgstr "透過 YaST 提供立即可用體驗"
+
+#: slideshow.xml:196(para)
+msgid "UNIX &amp; Linux: NFSv4.1"
+msgstr "UNIX 與 Linux︰NFSv4.1"
+
+#: slideshow.xml:208(para)
+msgid "Five different modules give you balance between the latest technologies and enterprise-level stability:"
+msgstr "五個不同模組讓您在最新技術和企業層級的穩定性之間取得平衡︰"
+
+#: slideshow.xml:214(para)
+msgid "Web and Scripting Module"
+msgstr "Web and Scripting Module"
+
+#: slideshow.xml:219(para)
+msgid "Legacy Module"
+msgstr "Legacy Module"
+
+#: slideshow.xml:224(para)
+msgid "Toolchain Module"
+msgstr "Toolchain Module"
+
+#: slideshow.xml:229(para)
+msgid "Public Cloud Module"
+msgstr "Public Cloud Module"
+
+#. bnc#885971
+#: slideshow.xml:235(para)
+msgid "Advanced Systems Management"
+msgstr "Advanced Systems Management"
+
+#: slideshow.xml:243(title)
+msgid "Lifecycle and LTSS"
+msgstr "生命週期與 LTSS"
+
+#: slideshow.xml:245(para)
+msgid "SUSE® Linux Enterprise Server:"
+msgstr "SUSE® Linux Enterprise Server︰"
+
+#: slideshow.xml:250(para)
+msgid "13-year lifecycle"
+msgstr "13 年的生命週期"
+
+#: slideshow.xml:255(para)
+msgid "10 years of general support"
+msgstr "10 年期一般支援"
+
+#: slideshow.xml:260(para) slideshow.xml:277(para)
+msgid "Up to 3 years of extended support"
+msgstr "最長 3 年的延伸支援"
+
+#: slideshow.xml:267(para)
+msgid "5-year lifecycle per Service Pack"
+msgstr "每個 Service Pack 5 年生命週期"
+
+#: slideshow.xml:272(para)
+msgid "2 years of general support"
+msgstr "2 年期一般支援"
+
+#: slideshow.xml:284(para)
+msgid "Long Term Service Pack Support (LTSS) available for all releases"
+msgstr "所有版本均提供長期 Service Pack 支援 (LTSS)"
+
+#: slideshow.xml:291(title)
+msgid "Desktop Experience"
+msgstr "桌面體驗"
+
+#: slideshow.xml:293(para)
+msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
+msgstr "GNOME 3 是 SUSE® Linux Enterprise 12 的桌面環境，它提供了兩種桌面體驗供您選擇︰"
+
+#: slideshow.xml:299(para)
+msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
+msgstr "利用 GNOME 3 的 GNOME 外圍程序，您可以探索透過滑鼠和觸控螢幕使用的新一代桌面功能。"
+
+#: slideshow.xml:305(para)
+msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
+msgstr "SUSE 的預設 GNOME 3 Classic Mode 採用了同樣的最新技術，同時保持了知名的使用模式。"
+
+#: slideshow.xml:314(title)
+msgid "SUSE Customer Center"
+msgstr "SUSE Customer Center"
+
+#: slideshow.xml:316(para)
+msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
+msgstr "發現透過統一介面隨時隨地管理 SUSE 帳戶和訂閱的新方法！"
+
+#: slideshow.xml:322(para)
+msgid "Centralize access to subscriptions and entitlements"
+msgstr "集中進行訂閱和授權的存取"
+
+#: slideshow.xml:327(para)
+msgid "Quick access to support tools"
+msgstr "提供快速存取支援工具的途經"
+
+#: slideshow.xml:332(para)
+msgid "Easy way to provide feedback"
+msgstr "輕鬆提供回饋"
+
+#: slideshow.xml:339(title)
+msgid "More from SUSE ..."
+msgstr "SUSE 的更多產品..."
+
+#: slideshow.xml:343(para)
+msgid "SUSE Linux Enterprise"
+msgstr "SUSE Linux Enterprise"
+
+#: slideshow.xml:348(para)
+msgid "High Availability Extension"
+msgstr "High Availability Extension"
+
+#: slideshow.xml:353(para)
+msgid "SUSE Manager"
+msgstr "SUSE Manager"
+
+#: slideshow.xml:358(para)
+msgid "SUSE OpenStack Cloud"
+msgstr "SUSE OpenStack Cloud"
+
+#: slideshow.xml:363(para)
+msgid "SUSE Storage"
+msgstr "SUSE Storage"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "translator-credits"

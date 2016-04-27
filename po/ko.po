@@ -1,0 +1,256 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow-sles\n"
+"POT-Creation-Date: 2015-11-03 10:04+0100\n"
+"PO-Revision-Date: 2015-11-05 17:02\n"
+"Last-Translator: Novell language <language@novell.com>\n"
+"Language-Team: Novell language <language@novell.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: slideshow.xml:18(title)
+msgid "Slide Show"
+msgstr "슬라이드 쇼"
+
+#: slideshow.xml:21(title)
+msgid "SUSE Linux Enterprise 12"
+msgstr "SUSE Linux Enterprise 12"
+
+#. bnc#885972
+#: slideshow.xml:24(para) slideshow.xml:53(title)
+msgid "Towards Zero Downtime"
+msgstr "작동 중지 시간 0시간 목표"
+
+#: slideshow.xml:29(para) slideshow.xml:76(title)
+msgid "Best Managed Linux"
+msgstr "가장 잘 관리되는 Linux"
+
+#: slideshow.xml:34(para) slideshow.xml:112(title)
+msgid "Made for Cloud"
+msgstr "클라우드용으로 생성됨"
+
+#: slideshow.xml:39(para) slideshow.xml:153(title)
+msgid "Most Interoperable Operating System"
+msgstr "상호 운용성이 가장 뛰어난 운영 체제"
+
+#: slideshow.xml:44(para) slideshow.xml:206(title)
+msgid "Modular Design"
+msgstr "모듈식 설계"
+
+#: slideshow.xml:54(para)
+msgid "Snapshot &amp; rollback for the full system"
+msgstr "전체 시스템에 대한 스냅샷 및 롤백"
+
+#: slideshow.xml:57(para)
+msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
+msgstr "돌아갈 수 있는 <emphasis>잘 알려진 상태</emphasis> 확보, 다음을 <emphasis>안심하고</emphasis> 수행:"
+
+#: slideshow.xml:63(para)
+msgid "Kernel upgrades"
+msgstr "커널 업그레이드"
+
+#: slideshow.xml:68(para)
+msgid "Service pack installations"
+msgstr "서비스 팩 설치"
+
+#: slideshow.xml:79(para)
+msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
+msgstr "<emphasis>YaST:</emphasis> Linux 세계의 유일한 단일 통합 시스템 관리 솔루션"
+
+#: slideshow.xml:85(para)
+msgid "Write your own extensions in Ruby now!"
+msgstr "지금 바로 Ruby를 이용해 확장을 직접 작성해보십시오!"
+
+#: slideshow.xml:92(para)
+msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
+msgstr "Wicked: Linux 네트워크 관리의 복잡성을 간소화하기 위한 새로운 프레임워크"
+
+#: slideshow.xml:98(para)
+msgid "Network configuration as a service"
+msgstr "서비스로서의 네트워크 구성"
+
+#: slideshow.xml:103(para)
+msgid "Smooth adoption &amp; migration"
+msgstr "원활한 채택 및 마이그레이션"
+
+#: slideshow.xml:115(para)
+msgid "Reliable Host"
+msgstr "신뢰할 수 있는 호스트"
+
+#: slideshow.xml:120(para)
+msgid "KVM and Xen support included"
+msgstr "KVM 및 Xen 지원 포함"
+
+#: slideshow.xml:125(para)
+msgid "Basis for SUSE OpenStack Cloud"
+msgstr "SUSE OpenStack 클라우드에 대한 기준"
+
+#: slideshow.xml:132(para)
+msgid "Perfect Guest"
+msgstr "완전한 게스트"
+
+#: slideshow.xml:137(para)
+msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
+msgstr "주류 Hypervisor에서 원활하게 작동: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V 등"
+
+#: slideshow.xml:143(para)
+msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
+msgstr "Amazon® EC2, Microsoft® Azure, Google® Compute Engine 및 기타 50개 이상의 공용 클라우드에서 사용 가능"
+
+#: slideshow.xml:157(para)
+msgid "Networking – IPv6"
+msgstr "네트워킹 - IPv6"
+
+#: slideshow.xml:162(para)
+msgid "Scalable network infrastructures"
+msgstr "확장 가능한 네트워크 인프라"
+
+#: slideshow.xml:167(para)
+msgid "Compliant to USGv6 standard"
+msgstr "USGv6 표준 준수"
+
+#: slideshow.xml:174(para)
+msgid "Operating Systems"
+msgstr "운영 체제"
+
+#: slideshow.xml:179(para)
+msgid "Windows: Samba 4"
+msgstr "Windows: Samba 4"
+
+#: slideshow.xml:184(para)
+msgid "Active Directory integration"
+msgstr "Active Directory 통합"
+
+#: slideshow.xml:189(para)
+msgid "Out-of-the-box experience via YaST"
+msgstr "YaST를 통해 바로 사용 가능"
+
+#: slideshow.xml:196(para)
+msgid "UNIX &amp; Linux: NFSv4.1"
+msgstr "UNIX 및 Linux: NFSv4.1"
+
+#: slideshow.xml:208(para)
+msgid "Five different modules give you balance between the latest technologies and enterprise-level stability:"
+msgstr "다섯 가지 모듈을 통해 최신 기술과 엔터프라이즈급 안정성 간에 균형 조절:"
+
+#: slideshow.xml:214(para)
+msgid "Web and Scripting Module"
+msgstr "Web and Scripting Module"
+
+#: slideshow.xml:219(para)
+msgid "Legacy Module"
+msgstr "Legacy Module"
+
+#: slideshow.xml:224(para)
+msgid "Toolchain Module"
+msgstr "Toolchain Module"
+
+#: slideshow.xml:229(para)
+msgid "Public Cloud Module"
+msgstr "Public Cloud Module"
+
+#. bnc#885971
+#: slideshow.xml:235(para)
+msgid "Advanced Systems Management"
+msgstr "Advanced Systems Management"
+
+#: slideshow.xml:243(title)
+msgid "Lifecycle and LTSS"
+msgstr "라이프싸이클 및 LTSS"
+
+#: slideshow.xml:245(para)
+msgid "SUSE® Linux Enterprise Server:"
+msgstr "SUSE® Linux Enterprise Server:"
+
+#: slideshow.xml:250(para)
+msgid "13-year lifecycle"
+msgstr "13년 라이프싸이클"
+
+#: slideshow.xml:255(para)
+msgid "10 years of general support"
+msgstr "일반 지원 10년"
+
+#: slideshow.xml:260(para) slideshow.xml:277(para)
+msgid "Up to 3 years of extended support"
+msgstr "최대 3년 연장 지원"
+
+#: slideshow.xml:267(para)
+msgid "5-year lifecycle per Service Pack"
+msgstr "서비스 팩당 5년 라이프싸이클"
+
+#: slideshow.xml:272(para)
+msgid "2 years of general support"
+msgstr "일반 지원 2년"
+
+#: slideshow.xml:284(para)
+msgid "Long Term Service Pack Support (LTSS) available for all releases"
+msgstr "모든 릴리스에서 LTSS(Long Term Service Pack Support) 이용 가능"
+
+#: slideshow.xml:291(title)
+msgid "Desktop Experience"
+msgstr "데스크톱 경험"
+
+#: slideshow.xml:293(para)
+msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
+msgstr "SUSE® Linux Enterprise 12용 데스크톱 환경으로서의 GNOME 3은 다음의 두 가지 데스크톱 경험 중에서 선택할 수 있는 옵션을 제공합니다."
+
+#: slideshow.xml:299(para)
+msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
+msgstr "GNOME 3의 GNOME Shell을 사용하면 마우스와 터치스크린으로 이용할 수 있는 차세대 데스크톱 기능을 경험할 수 있습니다."
+
+#: slideshow.xml:305(para)
+msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
+msgstr "SUSE의 기본 GNOME 3 Classic Mode는 동일한 최신 기술을 활용하는 한편 잘 알려진 사용 패턴을 유지합니다."
+
+#: slideshow.xml:314(title)
+msgid "SUSE Customer Center"
+msgstr "SUSE 고객 센터"
+
+#: slideshow.xml:316(para)
+msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
+msgstr "단일 인터페이스를 통해 언제 어디서나 SUSE 계정과 구독을 관리할 수 있는 새로운 방법을 확인해보십시오!"
+
+#: slideshow.xml:322(para)
+msgid "Centralize access to subscriptions and entitlements"
+msgstr "구독 및 권한 부여에 대한 액세스 중앙 집중화"
+
+#: slideshow.xml:327(para)
+msgid "Quick access to support tools"
+msgstr "지원 도구에 빠르게 액세스"
+
+#: slideshow.xml:332(para)
+msgid "Easy way to provide feedback"
+msgstr "손쉽게 피드백 제공"
+
+#: slideshow.xml:339(title)
+msgid "More from SUSE ..."
+msgstr "SUSE를 더 잘 활용하기..."
+
+#: slideshow.xml:343(para)
+msgid "SUSE Linux Enterprise"
+msgstr "SUSE Linux Enterprise"
+
+#: slideshow.xml:348(para)
+msgid "High Availability Extension"
+msgstr "고가용성 확장"
+
+#: slideshow.xml:353(para)
+msgid "SUSE Manager"
+msgstr "SUSE Manager"
+
+#: slideshow.xml:358(para)
+msgid "SUSE OpenStack Cloud"
+msgstr "SUSE OpenStack Cloud"
+
+#: slideshow.xml:363(para)
+msgid "SUSE Storage"
+msgstr "SUSE 저장소"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "translator-credits"
