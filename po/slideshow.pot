@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-04-15 18:12+0200\n"
+"POT-Creation-Date: 2016-04-27 16:19+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9,145 +9,242 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: slideshow.xml:14(title)
+#: slideshow.xml:18(title)
 msgid "Slide Show"
 msgstr ""
 
-#: slideshow.xml:17(title)
-msgid "Welcome to openSUSE™!"
+#: slideshow.xml:21(title)
+msgid "SUSE Linux Enterprise 12"
 msgstr ""
 
-#: slideshow.xml:19(para)
-msgid "There is a reason why openSUSE is \"the makers' choice for sysadmins, developers and desktop users;\" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and Leap 42.1 complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages."
+#. bnc#885972
+#: slideshow.xml:24(para) slideshow.xml:53(title)
+msgid "Towards Zero Downtime"
 msgstr ""
 
-#: slideshow.xml:25(title)
-msgid "openSUSE.org"
+#: slideshow.xml:29(para) slideshow.xml:76(title)
+msgid "Best Managed Linux"
 msgstr ""
 
-#: slideshow.xml:27(para)
-msgid "openSUSE is a community project created and sponsored by SUSE to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
+#: slideshow.xml:34(para) slideshow.xml:112(title)
+msgid "Made for Cloud"
 msgstr ""
 
-#: slideshow.xml:35(para)
-msgid "Visit en.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+#: slideshow.xml:39(para) slideshow.xml:153(title)
+msgid "Most Interoperable Operating System"
 msgstr ""
 
-#: slideshow.xml:40(title)
-msgid "openSUSE in Many Languages"
+#: slideshow.xml:44(para) slideshow.xml:206(title)
+msgid "Modular Design"
 msgstr ""
 
-#: slideshow.xml:42(para)
-msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
+#: slideshow.xml:54(para)
+msgid "Snapshot &amp; rollback for the full system"
 msgstr ""
 
-#: slideshow.xml:51(title)
-msgid "Connect and Communicate"
+#: slideshow.xml:57(para)
+msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
 msgstr ""
 
-#: slideshow.xml:53(para)
-msgid "You can communicate more effectively with openSUSE Leap 42.1 because it provides a complete set of tools for Web browsing and e-mail management — it even includes the newest Voice over IP technology."
+#: slideshow.xml:63(para)
+msgid "Kernel upgrades"
 msgstr ""
 
-#: slideshow.xml:59(para)
-msgid "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+#: slideshow.xml:68(para)
+msgid "Service pack installations"
 msgstr ""
 
-#: slideshow.xml:65(para)
-msgid "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+#: slideshow.xml:79(para)
+msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
 msgstr ""
 
-#: slideshow.xml:74(title)
-msgid "Create, View and Listen"
+#: slideshow.xml:85(para)
+msgid "Write your own extensions in Ruby now!"
 msgstr ""
 
-#: slideshow.xml:75(para)
-msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE Leap 42.1."
+#: slideshow.xml:92(para)
+msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
 msgstr ""
 
-#: slideshow.xml:85(title)
-msgid "Documents, Spreadsheets and More"
+#: slideshow.xml:98(para)
+msgid "Network configuration as a service"
 msgstr ""
 
-#: slideshow.xml:87(para)
-msgid "The openSUSE Leap 42.1 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr ""
-
-#: slideshow.xml:98(title)
-msgid "Graphics, Graphics, Graphics"
-msgstr ""
-
-#: slideshow.xml:100(para)
-msgid "Using the tools in openSUSE Leap 42.1, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr ""
-
-#: slideshow.xml:105(para)
-msgid "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr ""
-
-#: slideshow.xml:113(title)
-msgid "Computing On-the-Go"
+#: slideshow.xml:103(para)
+msgid "Smooth adoption &amp; migration"
 msgstr ""
 
 #: slideshow.xml:115(para)
-msgid "openSUSE Leap 42.1 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth."
+msgid "Reliable Host"
 msgstr ""
 
-#: slideshow.xml:119(para)
-msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
+#: slideshow.xml:120(para)
+msgid "KVM and Xen support included"
 msgstr ""
 
-#: slideshow.xml:127(title)
-msgid "Your operating system - respecting privacy - providing security"
+#: slideshow.xml:125(para)
+msgid "Basis for SUSE OpenStack Cloud"
 msgstr ""
 
-#: slideshow.xml:129(para)
-msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.1 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+#: slideshow.xml:132(para)
+msgid "Perfect Guest"
 msgstr ""
 
-#. for the online update feature, see bnc#793710
-#: slideshow.xml:133(para)
-msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+#: slideshow.xml:137(para)
+msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
 msgstr ""
 
-#: slideshow.xml:145(title)
-msgid "Virtualization Technology and Application Development Tools"
+#: slideshow.xml:143(para)
+msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
 msgstr ""
 
-#: slideshow.xml:147(para)
-msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+#: slideshow.xml:157(para)
+msgid "Networking – IPv6"
 msgstr ""
 
-#: slideshow.xml:157(title)
-msgid "Learn More"
+#: slideshow.xml:162(para)
+msgid "Scalable network infrastructures"
 msgstr ""
 
-#: slideshow.xml:158(para)
-msgid "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+#: slideshow.xml:167(para)
+msgid "Compliant to USGv6 standard"
 msgstr ""
 
-#: slideshow.xml:168(para)
-msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official SUSE Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
+#: slideshow.xml:174(para)
+msgid "Operating Systems"
 msgstr ""
 
 #: slideshow.xml:179(para)
-msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgid "Windows: Samba 4"
 msgstr ""
 
-#: slideshow.xml:188(para)
-msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+#: slideshow.xml:184(para)
+msgid "Active Directory integration"
 msgstr ""
 
-#: slideshow.xml:197(title)
-msgid "SUSE and Linux"
+#: slideshow.xml:189(para)
+msgid "Out-of-the-box experience via YaST"
 msgstr ""
 
-#: slideshow.xml:198(para)
-msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
+#: slideshow.xml:196(para)
+msgid "UNIX &amp; Linux: NFSv4.1"
 msgstr ""
 
-#: slideshow.xml:203(para)
-msgid "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 10 year maintenance guarantee out of the box with the possibility of extending it to 13 years as well as other optional support programs. For more information on enterprise Linux from SUSE, visit http://www.suse.com"
+#: slideshow.xml:208(para)
+msgid "Five different modules give you balance between the latest technologies and enterprise-level stability:"
+msgstr ""
+
+#: slideshow.xml:214(para)
+msgid "Web and Scripting Module"
+msgstr ""
+
+#: slideshow.xml:219(para)
+msgid "Legacy Module"
+msgstr ""
+
+#: slideshow.xml:224(para)
+msgid "Toolchain Module"
+msgstr ""
+
+#: slideshow.xml:229(para)
+msgid "Public Cloud Module"
+msgstr ""
+
+#. bnc#885971
+#: slideshow.xml:235(para)
+msgid "Advanced Systems Management"
+msgstr ""
+
+#: slideshow.xml:243(title)
+msgid "Lifecycle and LTSS"
+msgstr ""
+
+#: slideshow.xml:245(para)
+msgid "SUSE® Linux Enterprise Server:"
+msgstr ""
+
+#: slideshow.xml:250(para)
+msgid "13-year lifecycle"
+msgstr ""
+
+#: slideshow.xml:255(para)
+msgid "10 years of general support"
+msgstr ""
+
+#: slideshow.xml:260(para) slideshow.xml:277(para)
+msgid "Up to 3 years of extended support"
+msgstr ""
+
+#: slideshow.xml:267(para)
+msgid "5-year lifecycle per Service Pack"
+msgstr ""
+
+#: slideshow.xml:272(para)
+msgid "2 years of general support"
+msgstr ""
+
+#: slideshow.xml:284(para)
+msgid "Long Term Service Pack Support (LTSS) available for all releases"
+msgstr ""
+
+#: slideshow.xml:291(title)
+msgid "Desktop Experience"
+msgstr ""
+
+#: slideshow.xml:293(para)
+msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
+msgstr ""
+
+#: slideshow.xml:299(para)
+msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
+msgstr ""
+
+#: slideshow.xml:305(para)
+msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
+msgstr ""
+
+#: slideshow.xml:314(title)
+msgid "SUSE Customer Center"
+msgstr ""
+
+#: slideshow.xml:316(para)
+msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
+msgstr ""
+
+#: slideshow.xml:322(para)
+msgid "Centralize access to subscriptions and entitlements"
+msgstr ""
+
+#: slideshow.xml:327(para)
+msgid "Quick access to support tools"
+msgstr ""
+
+#: slideshow.xml:332(para)
+msgid "Easy way to provide feedback"
+msgstr ""
+
+#: slideshow.xml:339(title)
+msgid "More from SUSE ..."
+msgstr ""
+
+#: slideshow.xml:343(para)
+msgid "SUSE Linux Enterprise"
+msgstr ""
+
+#: slideshow.xml:348(para)
+msgid "High Availability Extension"
+msgstr ""
+
+#: slideshow.xml:353(para)
+msgid "SUSE Manager"
+msgstr ""
+
+#: slideshow.xml:358(para)
+msgid "SUSE OpenStack Cloud"
+msgstr ""
+
+#: slideshow.xml:363(para)
+msgid "SUSE Storage"
 msgstr ""
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
