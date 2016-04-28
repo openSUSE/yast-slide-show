@@ -5,12 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2015-11-05 16:57\n"
-"Last-Translator: Novell language <language@novell.com>\n"
-"Language-Team: Novell language <language@novell.com>\n"
+"PO-Revision-Date: 2016-04-28 20:26+0000\n"
+"Last-Translator: Benoît Monin <benoit.monin@gmx.fr>\n"
+"Language-Team: French <http://l10n.opensuse.org/projects/yast-slide-"
+"show/sle-12-sp2/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -196,7 +200,9 @@ msgstr "Votre environnement de bureau"
 
 #: slideshow.xml:293(para)
 msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
-msgstr "GNOME 3 est l'interface graphique de SUSE® Linux Enterprise 12. Elle vous permet de choisir entre deux types d'expérience utilisateur:"
+msgstr ""
+"GNOME 3 est l'interface graphique de SUSE® Linux Enterprise 12. Elle vous "
+"permet de choisir entre deux types d'expérience utilisateur :"
 
 #: slideshow.xml:299(para)
 msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
