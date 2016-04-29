@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: slideshow.ko\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2016-04-26 17:56+0200\n"
-"PO-Revision-Date: 2010-06-12 12:41+0900\n"
+"PO-Revision-Date: 2016-04-29 01:57+0000\n"
 "Last-Translator: Yunseok Choi <xein@naver.com>\n"
-"Language-Team: Korean <xein@naver.com>\n"
+"Language-Team: Korean <http://l10n.opensuse.org/projects/yast-slide-"
+"show/master/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.5\n"
 "X-Poedit-Language: Korean\n"
 "X-Poedit-Country: KOREA, REPUBLIC OF\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -26,9 +28,8 @@ msgid "Slide Show"
 msgstr "슬라이드 쇼"
 
 #: slideshow.xml:17(title)
-#, fuzzy
 msgid "Welcome to openSUSE™!"
-msgstr "오픈수세™에 오신것을 환영합니다."
+msgstr "openSUSE™ 에 오신것을 환영합니다!"
 
 #: slideshow.xml:19(para)
 msgid ""
@@ -49,7 +50,6 @@ msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
-#, fuzzy
 msgid ""
 "openSUSE is a community project created and sponsored by SUSE to deliver the "
 "world's most user-friendly computing platform. Many people from around the "
@@ -58,19 +58,17 @@ msgid ""
 "languages. All of that work is available for free in the openSUSE Linux "
 "distribution available at www.opensuse.org."
 msgstr ""
-"오픈수세는 커뮤니티의 참여로 이루어지는 세계적인 오픈 소스 컴퓨팅 플렛폼입니"
-"다. 오픈수세 배포판의 설명서, 다국어화, 소프트웨어, 테스트 프로그램은 많은 사"
-"용자의 참여로 만들졌습니다. 오픈수세 프로젝트와 노벨(Novell)의 지원이 함께 합"
-"니다. 오픈수세 사이트 : www.opensuse.org "
+"오픈수세는 SUSE의 지원아래 커뮤니티의 참여로 만들어지는 세계적인 오픈소스 컴퓨팅 플렛폼입니다. 오픈수세 프로젝트는 소프트웨어의 배포, "
+"프로그램의 테스트, 매뉴얼 제작, 모든 내용들의 번역 등, 많은 사용자들의 자발적인 재능 기부로 이루어진것들 입니다. 이렇게 이루어진 "
+"오픈수세 배포판은 www.opensuse.org 에서 무료로 받아볼 수 있습니다."
 
 #: slideshow.xml:35(para)
-#, fuzzy
 msgid ""
 "Visit www.opensuse.org/How_to_Participate to learn how you can join the "
 "openSUSE community."
 msgstr ""
-"www.opensuse.org/How_to_Participate 에 방문하여 오픈수세 커뮤니티에 참여하시"
-"면 보다 많은것을 배울 수 있습니다."
+"www.opensuse.org/How_to_Participate 에 방문하여 오픈수세 커뮤니티에 참여하시면 보다 많은 것을 알아볼 수 "
+"있습니다."
 
 #: slideshow.xml:40(title)
 msgid "openSUSE in Many Languages"
@@ -92,18 +90,15 @@ msgid "Connect and Communicate"
 msgstr "연결하고 대화하고"
 
 #: slideshow.xml:53(para)
-#, fuzzy
 msgid ""
 "You can communicate more effectively with openSUSE Leap 42.1 because it "
 "provides a complete set of tools for Web browsing and e-mail management — it "
 "even includes the newest Voice over IP technology."
 msgstr ""
-"효과적인 의사 소통을 위해 오픈수세 11.3 에는 웹 탐색 기능과 이메일 관리 프로"
-"그램이 들어있고, 인터넷 전화(VoIP-Voice over IP) 같은 최신 기술을 지원 합니"
-"다."
+"보다 효과적인 의사 소통을 위해 openSUSE Leap 42.1 에는 웹 탐색 기능과 이메일 관리 프로그램이 들어있고, 인터넷 전화"
+"(VoIP-Voice over IP) 같은 최신 기술을 지원 합니다."
 
 #: slideshow.xml:59(para)
-#, fuzzy
 msgid ""
 "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in "
 "the world. Firefox includes all the features you need to enjoy the Web, "
@@ -111,31 +106,26 @@ msgid ""
 "performance, and a number of improvements designed to protect your privacy "
 "and prevent phishing attacks."
 msgstr ""
-"오픈수세에는 세계 최고의 웹 브라우저 모질라 불여우가 포함되어있습니다. 불여우"
-"에는 웹을 즐기기 위한 자바, 어도비 아크로벳 리더, 리얼플레이어 및 어도비 플래"
-"시 플러그인 기능이 내장되어있습니다. 불여우는 여느 브라우저보다 가볍고 빠른 "
-"속도를 자랑합니다. 여기에 개인정보 보호 및 피싱 공격으로부터 사용자를 보호하"
-"는 기능도 갖추고 있습니다."
+"openSUSE Leap 42.1 에는 세계 최고의 웹 브라우저 모질라 파이어폭스가 포함되어있습니다. 파이어폭스에는 웹을 즐기기 위한 "
+"최신 HTML5 기술이 내장되어있습니다. 파이어폭스는 여느 브라우저보다 가볍고 빠른 속도를 자랑합니다. 여기에 개인정보 보호 및 피싱 "
+"공격으로부터 사용자를 보호하는 기능도 갖추고 있습니다."
 
 #: slideshow.xml:65(para)
-#, fuzzy
 msgid ""
 "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-"
 "mail and contact management applications. For instant messaging, openSUSE "
 "features easy to use IM clients that support all of the popular protocols: "
 "AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
 msgstr ""
-"오픈수세에는 노벨 에볼루션(메일)과 콘탁(연락처 관리) 응용프로그램이 포함되어 "
-"있습니다. 인스턴트 메시지를 위해 초보자도 사용 할 수 있는 IM 클라이언트를 제"
-"공하고 있습니다. 지원하는 프로토콜은 AIM, Google Talk, Jabber, MSN, Yahoo!, "
-"Groupwise, 네이트온 등이 있습니다."
+"openSUSE Leap 42.1 에는 에볼루션(메일)과 Kontact(연락처 관리)같은 이메일, 연락처 관리 응용프로그램이 포함되어 "
+"있습니다. 여기에 초보자도 사용 할 수 있는 IM(Instant Messaging) 클라이언트를 제공하고 있습니다. 지원하는 프로토콜은 "
+"AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise 등이 있습니다."
 
 #: slideshow.xml:74(title)
 msgid "Create, View and Listen"
 msgstr "만들고, 보고, 듣고"
 
 #: slideshow.xml:75(para)
-#, fuzzy
 msgid ""
 "Download tunes from the Internet. Rip CDs to create your own customized "
 "music library. Listen to your playlist online. Burn CDs or DVDs. Copy your "
@@ -143,10 +133,9 @@ msgid ""
 "edit digital pictures with powerful graphics editors. It's all easy with "
 "openSUSE Leap 42.1."
 msgstr ""
-"인터넷에서 음악을 다운로드 합니다. CD에서 음악을 추출하여 자신만의 음악 라이"
-"브러리를 만듭니다. 온라인으로 자신의 재생목록을 듣습니다. CD와 DVD를 굽습니"
-"다. iPod나 mp3 플레이어로 자신의 음악파일을 복사합니다. 강력한 그래픽 관리자"
-"로 사진 및 이미지를 편집하거나 관리 합니다. 이 모든것이 오픈수세에서는 너무 "
+"또 인터넷으로 음악을 재생할 수 있습니다. CD에서 음악을 추출하여 자신만의 음악 라이브러리를 만들어 이 재생 목록을 온라인으로 들을 수 "
+"있습니다. CD와 DVD 굽기도 가능합니다. 아이팟이나 mp3 플레이어로 자신의 음악파일을 복사할 수 도 있습니다. 강력한 그래픽 "
+"편집기로 자신의 디지털 사진 또는 이미지를 편집하거나 관리할 수 있습니다. 이 모든 것이 openSUSE Leap 42.1 에서는 너무 "
 "쉽습니다."
 
 #: slideshow.xml:85(title)
@@ -154,7 +143,6 @@ msgid "Documents, Spreadsheets and More"
 msgstr "문서, 스프레드시트 그리고 여러가지"
 
 #: slideshow.xml:87(para)
-#, fuzzy
 msgid ""
 "The openSUSE Leap 42.1 distribution comes complete with the latest version "
 "of the leading Linux productivity suite, LibreOffice. It features a word "
@@ -164,53 +152,47 @@ msgid ""
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"오픈수세 11.3 배포판은 항상 오픈오피스의 최신버전을 유지하여 생산성을 향상 시"
-"킵니다. 여기에는 문서 작성기, 스프레드시트 응용 프로그램, HTML 편집기, 프리젠"
-"테이션 디자이너, 데이터베이스 관리자가 있습니다. 그리고 마이크로소프트 오피"
-"스 확장자 같은 다른 여러 종류의 확장자를 읽어 낼 수 있습니다. 오픈오피스는 보"
-"고서, 논문, 가계부, 간단한 그래픽 등 여러기능에 대한 최고의 선택이 될것입니"
-"다."
+"openSUSE Leap 42.1 은 항상 리브레오피스의 최신 버전을 유지하여 여러분 컴퓨터의 생산성을 향상 시킵니다. 여기에는 "
+"워드프로세서(문서 작성), 스프레드시트(엑셀), HTML 에디터(편집기), 프리젠테이션 디자이너(파워포인트), 데이터베이스 관리자가 "
+"있습니다. 이것으로 마이크로소프트 오피스 같은, 다른 여러 종류의 문서를 읽고 쓸 수 있습니다. 이를 통해 여러분은 오픈수세 또는 "
+"리눅스가 아닌 다른 플렛폼(윈도우, OSX 등)을 자유롭게 넘나들며 같은 문서를 공유할 수 있습니다. 리브레오피스는 보고서, 논문, "
+"가계부, 간단한 그래픽 등 문서작업에 있어서 최고의 선택이 될것입니다."
 
 #: slideshow.xml:98(title)
 msgid "Graphics, Graphics, Graphics"
 msgstr "그래픽, 그래픽, 그래픽"
 
 #: slideshow.xml:100(para)
-#, fuzzy
 msgid ""
 "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"오픈수세의 그래픽 도구와 함께 하세요. 전문적인 이미지 편집과 생성에 강력한 "
-"GIMP 프로그램이 들어 있습니다."
+"openSUSE Leap 42.1 의 그래픽 도구와 함께 하세요. 모든 종류의 그래픽 형식을 지원(제작, 편집)합니다. 전문적인 이미지 "
+"편집과 제작에 필요한 강력한 그래픽 도구 GIMP 프로그램이 들어 있습니다."
 
 #: slideshow.xml:105(para)
-#, fuzzy
 msgid ""
 "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"백터 그래픽을 위해 오픈수세에는 잉크스케이프가 들어 있습니다. 투명층 지원, 비"
-"트맵 추적, 텍스트 경로 같은 다양한 그래픽 솔루션을 제공 합니다."
+"또, openSUSE Leap 42.1 에는 백터 그래픽 용 잉크스케이프(Inkscape)가 들어 있습니다. 투명 레이어 지원, 비트맵 "
+"추적, 텍스트 경로 같은 다양한 그래픽 솔루션을 제공 합니다."
 
 #: slideshow.xml:113(title)
 msgid "Computing On-the-Go"
 msgstr "켜고 쓰는 컴퓨터"
 
 #: slideshow.xml:115(para)
-#, fuzzy
 msgid ""
 "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
 "switch effortlessly between wireless and wired networks using "
 "NetworkManager. Connect with mobile devices like mobile phones, tablets and "
 "PDAs via Bluetooth."
 msgstr ""
-"오픈수세 배포판은 고급 모바일 기능을 지원합니다. 무선과 유선 네트워크를 "
-"NetworkManager에서 쉽게 전환 시킬 수 있습니다.  휴대폰, PDA, 블루투스 같은 모"
-"바일 장치와 연결하여 데이터를 동기화시키거나 적외선 포트를 이용할 수 있습니"
-"다."
+"openSUSE Leap 42.1 은 고급 모바일 기능들을 지원합니다. 무선과 유선 네트워크를 NetworkManager 에서 쉽게 전환 "
+"시킬 수 있습니다.  휴대폰, 타블렛, PDA, 블루투스 같은 모바일 장치와 연결을 이용할 수 도 있습니다."
 
 #: slideshow.xml:119(para)
 msgid ""
@@ -339,9 +321,8 @@ msgstr ""
 "습니다."
 
 #: slideshow.xml:197(title)
-#, fuzzy
 msgid "SUSE and Linux"
-msgstr "노벨(Novell)과 리눅스"
+msgstr "수세(SUSE)와 리눅스"
 
 #: slideshow.xml:198(para)
 #, fuzzy
@@ -370,7 +351,7 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "최윤석 <xein@naver.com>, 2008"
+msgstr "최윤석 <xein@naver.com>, 2016, 2008"
 
 #, fuzzy
 #~ msgid ""
