@@ -13,15 +13,16 @@ msgstr ""
 "Project-Id-Version: slideshow.sv\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-26 17:56+0200\n"
-"PO-Revision-Date: 2015-12-13 15:08+0100\n"
+"PO-Revision-Date: 2016-04-29 15:45+0000\n"
 "Last-Translator: Jonas Svensson <jonas@ekhorva.se>\n"
-"Language-Team: Swedish <\topensuse-translation@opensuse.org>\n"
-"Language: sv_SE\n"
+"Language-Team: Swedish <http://l10n.opensuse.org/projects/yast-slide-"
+"show/master/sv/>\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
@@ -45,7 +46,7 @@ msgid ""
 "want continuously updated, tested and new stable packages."
 msgstr ""
 "Det finns en anledning till att openSUSE är \"the makers' choice\" för "
-"utvecklare programmerare och datoranvändare. openSUSE erbjuder en "
+"utvecklare programmerare och datoranvändare - openSUSE erbjuder en "
 "användarvänlig datormiljö för hem och kontor såväl som en funktionsrik "
 "serverplattform. Står du i valet och kvalet mellan den senaste programvaran "
 "eller en stabil distribution ger dig openSUSE dig det bästa av två världar - "
@@ -53,7 +54,7 @@ msgstr ""
 "plattform avsedd för företag, och kombinerar denna beprövade teknologi med "
 "innovativ open-source anda. Som komplement finns även openSUSE:s andra "
 "distribution, Tumbleweed, en rullande utgåva där du alltid får det senaste, "
-"paketerat, testat och klart!"
+"paketerat, testat och klart."
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
@@ -76,7 +77,6 @@ msgstr ""
 "kostnadsfritt genom openSUSE - www.opensuse.org ."
 
 #: slideshow.xml:35(para)
-#, fuzzy
 msgid ""
 "Visit www.opensuse.org/How_to_Participate to learn how you can join the "
 "openSUSE community."
@@ -159,7 +159,7 @@ msgstr ""
 
 #: slideshow.xml:85(title)
 msgid "Documents, Spreadsheets and More"
-msgstr "Dokument, kalkylark och mer..."
+msgstr "Dokument, kalkylark mm"
 
 #: slideshow.xml:87(para)
 msgid ""
@@ -201,9 +201,9 @@ msgid ""
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"För avancerad vektorgrafik inkluderar openSUSE Leap 42.1 Inkscape. Det är en "
-"mångsidig grafiklösning som har stöd för transparenta lager, "
-"bitmappspårning, textvägar och mycket annat. "
+"För avancerad vektorgrafik inkluderar openSUSE Leap 42.1 Inkscape — en "
+"mångsidigt grafiskt verktyg som har stöd för transparenta lager, "
+"bitmappspårning, textvägar och mycket annat."
 
 #: slideshow.xml:113(title)
 msgid "Computing On-the-Go"
@@ -324,8 +324,8 @@ msgstr ""
 "Under \"Dokumentation\" hittar du länkar till användbar dokumentation som är "
 "skapad och underhållen av andra openSUSE-användare. Du hittar också länkar "
 "till den officiella dokumentationen på SUSE:s webbplats. För hjälp med "
-"specifika openSUSE-problem kan du titta i Support Database på www.opensuse."
-"org ."
+"specifika openSUSE-problem kan du titta i Support Database på "
+"www.opensuse.org"
 
 #: slideshow.xml:179(para)
 msgid ""
@@ -379,14 +379,14 @@ msgstr ""
 "SUSE Linux Enterprise Desktop. Våra företagsprodukter levereras som standard "
 "med 10 års underhållsgaranti som kan förlängas till 13 år. Utöver detta "
 "finns flera andra supportalternativ. För mer information om SUSE:s "
-"företagslösningar, besök http://www.suse.com ."
+"företagslösningar, besök http://www.suse.com"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr ""
-"Mattias Newzella <newzella@linux.se>, 2006, 2007.Jonas Svensson <jks@ekhorva."
-"se>, 2015."
+"Mattias Newzella <newzella@linux.se>, 2006, 2007\n"
+"Jonas Svensson <jks@ekhorva.se>, 2015, 2016"
 
 #, fuzzy
 #~ msgid ""
