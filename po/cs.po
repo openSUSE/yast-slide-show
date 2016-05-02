@@ -5,16 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2015-11-05 17:02\n"
-"Last-Translator: Novell language <language@novell.com>\n"
-"Language-Team: Novell language <language@novell.com>\n"
+"PO-Revision-Date: 2016-05-02 07:59+0000\n"
+"Last-Translator: Vojtech Zeisek <Vojtech.Zeisek@opensuse.org>\n"
+"Language-Team: Czech <http://l10n.opensuse.org/projects/yast-slide-"
+"show/sle-12-sp2/cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
-msgstr "Promítání"
+msgstr "Prezentace"
 
 #: slideshow.xml:21(title)
 msgid "SUSE Linux Enterprise 12"
@@ -139,24 +143,24 @@ msgstr "Pět různých modulů poskytuje rovnováhu mezi nejnovějšími technol
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Web and Scripting Module"
+msgstr "Webový a skriptovací modul"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Legacy Module"
+msgstr "Legacy Modul"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Toolchain Module"
+msgstr "Nástrojový modul"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Public Cloud Module"
+msgstr "Modul veřejného cloudu"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Advanced Systems Management"
+msgstr "Pokročilá správa systému"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
@@ -253,4 +257,8 @@ msgstr "Úložiště SUSE"
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "translator-credits"
+msgstr ""
+"Klára Cihlářová <koty@seznam.cz>, 2006\n"
+"Jakub Friedl <jfriedl@suse.cz>, 2006\n"
+"Jakub Hegenbart <jhegenbart@suse.cz>, 2007-2015 Vojtěch Zeisek "
+"<Vojtech.Zeisek@opensuse.org>, 2010-2015 Jan Papež <honyczek@centrum.cz>"
