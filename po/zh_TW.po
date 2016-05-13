@@ -9,15 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-04-26 17:56+0200\n"
-"PO-Revision-Date: 2015-10-22 17:21+0800\n"
-"Last-Translator: Max Lin <mlin@suse.com>\n"
-"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2016-05-13 18:35+0000\n"
+"Last-Translator: Ray chen <swyear@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) <http://l10n.opensuse.org/projects/yast-"
+"slide-show/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
@@ -65,13 +66,10 @@ msgstr ""
 "opensuse.org 免費取得。"
 
 #: slideshow.xml:35(para)
-#, fuzzy
 msgid ""
 "Visit www.opensuse.org/How_to_Participate to learn how you can join the "
 "openSUSE community."
-msgstr ""
-"請造訪 www.opensuse.org/How_to_Participate 來了解您可以如何加入成為 openSUSE "
-"社群的一份子。"
+msgstr "請造訪 www.opensuse.org/How_to_Participate 來了解您可以如何加入成為 openSUSE 社群的一份子。"
 
 #: slideshow.xml:40(title)
 msgid "openSUSE in Many Languages"
@@ -210,7 +208,7 @@ msgstr ""
 
 #: slideshow.xml:127(title)
 msgid "Your operating system - respecting privacy - providing security"
-msgstr ""
+msgstr "你的作業系統 - 重視隱私 - 提供安全"
 
 #: slideshow.xml:129(para)
 msgid ""
