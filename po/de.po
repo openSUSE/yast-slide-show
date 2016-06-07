@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.de\n"
 "POT-Creation-Date: 2016-04-26 17:56+0200\n"
-"PO-Revision-Date: 2016-05-23 13:44+0000\n"
-"Last-Translator: Ludwig Nussel <lnussel@suse.com>\n"
-"Language-Team: German <http://l10n.opensuse.org/projects/yast-slide-"
+"PO-Revision-Date: 2016-06-07 16:08+0000\n"
+"Last-Translator: Stanislav Brabec <sbrabec@suse.com>\n"
+"Language-Team: German <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -396,5 +396,6 @@ msgstr ""
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
+#, fuzzy
 msgid "translator-credits"
 msgstr "Dank an die Übersetzer"
