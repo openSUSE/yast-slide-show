@@ -17,7 +17,16 @@
   <title>Welcome to openSUSE™!</title>
 
     <para>
-There is a reason why openSUSE is "the makers' choice for sysadmins, developers and desktop users;" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. &suse-version; provides "The Best of Two Worlds" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, &suse-version; combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and &suse-version; complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages.
+There is a reason why openSUSE is "the makers' choice for sysadmins,
+developers and desktop users;" openSUSE gives you choice and provides
+a user-friendly desktop, and feature-rich server environment. People
+torn between newer software and a long-term, highly stable Linux system
+turn to openSUSE. &suse-version; provides "The Best of Two Worlds" – 
+reliability and contemporary software. Based on the core of SUSE Linux
+Enterprise, &suse-version; combines the proven SUSE core with the innovative
+spirit of open-source communities. That combinations gives makers choices
+and &suse-version; complements openSUSE's other release Tumbleweed, which
+caters to those who want continuously updated, tested and new stable packages.
 </para>
  </section>
 
@@ -53,7 +62,7 @@ Find the localization portal at: http://i18n.opensuse.org/</para>
 <para>
 You can communicate more effectively with openSUSE &suse-version; because it
 provides a complete set of tools for Web browsing and e-mail
-management — it even includes the newest Voice over IP technology.
+management – it even includes the newest Voice over IP technology.
 </para>
 
 <para>openSUSE &suse-version; includes Mozilla Firefox, one of the best Web 
@@ -65,8 +74,7 @@ protect your privacy and prevent phishing attacks.</para>
 <para>Also included with openSUSE &suse-version; are Evolution and Kontact, 
 complete e-mail and contact management applications. For instant 
 messaging, openSUSE features easy to use IM clients that support all 
-of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN,
-Yahoo!, Groupwise, and many others.</para> 
+of the popular protocols.</para> 
 
  </section>
 
@@ -75,9 +83,9 @@ Yahoo!, Groupwise, and many others.</para>
   <para>
 Download tunes from the Internet. Rip CDs to create your own customized
 music library. Listen to your playlist online. Burn CDs or DVDs. Copy
-your files to an iPod or media player and take your music anywhere. Manage
-and edit digital pictures with powerful graphics editors. It's all easy
-with openSUSE &suse-version;.</para>
+your files to a smart phone or media player and take your music anywhere.
+Manage and edit digital pictures with powerful graphics editors. It's all
+easy with openSUSE &suse-version;.</para>
 
  </section>
 
@@ -88,8 +96,8 @@ with openSUSE &suse-version;.</para>
 The openSUSE &suse-version; distribution comes complete with the latest version
 of the leading Linux productivity suite, LibreOffice. It features a word
 processor, spreadsheet application, HTML editor, presentation designer, and
-database manager. It reads and writes multiple formats—including Microsoft
-Office formats—so you can move back and forth easily between openSUSE 
+database manager. It reads and writes multiple formats – including Microsoft
+Office formats – so you can move back and forth easily between openSUSE 
 and popular non-Linux productivity software. LibreOffice is the perfect 
 choice for reports, papers, home budgets, simple graphics and more.</para>
  </section>
@@ -100,9 +108,9 @@ choice for reports, papers, home budgets, simple graphics and more.</para>
   <para>
 Using the tools in openSUSE &suse-version;, you can create or edit almost any 
 type of graphic. For advanced image manipulation and graphics creation, use The
-GIMP a powerful tool for image retouching, composition, and authoring.</para>
+GIMP, a powerful tool for image retouching, composition, and authoring.</para>
  
-<para>For vector graphics, openSUSE &suse-version; includes Inkscape — a versatile 
+<para>For vector graphics, openSUSE &suse-version; includes Inkscape – a versatile 
 graphics solution delivers support for transparent layers, bitmap tracing, 
 text paths and much more.
 </para>
@@ -114,7 +122,7 @@ text paths and much more.
 
   <para>openSUSE &suse-version; includes the most advanced mobility features. You
 can switch effortlessly between wireless and wired networks using NetworkManager. 
-Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth.</para> 
+Connect with mobile devices like mobile phones and tablets via Bluetooth.</para> 
 
 <para>The newest innovations in power management from openSUSE increase
 your mobility and give you the freedom to take your work wherever you
@@ -124,10 +132,19 @@ go.
  </section>
 
 <section label="09_security">
- <title>Your operating system - respecting privacy - providing security</title>
+ <title>Your operating system – respecting privacy – providing security</title>
 
-  <para>openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE &suse-version; because it also includes AppArmor, the most effective and
-easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats.</para>
+  <para>openSUSE builds something that puts you in control. Rolling or Stable,
+  you decide. Unlike windows, you decide which updates get applied when.
+  Unlike most distros, you decide which desktop you want (or none at all),
+  you have tools like YaST to help you configure your machine and control your
+  security and privacy. Secure your system and data from Internet intruders with
+  SUSE Firewall. This security device is activated by default and easy to configure.
+  But you can do even more to protect your system with openSUSE &suse-version;
+  because it also includes AppArmor, the most effective and
+  easy-to-use Linux application security system available today.
+  AppArmor proactively protects your operating system and applications from
+  internal or external threats.</para>
 
 <!-- for the online update feature, see bnc#793710 -->
 <para>In addition to SUSE Firewall and AppArmor, openSUSE &suse-version; also 
