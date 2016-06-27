@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-06-17 01:17+0000\n"
-"Last-Translator: Marguerite Su <i@marguerite.su>\n"
+"PO-Revision-Date: 2016-06-27 08:53+0000\n"
+"Last-Translator: Emily Dong <Emily.Dong@excel-gits.com>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/sle-12-sp2/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
-msgstr "幻灯片"
+msgstr ""
 
 #: slideshow.xml:21(title)
 msgid "SUSE Linux Enterprise 12"
-msgstr "SUSE Linux Enterprise 12"
+msgstr ""
 
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
@@ -51,7 +51,9 @@ msgstr "完整的系统快照和恢复"
 
 #: slideshow.xml:57(para)
 msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
-msgstr "使用系统快照后，您可以在以后恢复保存的<emphasis>已知状态</emphasis>，并可以放心执行下列操作："
+msgstr ""
+"使用系统快照后，您可以在以后恢复保存的<emphasis>已知状态</emphasis>，并可以<emphasis>放心</emphasis>执行下列操作"
+"："
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
@@ -99,7 +101,7 @@ msgstr "完美的 Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
-msgstr "与 Xen、KVM、VMware® vSphere、Microsoft® Hyper-V 等主流超级管理程序配合良好"
+msgstr "与 Xen、KVM、VMware® vSphere、Microsoft® Hyper-V 等主流超级管理程序配合良好。"
 
 #: slideshow.xml:143(para)
 msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
