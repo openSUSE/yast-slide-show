@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-06-17 20:59+0000\n"
+"PO-Revision-Date: 2016-06-28 09:57+0000\n"
 "Last-Translator: Alex Minton <alex239@gmail.com>\n"
 "Language-Team: Russian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ru/>\n"
@@ -60,7 +60,7 @@ msgstr "обновлять ядро;"
 
 #: slideshow.xml:68(para)
 msgid "Service pack installations"
-msgstr "устанавливать пакеты обновлений."
+msgstr "Установка пакетов обновлений"
 
 #: slideshow.xml:79(para)
 msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
@@ -144,24 +144,24 @@ msgstr "Пять модулей позволяют соблюсти баланс
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Web and Scripting Module"
+msgstr "Модуль Web and Scripting"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Legacy Module"
+msgstr "Модуль Legacy"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Toolchain Module"
+msgstr "Модуль Toolchain"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Public Cloud Module"
+msgstr "Модуль Public Cloud"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Advanced Systems Management"
+msgstr "Расширенное управление системами"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
@@ -205,7 +205,9 @@ msgstr "В среде GNOME 3, используемой в SUSE® Linux Enterpri
 
 #: slideshow.xml:299(para)
 msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
-msgstr "входящая в состав GNOME 3 оболочка GNOME Shell позволяет пользоваться новейшими функциями рабочего стола с поддержкой мыши и сенсорного экрана;"
+msgstr ""
+"Входящая в состав GNOME 3 оболочка GNOME Shell позволяет пользоваться "
+"новейшими функциями рабочего стола с поддержкой мыши и сенсорного экрана."
 
 #: slideshow.xml:305(para)
 msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
@@ -217,7 +219,9 @@ msgstr "Центр SUSE по работе с клиентами"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
-msgstr "Теперь вы можете где и когда угодно управлять своей учетной записью SUSE и подписками через новый единый интерфейс."
+msgstr ""
+"Теперь вы можете где и когда угодно управлять своей учетной записью SUSE и "
+"подписками через новый единый интерфейс!"
 
 #: slideshow.xml:322(para)
 msgid "Centralize access to subscriptions and entitlements"
@@ -241,7 +245,7 @@ msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
 msgid "High Availability Extension"
-msgstr "High Availability Extension"
+msgstr "Расширение High Availability"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
