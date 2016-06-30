@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-06-08 13:53+0000\n"
-"Last-Translator: Victor hck <correohck@gmail.com>\n"
+"PO-Revision-Date: 2016-06-30 16:34+0000\n"
+"Last-Translator: Juan Sarria <juansarriam@gmail.com>\n"
 "Language-Team: Spanish <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/es/>\n"
 "Language: es\n"
@@ -143,24 +143,24 @@ msgstr "Cinco módulos para encontrar un equilibrio entre las tecnologías más 
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Web and Scripting Module"
+msgstr "Módulo de Web y guiones"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Legacy Module"
+msgstr "Módulo legado"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Toolchain Module"
+msgstr "Módulo de conjunto de herramientas"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Public Cloud Module"
+msgstr "Módulo de nube pública"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Advanced Systems Management"
+msgstr "Gestión de sistemas avanzados"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
