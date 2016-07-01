@@ -8,15 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-04-26 17:56+0200\n"
-"PO-Revision-Date: 2014-10-28 20:13+0800\n"
-"Last-Translator: Andrea Turrini <andrea.turrini@gmail.com>\n"
-"Language-Team: Italian <opensuse-translation@opensuse.org>\n"
+"PO-Revision-Date: 2016-07-01 10:49+0000\n"
+"Last-Translator: Davide Aiello <davidea@novilinguists.com>\n"
+"Language-Team: Italian <https://l10n.opensuse.org/projects/yast-slide-"
+"show/master/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
@@ -39,6 +40,17 @@ msgid ""
 "complements openSUSE's other release Tumbleweed, which caters to those who "
 "want continuously updated, tested and new stable packages."
 msgstr ""
+"C'è un motivo per cui openSUSE è \"la scelta dei creatori per amministratori "
+"di sistema, sviluppatori e utenti desktop\", openSUSE rende disponibili la "
+"scelta e fornisce un desktop intuitivo in un ambiente server ricco di "
+"funzionalità. Gli utenti indecisi tra nuovo software e un sistema Linux di "
+"lungo termine molto stabile passano a openSUSE. Leap 42.1 assicura \"Il "
+"meglio di due mondi\": affidabilità e software contemporaneo. Basato sul "
+"core di SUSE Linux Enterprise, Leap 42.1 combina il comprovato core SUSE con "
+"lo spirito innovativo delle comunità open-source. Tale combinazione assicura "
+"possibilità di scelta ai creatori e Leap 42.1 integra l'altra release di "
+"openSUSE Tumbleweed, che soddisfa coloro che desiderano nuovi pacchetti "
+"stabili, testati e sempre aggiornati."
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
@@ -62,12 +74,11 @@ msgstr ""
 "all'indirizzo www.opensuse.org."
 
 #: slideshow.xml:35(para)
-#, fuzzy
 msgid ""
 "Visit www.opensuse.org/How_to_Participate to learn how you can join the "
 "openSUSE community."
 msgstr ""
-"Visitando www.opensuse.org/How_to_Participate si scopre come si può far "
+"Visitate www.opensuse.org/How_to_Participate per apprendere come potete far "
 "parte della comunità openSUSE."
 
 #: slideshow.xml:40(title)
@@ -91,18 +102,16 @@ msgid "Connect and Communicate"
 msgstr "Connessione e comunicazione"
 
 #: slideshow.xml:53(para)
-#, fuzzy
 msgid ""
 "You can communicate more effectively with openSUSE Leap 42.1 because it "
 "provides a complete set of tools for Web browsing and e-mail management — it "
 "even includes the newest Voice over IP technology."
 msgstr ""
-"Con openSUSE 13.2 è possibile comunicare in modo più efficace perché avete a "
-"disposizione un insieme completo di strumenti per la navigazione sul Web e "
+"Con openSUSE Leap 42.1 è possibile comunicare in modo più efficace perché è "
+"a disposizione un insieme completo di strumenti per la navigazione sul Web e "
 "la gestione della posta elettronica, oltre alle più recenti tecnologie VoIP."
 
 #: slideshow.xml:59(para)
-#, fuzzy
 msgid ""
 "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in "
 "the world. Firefox includes all the features you need to enjoy the Web, "
@@ -110,21 +119,20 @@ msgid ""
 "performance, and a number of improvements designed to protect your privacy "
 "and prevent phishing attacks."
 msgstr ""
-"openSUSE 13.2 include Mozilla Firefox, uno dei migliori browser Web del "
-"mondo. Firefox integra tutte le  funzionalità di cui si ha bisogno per "
-"godere del Web, incluse le nuove tecnologie HTML5. Inoltre, Firefox unisce "
+"openSUSE Leap 42.1 include Mozilla Firefox, uno dei migliori browser Web del "
+"mondo. Firefox integra tutte le funzionalità di cui avete bisogno per "
+"sfruttare il Web, incluse le nuove tecnologie HTML5. Inoltre, Firefox unisce "
 "leggerezza e prestazioni, oltre a molti miglioramenti progettati per "
 "proteggere la riservatezza e per prevenire gli attacchi di phishing."
 
 #: slideshow.xml:65(para)
-#, fuzzy
 msgid ""
 "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-"
 "mail and contact management applications. For instant messaging, openSUSE "
 "features easy to use IM clients that support all of the popular protocols: "
 "AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
 msgstr ""
-"In openSUSE 13.2 sono inclusi anche Evolution e Kontact, applicazioni "
+"In openSUSE Leap 42.1 sono inclusi anche Evolution e Kontact, applicazioni "
 "complete per la gestione dei messaggi di posta e dei contatti. Per la "
 "messaggistica istantanea, openSUSE offre client IM facili da usare che "
 "supportano tutti i protocolli comuni: AIM, Facebook, Google Talk, Jabber, "
@@ -135,7 +143,6 @@ msgid "Create, View and Listen"
 msgstr "Crea, visualizza e ascolta"
 
 #: slideshow.xml:75(para)
-#, fuzzy
 msgid ""
 "Download tunes from the Internet. Rip CDs to create your own customized "
 "music library. Listen to your playlist online. Burn CDs or DVDs. Copy your "
@@ -148,14 +155,13 @@ msgstr ""
 "online. Masterizzate CD o DVD. Copiate i vostri file su un iPod o su un "
 "lettore multimediale e portate la vostra musica ovunque. Gestite e "
 "modificate le vostre immagini digitali con potenti editor grafici. Tutto è "
-"semplice con openSUSE."
+"semplice con openSUSE Leap 42.1."
 
 #: slideshow.xml:85(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "Documenti, fogli di calcolo e altro ancora"
 
 #: slideshow.xml:87(para)
-#, fuzzy
 msgid ""
 "The openSUSE Leap 42.1 distribution comes complete with the latest version "
 "of the leading Linux productivity suite, LibreOffice. It features a word "
@@ -165,12 +171,12 @@ msgid ""
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"La distribuzione openSUSE 13.2 rende disponibile l'ultima versione della "
-"suite di produttività Linux, LibreOffice, che fornisce un elaboratore di "
-"testi, un foglio di calcolo, un editor HTML, un programma per la creazione "
-"di presentazioni e un gestore dei database. È in grado di leggere e scrivere "
-"molteplici formati di file - inclusi i formati di Microsoft Office - così "
-"che sia possibile passare facilmente da openSUSE ad altre popolari "
+"La distribuzione openSUSE Leap 42.1 rende disponibile l'ultima versione "
+"della suite di produttività Linux, LibreOffice, che fornisce un elaboratore "
+"di testi, un foglio di calcolo, un editor HTML, un programma per la "
+"creazione di presentazioni e un gestore dei database. È in grado di leggere "
+"e scrivere molteplici formati di file - inclusi i formati di Microsoft "
+"Office - in modo da poter passare facilmente da openSUSE ad altre popolari "
 "applicazioni di produttività non Linux. LibreOffice è la scelta perfetta per "
 "relazioni, articoli, bilanci domestici, semplice grafica e altro ancora."
 
@@ -179,44 +185,41 @@ msgid "Graphics, Graphics, Graphics"
 msgstr "Grafica, grafica, grafica"
 
 #: slideshow.xml:100(para)
-#, fuzzy
 msgid ""
 "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"Con gli strumenti di openSUSE, potete creare o modificare file in quasi "
-"tutti i formati grafici. Per la gestione avanzata e la creazione di "
+"Con gli strumenti di openSUSE Leap 42.1, potete creare o modificare file in "
+"quasi tutti i formati grafici. Per la gestione avanzata e la creazione di "
 "immagini, potete usare il potente GIMP, una suite completa per il ritocco, "
 "la composizione e la creazione di immagini."
 
 #: slideshow.xml:105(para)
-#, fuzzy
 msgid ""
 "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"Per la grafica vettoriale, openSUSE 13.2 fornisce Inkscape. Questa versatile "
-"soluzione grafica supporta i livelli di trasparenza, il tracciamento delle "
-"bitmap, i percorsi di testo e molto altro."
+"Per la grafica vettoriale, openSUSE Leap 42.1 fornisce Inkscape. Questa "
+"versatile soluzione grafica supporta i livelli di trasparenza, il "
+"tracciamento delle bitmap, i percorsi di testo e molto altro."
 
 #: slideshow.xml:113(title)
 msgid "Computing On-the-Go"
 msgstr "Informatica in viaggio"
 
 #: slideshow.xml:115(para)
-#, fuzzy
 msgid ""
 "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
 "switch effortlessly between wireless and wired networks using "
 "NetworkManager. Connect with mobile devices like mobile phones, tablets and "
 "PDAs via Bluetooth."
 msgstr ""
-"openSUSE 13.2 include le più avanzate funzionalità di mobilità. È possibile "
-"passare facilmente tra reti senza fili e reti cablate usando NetworkManager. "
-"È possibile connettersi con dispositivi mobili come telefoni cellulari, "
-"tablet e PDA tramite Bluetooth."
+"openSUSE Leap 42.1 include le più avanzate funzionalità di mobilità. È "
+"possibile passare facilmente tra reti senza fili e reti cablate usando "
+"NetworkManager. È possibile connettersi con dispositivi mobili come telefoni "
+"cellulari, tablet e PDA tramite Bluetooth."
 
 #: slideshow.xml:119(para)
 msgid ""
@@ -229,9 +232,9 @@ msgstr ""
 #: slideshow.xml:127(title)
 msgid "Your operating system - respecting privacy - providing security"
 msgstr ""
+"Il vostro sistema operativo: rispetto della privacy, protezione garantita"
 
 #: slideshow.xml:129(para)
-#, fuzzy
 msgid ""
 "openSUSE builds something that puts you in control. Rolling or Stable, you "
 "decide. Unlike windows, you decide which updates get applied when. Unlike "
@@ -245,17 +248,21 @@ msgid ""
 "protects your operating system and applications from internal or external "
 "threats."
 msgstr ""
+"openSUSE crea uno strumento che assicura il controllo. Rolling o Stable, "
+"decidete voi. A differenza di Windows, decidete quali aggiornamenti "
+"applicare e quando. A differenza di molte distribuzioni, decidete quale "
+"desktop preferite (oppure nessuno), sono disponibili strumenti come YaST per "
+"la configurazione del computer e il controllo di protezione e privacy. "
 "Migliorare la protezione del sistema e dei dati dagli attacchi provenienti "
 "da Internet con SUSE Firewall. Questo dispositivo di sicurezza viene "
 "attivato in modo predefinito ed è facile da configurare. È possibile "
-"proteggere ulteriormente il sistema con openSUSE 13.2 in quanto fornisce "
-"AppArmor, il sistema di sicurezza delle applicazioni più efficace e facile "
-"da usare attualmente disponibile. AppArmor protegge attivamente il sistema e "
-"le applicazioni da minacce interne o esterne."
+"proteggere ulteriormente il sistema con openSUSE Leap 42.1 in quanto "
+"fornisce AppArmor, il sistema di sicurezza delle applicazioni Linux più "
+"efficace e facile da usare attualmente disponibile. AppArmor protegge "
+"attivamente il sistema e le applicazioni da minacce interne o esterne."
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:133(para)
-#, fuzzy
 msgid ""
 "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes "
 "a special security patch update system. To ensure that the latest security "
@@ -265,14 +272,14 @@ msgid ""
 "be automatically informed of the availability of important security updates, "
 "so you can install them at your convenience."
 msgstr ""
-"Oltre a SUSE Firewall e ad AppArmor, openSUSE 13.2 include anche un sistema "
-"speciale per gli aggiornamenti di sicurezza tramite patch. Per essere certi "
-"che le ultime patch di sicurezza siano installate nel sistema, è possibile "
-"scegliere di effettuare un aggiornamento in linea al termine della procedura "
-"di installazione (a meno che non si sia scelta la modalità di installazione "
-"automatica all'inizio). E in futuro, si verrà automaticamente informati "
-"della disponibilità di importanti aggiornamenti di sicurezza, per poterli "
-"installare a seconda delle proprie esigenze."
+"Oltre a SUSE Firewall e ad AppArmor, openSUSE Leap 42.1 include anche un "
+"sistema speciale per gli aggiornamenti di sicurezza tramite patch. Per "
+"essere certi che le ultime patch di sicurezza siano installate nel sistema, "
+"è possibile scegliere di effettuare un aggiornamento in linea al termine "
+"della procedura di installazione (a meno che non si sia scelta la modalità "
+"di installazione automatica all'inizio). E in futuro, si verrà "
+"automaticamente informati della disponibilità di importanti aggiornamenti di "
+"sicurezza, per poterli installare a seconda delle proprie esigenze."
 
 #: slideshow.xml:145(title)
 msgid "Virtualization Technology and Application Development Tools"
@@ -280,7 +287,6 @@ msgstr ""
 "Tecnologia di virtualizzazione e strumenti per lo sviluppo di applicazioni"
 
 #: slideshow.xml:147(para)
-#, fuzzy
 msgid ""
 "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is "
 "one of the most robust solutions for virtualization available. In addition, "
@@ -289,10 +295,10 @@ msgid ""
 "openSUSE comes with a complete set of runtime environments plus extensive "
 "application development tools."
 msgstr ""
-"In openSUSE 13.2 sono inclusi entrambi gli hypervisor Xen e KVM. Xen è una "
-"delle soluzioni disponibili più robuste per la virtualizzazione. In "
+"In openSUSE Leap 42.1 sono inclusi entrambi gli hypervisor Xen e KVM. Xen è "
+"una delle soluzioni disponibili più robuste per la virtualizzazione. In "
 "aggiunta, openSUSE fornisce gli strumenti per la condivisione in rete di "
-"file (Samba, NFS, ecc..), stampanti (CUPS), e hosting web (Apache). Per lo "
+"file (Samba, NFS, ecc..), stampanti (CUPS), e hosting Web (Apache). Per lo "
 "sviluppo di applicazioni, openSUSE offre un insieme completo di ambienti di "
 "esecuzione e di strumenti per lo sviluppo di applicazioni."
 
@@ -301,18 +307,17 @@ msgid "Learn More"
 msgstr "Per saperne di più"
 
 #: slideshow.xml:158(para)
-#, fuzzy
 msgid ""
 "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE "
 "questions as well as general Linux-related questions. The Help Center is "
 "accessible via the main menu. Manuals are also available in PDF and can be "
 "downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
 msgstr ""
-"openSUSE 13.2 fornisce una documentazione esaustiva per problematiche "
+"openSUSE Leap 42.1 fornisce una documentazione esaustiva per problematiche "
 "specifiche di openSUSE e di Linux in generale. La guida è accessibile "
 "tramite il menu principale. I manuali sono disponibili anche in formato PDF "
-"e possono essere scaricati e stampati (http://it.opensuse.org/Portal:"
-"Documentation)."
+"e possono essere scaricati e stampati "
+"(http://it.opensuse.org/Portal:Documentation)."
 
 #: slideshow.xml:168(para)
 msgid ""
@@ -373,7 +378,6 @@ msgstr ""
 "delle imprese di grandi e piccole dimensioni."
 
 #: slideshow.xml:203(para)
-#, fuzzy
 msgid ""
 "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server "
 "and SUSE Linux Enterprise Desktop. Our enterprise products are delivered "
@@ -383,9 +387,10 @@ msgid ""
 msgstr ""
 "I prodotti aziendali Linux rilasciati da SUSE comprendono SUSE Linux "
 "Enterprise Server, SUSE Linux Enterprise Desktop. I nostri prodotti "
-"aziendali sono distribuiti con una garanzia di manutenzione di sette anni e "
-"con programmi di supporto facoltativi. Per ulteriori informazioni su Linux "
-"aziendale di SUSE, si visiti www.suse.com"
+"aziendali sono distribuiti con una garanzia di manutenzione di dieci anni "
+"con possibilità di estensione fino a 13 anni e con programmi di supporto "
+"facoltativi. Per ulteriori informazioni su Linux aziendale di SUSE, visitate "
+"www.suse.com"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
