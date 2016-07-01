@@ -5,16 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2015-11-05 16:57\n"
-"Last-Translator: Novell language <language@novell.com>\n"
-"Language-Team: Novell language <language@novell.com>\n"
+"PO-Revision-Date: 2016-07-01 10:50+0000\n"
+"Last-Translator: Davide Aiello <davidea@novilinguists.com>\n"
+"Language-Team: Italian <https://l10n.opensuse.org/projects/yast-slide-"
+"show/sle-12-sp2/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
-msgstr "Proiezione"
+msgstr "Presentazione"
 
 #: slideshow.xml:21(title)
 msgid "SUSE Linux Enterprise 12"
@@ -253,4 +257,4 @@ msgstr "SUSE Storage"
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "riconoscimenti-traduttori"
+msgstr "riconoscimento per i traduttori"
