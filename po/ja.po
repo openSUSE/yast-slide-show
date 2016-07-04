@@ -5,12 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2015-11-05 16:58\n"
-"Last-Translator: Novell language <language@novell.com>\n"
-"Language-Team: Novell language <language@novell.com>\n"
+"PO-Revision-Date: 2016-07-04 02:09+0000\n"
+"Last-Translator: Carina Hagl <vistatec_pm@sunflare.co.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/yast-slide-"
+"show/sle-12-sp2/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -63,7 +67,7 @@ msgstr "<emphasis>YaST:</emphasis> Linuxの世界で唯一の統合型単一シ�
 
 #: slideshow.xml:85(para)
 msgid "Write your own extensions in Ruby now!"
-msgstr "Rubyで今すぐ独自の拡張機能を作成"
+msgstr "Rubyで今すぐ独自の拡張機能を作成!"
 
 #: slideshow.xml:92(para)
 msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
@@ -212,7 +216,7 @@ msgstr "SUSEカスタマーセンター"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
-msgstr "いつどこでも1つのインタフェースでSUSEのアカウントとサブスクリプションを管理できる新しい方法を体感してください。"
+msgstr "いつどこでも1つのインタフェースでSUSEのアカウントとサブスクリプションを管理できる新しい方法を体感してください!"
 
 #: slideshow.xml:322(para)
 msgid "Centralize access to subscriptions and entitlements"
