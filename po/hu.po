@@ -14,19 +14,20 @@ msgstr ""
 "Project-Id-Version: slideshow.hu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-26 17:56+0200\n"
-"PO-Revision-Date: 2013-02-04 08:45+0100\n"
-"Last-Translator: Kalman Kemenczy <kkemenczy@opensuse.org>\n"
-"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"PO-Revision-Date: 2016-07-04 10:09+0000\n"
+"Last-Translator: Robert Taisz <robert.taisz@emerald.hu>\n"
+"Language-Team: Hungarian <https://l10n.opensuse.org/projects/yast-slide-"
+"show/master/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
-msgstr "Bemutató"
+msgstr "Diavetítés"
 
 #: slideshow.xml:17(title)
 msgid "Welcome to openSUSE™!"
@@ -385,7 +386,13 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "Kéménczy Kálmán <kkemenczy@novell.com>"
+msgstr ""
+"Bán Szabolcs <shooby@gnome.hu>\n"
+"Dvornik László <dvornik@gnome.hu>\n"
+"Kelemen Gábor <kelemeng@gnome.hu>\n"
+"Nitsch Zoltán <regisztralj@gmail.com>\n"
+"Tímár András <timar@gnome.hu>\n"
+"Zsiráf <zsiraf@mylinux.hu>"
 
 #, fuzzy
 #~| msgid ""
