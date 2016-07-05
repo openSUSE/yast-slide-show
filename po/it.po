@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-01 10:50+0000\n"
+"PO-Revision-Date: 2016-07-05 06:21+0000\n"
 "Last-Translator: Davide Aiello <davidea@novilinguists.com>\n"
 "Language-Team: Italian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/it/>\n"
@@ -67,7 +67,7 @@ msgstr "<emphasis>YaST:</emphasis> l'unica soluzione di gestione integrata a sis
 
 #: slideshow.xml:85(para)
 msgid "Write your own extensions in Ruby now!"
-msgstr "Possibilità di scrivere le estensioni in Ruby."
+msgstr "Possibilità di scrivere ora le estensioni in Ruby."
 
 #: slideshow.xml:92(para)
 msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
@@ -143,24 +143,24 @@ msgstr "Cinque moduli diversi per offrire le più recenti tecnologie e una stabi
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Web and Scripting Module"
+msgstr "Modulo script e Web"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Legacy Module"
+msgstr "Modulo legacy"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Toolchain Module"
+msgstr "Modulo Toolchain"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Public Cloud Module"
+msgstr "Modulo Cloud pubblico"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Advanced Systems Management"
+msgstr "Gestione avanzata dei sistemi"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
@@ -212,11 +212,13 @@ msgstr "La modalità classica di GNOME 3 SUSE utilizza le stesse tecnologie all'
 
 #: slideshow.xml:314(title)
 msgid "SUSE Customer Center"
-msgstr "SUSE Customer Center"
+msgstr "Centro clienti SUSE"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
-msgstr "Una nuova soluzione per gestire l'account e le sottoscrizioni SUSE utilizzando un'unica interfaccia, ovunque e in qualsiasi momento."
+msgstr ""
+"Una nuova soluzione per gestire account e sottoscrizioni SUSE tramite "
+"un'unica interfaccia, ovunque e in qualsiasi momento."
 
 #: slideshow.xml:322(para)
 msgid "Centralize access to subscriptions and entitlements"
@@ -252,7 +254,7 @@ msgstr "Cloud SUSE OpenStack"
 
 #: slideshow.xml:363(para)
 msgid "SUSE Storage"
-msgstr "SUSE Storage"
+msgstr "Archiviazione SUSE"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
