@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-05-06 09:56+0000\n"
-"Last-Translator: Benoît Monin <benoit.monin@gmx.fr>\n"
-"Language-Team: French <http://l10n.opensuse.org/projects/yast-slide-"
+"PO-Revision-Date: 2016-07-05 10:47+0000\n"
+"Last-Translator: Christine Gabriel <christine@stoquart.com>\n"
+"Language-Team: French <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.5\n"
+"X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -27,23 +27,23 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Towards Zero Downtime"
+msgstr "Vers un temps d'indisponibilité nul"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
-msgstr "Best Managed Linux"
+msgstr "Gestion Linux optimale"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
-msgstr "Made for Cloud"
+msgstr "Pour le Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
 msgid "Most Interoperable Operating System"
-msgstr "Most Interoperable Operating System"
+msgstr "Système d'exploitation le plus interopérable"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
 msgid "Modular Design"
-msgstr "Modular Design"
+msgstr "Conception modulaire"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
