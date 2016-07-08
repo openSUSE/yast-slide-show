@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-04 07:13+0000\n"
-"Last-Translator: Ewelina Michalowska <ewelina.michalowska@stgambit.com>\n"
+"PO-Revision-Date: 2016-07-08 15:05+0000\n"
+"Last-Translator: Piotr Domański <Piotr.Domanski@lionbridge.com>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/pl/>\n"
 "Language: pl\n"
@@ -28,7 +28,7 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Ku pracy bez przestojów"
+msgstr "Praca bez przestojów"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
@@ -52,7 +52,9 @@ msgstr "Migawka i wycofanie zmiany dla całego systemu"
 
 #: slideshow.xml:57(para)
 msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
-msgstr "Posiada dobrze <emphasis>znany stan</emphasis>, do którego można powrócić, co pozwala zachować <emphasis>spokój umysłu</emphasis> podczas czynności takich jak:"
+msgstr ""
+"Możliwość powrotu do <emphasis>znanego stanu</emphasis> zapewnia "
+"<emphasis>spokój</emphasis> podczas wykonywania czynności takich jak:"
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
@@ -161,7 +163,7 @@ msgstr "Public Cloud Module"
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Advanced Systems Management"
+msgstr "Zaawansowane zarządzanie systemami"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
