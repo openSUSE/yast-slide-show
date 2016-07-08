@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-05 06:21+0000\n"
-"Last-Translator: Davide Aiello <davidea@novilinguists.com>\n"
+"PO-Revision-Date: 2016-07-08 13:40+0000\n"
+"Last-Translator: Sabrina D'Alessandro <sabda23@gmail.com>\n"
 "Language-Team: Italian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/it/>\n"
 "Language: it\n"
@@ -27,11 +27,11 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Verso zero tempo di fermo"
+msgstr "Riduzione a zero dei tempi di fermo"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
-msgstr "Sistema operativo Linux meglio gestito"
+msgstr "Il Linux più semplice da gestire"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
