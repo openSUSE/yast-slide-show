@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-06-28 09:57+0000\n"
-"Last-Translator: Alex Minton <alex239@gmail.com>\n"
+"PO-Revision-Date: 2016-07-09 09:43+0000\n"
+"Last-Translator: Egor Vakhnitsky <Egor.Vakhnitsky@lqs-lionbridge.com>\n"
 "Language-Team: Russian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ru/>\n"
 "Language: ru\n"
@@ -211,7 +211,9 @@ msgstr ""
 
 #: slideshow.xml:305(para)
 msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
-msgstr "выбранный в SUSE по умолчанию режим GNOME 3 Classic Mode использует те же современные технологии с сохранением привычных приемов работы."
+msgstr ""
+"Выбранный в SUSE по умолчанию режим GNOME 3 Classic Mode использует те же "
+"современные технологии с сохранением привычных приемов работы."
 
 #: slideshow.xml:314(title)
 msgid "SUSE Customer Center"
