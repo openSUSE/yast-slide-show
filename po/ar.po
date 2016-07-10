@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-10 09:12+0000\n"
+"PO-Revision-Date: 2016-07-10 15:39+0000\n"
 "Last-Translator: George Yacoub <george.yacoub@arabize.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ar/>\n"
@@ -18,7 +18,6 @@ msgstr ""
 "X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:18(title)
-#, fuzzy
 msgid "Slide Show"
 msgstr "عرض شرائح"
 
@@ -28,27 +27,22 @@ msgstr "SUSE Linux Enterprise 12"
 
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
-#, fuzzy
 msgid "Towards Zero Downtime"
 msgstr "نحو عدم التعطل نهائيًا"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
-#, fuzzy
 msgid "Best Managed Linux"
 msgstr "Linux المدار على أفضل وجه"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
-#, fuzzy
 msgid "Made for Cloud"
 msgstr "مخصص لـ Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
-#, fuzzy
 msgid "Most Interoperable Operating System"
 msgstr "نظام التشغيل الأكثر تكاملاً"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
-#, fuzzy
 msgid "Modular Design"
 msgstr "التصميم النمطي"
 
@@ -109,7 +103,6 @@ msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microso
 msgstr "العمل بشكل جيد على أنظمة hypervisor الأساسية: Xen وKVM وVMware® vSphere وMicrosoft® Hyper-V وغيرها."
 
 #: slideshow.xml:143(para)
-#, fuzzy
 msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
 msgstr ""
 "متوفر على Amazon® EC2 وMicrosoft® Azure وGoogle® Compute Engine إلى جانب "
@@ -132,7 +125,6 @@ msgid "Operating Systems"
 msgstr "نظام التشغيل"
 
 #: slideshow.xml:179(para)
-#, fuzzy
 msgid "Windows: Samba 4"
 msgstr "Windows: Samba 4"
 
@@ -153,28 +145,23 @@ msgid "Five different modules give you balance between the latest technologies a
 msgstr "خمس وحدات نمطية مختلفة تمنحك التوازن بين أحدث التقنيات والاستقرار على مستوى المؤسسة:"
 
 #: slideshow.xml:214(para)
-#, fuzzy
 msgid "Web and Scripting Module"
 msgstr "Web and Scripting Module"
 
 #: slideshow.xml:219(para)
-#, fuzzy
 msgid "Legacy Module"
 msgstr "Legacy Module"
 
 #: slideshow.xml:224(para)
-#, fuzzy
 msgid "Toolchain Module"
 msgstr "Toolchain Module"
 
 #: slideshow.xml:229(para)
-#, fuzzy
 msgid "Public Cloud Module"
 msgstr "Public Cloud Module"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
-#, fuzzy
 msgid "Advanced Systems Management"
 msgstr "Advanced Systems Management"
 
@@ -183,7 +170,6 @@ msgid "Lifecycle and LTSS"
 msgstr "دورة العمر و دعم طويل الأمد لحزمة الخدمة (LTSS)"
 
 #: slideshow.xml:245(para)
-#, fuzzy
 msgid "SUSE® Linux Enterprise Server:"
 msgstr "SUSE  Linux  Enterprise  Server:"
 
@@ -196,7 +182,6 @@ msgid "10 years of general support"
 msgstr "10 أعوام من الدعم العام"
 
 #: slideshow.xml:260(para) slideshow.xml:277(para)
-#, fuzzy
 msgid "Up to 3 years of extended support"
 msgstr "ما يصل إلى 3 أعوام من الدعم الموسع"
 
@@ -257,7 +242,6 @@ msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
-#, fuzzy
 msgid "High Availability Extension"
 msgstr "High Availability Extension"
 
@@ -266,17 +250,14 @@ msgid "SUSE Manager"
 msgstr "SUSE Manager"
 
 #: slideshow.xml:358(para)
-#, fuzzy
 msgid "SUSE OpenStack Cloud"
 msgstr "SUSE OpenStack Cloud"
 
 #: slideshow.xml:363(para)
-#, fuzzy
 msgid "SUSE Storage"
 msgstr "SUSE Storage"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
-#, fuzzy
 msgid "translator-credits"
 msgstr "أسماء المترجمين"
