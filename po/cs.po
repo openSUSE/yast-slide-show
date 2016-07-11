@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-05-02 07:59+0000\n"
-"Last-Translator: Vojtech Zeisek <Vojtech.Zeisek@opensuse.org>\n"
-"Language-Team: Czech <http://l10n.opensuse.org/projects/yast-slide-"
+"PO-Revision-Date: 2016-07-11 14:05+0000\n"
+"Last-Translator: Stanislav Kneifl <Stanislav.Kneifl@lqs-lionbridge.com>\n"
+"Language-Team: Czech <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2.5\n"
+"X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -47,11 +47,14 @@ msgstr "Modulární architektura"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
-msgstr "Vytvoření bitové kopie a obnovení celého systému"
+msgstr "Snímky a vrácení stavu celého systému"
 
 #: slideshow.xml:57(para)
 msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
-msgstr "Připravte si <emphasis>známý stav</emphasis>, ke kterému se chcete vrátit a který vám poskytne <emphasis>jistotu</emphasis> pro tyto účely:"
+msgstr ""
+"Připravte si <emphasis>známý stav</emphasis>, ke kterému se budete moci "
+"vrátit a který vám poskytne <emphasis>jistotu</emphasis> v následujících "
+"případech:"
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
@@ -111,7 +114,7 @@ msgstr "Síťové prostředí IPv6"
 
 #: slideshow.xml:162(para)
 msgid "Scalable network infrastructures"
-msgstr "Přizpůsobivé síťové infrastruktury"
+msgstr "Škálovatelné síťové infrastruktury"
 
 #: slideshow.xml:167(para)
 msgid "Compliant to USGv6 standard"
@@ -143,24 +146,24 @@ msgstr "Pět různých modulů poskytuje rovnováhu mezi nejnovějšími technol
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Webový a skriptovací modul"
+msgstr "Modul Web and Scripting"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Legacy Modul"
+msgstr "Modul Legacy"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Nástrojový modul"
+msgstr "Modul Toolchain"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Modul veřejného cloudu"
+msgstr "Modul Public Cloud"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Pokročilá správa systému"
+msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
