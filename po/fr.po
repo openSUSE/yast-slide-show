@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-05 10:47+0000\n"
-"Last-Translator: Christine Gabriel <christine@stoquart.com>\n"
+"PO-Revision-Date: 2016-07-11 03:18+0000\n"
+"Last-Translator: martine caillaud <caillaud@wanadoo.fr>\n"
 "Language-Team: French <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/fr/>\n"
 "Language: fr\n"
@@ -47,11 +47,13 @@ msgstr "Conception modulaire"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
-msgstr "Snapshots et restauration du système complets ou partiels"
+msgstr "Instantané et restauration du système complet à l'état initial"
 
 #: slideshow.xml:57(para)
 msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
-msgstr "Revenez vers un <emphasis>état initial</emphasis> opérationnel constituant une zone de <emphasis>tranquilité</emphasis> :"
+msgstr ""
+"Revenez vers un <emphasis>état initial</emphasis> opérationnel constituant "
+"une zone de <emphasis>tranquillité</emphasis> pour :"
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
@@ -63,7 +65,9 @@ msgstr "Installations de Service Pack"
 
 #: slideshow.xml:79(para)
 msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
-msgstr "<emphasis>YaST</emphasis> : l'unique interface pour vos paramètres système du monde Linux"
+msgstr ""
+"<emphasis>YaST</emphasis> : la seule solution intégrée de gestion des "
+"systèmes dans l'univers Linux"
 
 #: slideshow.xml:85(para)
 msgid "Write your own extensions in Ruby now!"
@@ -83,7 +87,7 @@ msgstr "Adoption et migration en douceur"
 
 #: slideshow.xml:115(para)
 msgid "Reliable Host"
-msgstr "Hyperviseurs fiables"
+msgstr "Hôte fiable"
 
 #: slideshow.xml:120(para)
 msgid "KVM and Xen support included"
@@ -95,7 +99,7 @@ msgstr "Notions de base pour SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
 msgid "Perfect Guest"
-msgstr "Le meilleur invité pour vos datacenters"
+msgstr "Système invité idéal"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -131,7 +135,7 @@ msgstr "Intégration d'Active Directory"
 
 #: slideshow.xml:189(para)
 msgid "Out-of-the-box experience via YaST"
-msgstr "Configurable simplement via YaST"
+msgstr "Expérience immédiate via YaST"
 
 #: slideshow.xml:196(para)
 msgid "UNIX &amp; Linux: NFSv4.1"
@@ -139,7 +143,9 @@ msgstr "UNIX et Linux : NFSv4.1"
 
 #: slideshow.xml:208(para)
 msgid "Five different modules give you balance between the latest technologies and enterprise-level stability:"
-msgstr "Les modules vous garantissent un parfait compromis entre les technologies les plus récentes et la stabilité requise pour une entreprise. Vous pouvez choisir parmi les modules :"
+msgstr ""
+"Cinq modules différents vous garantissent un parfait compromis entre les "
+"technologies les plus récentes et la stabilité requise pour une entreprise."
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
@@ -196,17 +202,19 @@ msgstr "Support LTSS (Long Term Service Pack Support) disponible pour toutes les
 
 #: slideshow.xml:291(title)
 msgid "Desktop Experience"
-msgstr "Votre environnement de bureau"
+msgstr "Expérience de poste de travail"
 
 #: slideshow.xml:293(para)
 msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
 msgstr ""
-"GNOME 3 est l'interface graphique de SUSE® Linux Enterprise 12. Elle vous "
-"permet de choisir entre deux types d'expérience utilisateur :"
+"GNOME 3, l'environnement de poste de travail pour SUSE® Linux Enterprise 12, "
+"vous permet de choisir entre deux types d'expérience utilisateur :"
 
 #: slideshow.xml:299(para)
 msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
-msgstr "GNOME Shell  vous permet d'explorer un environnement de bureau de nouvelle génération, désormais compatible avec un écran tactile."
+msgstr ""
+"GNOME Shell vous permet d'explorer des fonctions de bureau nouvelle "
+"génération, que vous pouvez utiliser avec une souris et un écran tactile."
 
 #: slideshow.xml:305(para)
 msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
@@ -222,7 +230,7 @@ msgstr "Gérez vos abonnements et votre compte SUSE au moyen d'une seule interfa
 
 #: slideshow.xml:322(para)
 msgid "Centralize access to subscriptions and entitlements"
-msgstr "Accès centralisé à vos abonnements et prestations"
+msgstr "Accès centralisé à vos abonnements et droits"
 
 #: slideshow.xml:327(para)
 msgid "Quick access to support tools"
