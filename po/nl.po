@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-06-21 10:26+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
+"PO-Revision-Date: 2016-07-11 08:30+0000\n"
+"Last-Translator: Paul Kanters <v-Paul.Kanters@lqs-lionbridge.com>\n"
 "Language-Team: Dutch <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/nl/>\n"
 "Language: nl\n"
@@ -22,7 +22,7 @@ msgstr "Diavoorstelling"
 
 #: slideshow.xml:21(title)
 msgid "SUSE Linux Enterprise 12"
-msgstr "SUSE Linux Enterprise"
+msgstr "SUSE Linux Enterprise 12"
 
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
