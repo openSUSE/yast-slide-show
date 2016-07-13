@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-04 02:09+0000\n"
+"PO-Revision-Date: 2016-07-13 07:24+0000\n"
 "Last-Translator: Carina Hagl <vistatec_pm@sunflare.co.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ja/>\n"
@@ -27,7 +27,7 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "ゼロダウンタイムの現実化"
+msgstr "ゼロダウンタイムを目指して"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
@@ -55,7 +55,7 @@ msgstr "十分に「<emphasis>確認された状態</emphasis>」を保ち、そ
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
-msgstr "カーネルのアップデート"
+msgstr "カーネルのアップグレード"
 
 #: slideshow.xml:68(para)
 msgid "Service pack installations"
@@ -127,7 +127,7 @@ msgstr "Windows: Samba 4"
 
 #: slideshow.xml:184(para)
 msgid "Active Directory integration"
-msgstr "Active Directory統合"
+msgstr "Active Directoryとの統合"
 
 #: slideshow.xml:189(para)
 msgid "Out-of-the-box experience via YaST"
@@ -180,7 +180,7 @@ msgstr "10年間の一般サポート"
 
 #: slideshow.xml:260(para) slideshow.xml:277(para)
 msgid "Up to 3 years of extended support"
-msgstr "最大3年間の拡張サポート"
+msgstr "最大3年間のサポート延長"
 
 #: slideshow.xml:267(para)
 msgid "5-year lifecycle per Service Pack"
