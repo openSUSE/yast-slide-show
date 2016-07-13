@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-04 13:53+0000\n"
-"Last-Translator: Franziska Weinberger <f.weinberger@gemino.de>\n"
+"PO-Revision-Date: 2016-07-13 10:16+0000\n"
+"Last-Translator: Guenther Pfeiffer <gunther.pfeiffer@lqs-lionbridge.com>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/de/>\n"
 "Language: de\n"
@@ -204,7 +204,9 @@ msgstr "Mit GNOME 3 als Desktopumgebung für SUSE® Linux Enterprise 12 stehen z
 
 #: slideshow.xml:299(para)
 msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
-msgstr "Mit GNOME Shell von GNOME 3 können Sie die Desktopfunktionen der nächsten Generation kennenlernen, die mit Maus oder Touchscreen genutzt werden kann."
+msgstr ""
+"Mit GNOME Shell von GNOME 3 können Sie die Desktopfunktionen der nächsten "
+"Generation kennenlernen, die mit Maus oder Touchscreen genutzt werden können."
 
 #: slideshow.xml:305(para)
 msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
