@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-05-26 02:22+0000\n"
-"Last-Translator: Ronan Chagas <ronisbr@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <http://l10n.opensuse.org/projects/yast-"
+"PO-Revision-Date: 2016-07-14 00:13+0000\n"
+"Last-Translator: Marcos Teofilo <mteofilo@tesbrasil.com>\n"
+"Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/sle-12-sp2/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgstr "Tempo de Espera Atingindo Zero"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
-msgstr "Linux Melhor Gerenciado"
+msgstr "Linux Mais Bem Gerenciado"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
@@ -63,7 +63,9 @@ msgstr "Instalações de service pack"
 
 #: slideshow.xml:79(para)
 msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
-msgstr "<emphasis>YaST:</emphasis> a solução exclusiva de gerenciamento de sistema único integrada no mundo do Linux"
+msgstr ""
+"<emphasis>YaST:</emphasis> a única solução de gerenciamento de sistema único "
+"integrado no mundo Linux"
 
 #: slideshow.xml:85(para)
 msgid "Write your own extensions in Ruby now!"
@@ -143,7 +145,7 @@ msgstr "Cinco módulos diferentes que promovem o equilíbrio entre as últimas t
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Web and Scripting Module"
+msgstr "Módulo Web and Scripting"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
@@ -151,11 +153,11 @@ msgstr "Legacy Module"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Toolchain Module"
+msgstr "Módulo Toolchain"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Public Cloud Module"
+msgstr "Módulo Public Cloud"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
@@ -216,11 +218,13 @@ msgstr "SUSE Customer Center"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
-msgstr "Descubra uma nova forma de gerenciar sua conta e as inscrições do SUSE com uma interface completamente acessível!"
+msgstr ""
+"Descubra uma nova forma de gerenciar sua conta e assinaturas do SUSE com uma "
+"interface completamente acessível!"
 
 #: slideshow.xml:322(para)
 msgid "Centralize access to subscriptions and entitlements"
-msgstr "Centralizar acesso a inscrições e direitos"
+msgstr "Centralizar acesso a assinaturas e direitos"
 
 #: slideshow.xml:327(para)
 msgid "Quick access to support tools"
@@ -240,7 +244,7 @@ msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
 msgid "High Availability Extension"
-msgstr "Extensão Altamente Disponível"
+msgstr "Extensão de Alta Disponibilidade"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
