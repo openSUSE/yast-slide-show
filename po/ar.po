@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-10 15:39+0000\n"
+"PO-Revision-Date: 2016-07-17 10:02+0000\n"
 "Last-Translator: George Yacoub <george.yacoub@arabize.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ar/>\n"
@@ -52,7 +52,9 @@ msgstr "الالتقاط والتراجع للنظام بالكامل"
 
 #: slideshow.xml:57(para)
 msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
-msgstr "إذا كان لديك <emphasis>حالة معروفة</emphasis> يمكنك الرجوع إليها، لمنحك <emphasis>الاطمئنان</emphasis> بخصوص:"
+msgstr ""
+"لديك <emphasis>حالة معروفة</emphasis> يمكنك الرجوع إليها، لمنحك "
+"<emphasis>الاطمئنان</emphasis> بخصوص:"
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
@@ -122,7 +124,7 @@ msgstr "متطابق مع المعيار USGv6"
 
 #: slideshow.xml:174(para)
 msgid "Operating Systems"
-msgstr "نظام التشغيل"
+msgstr "أنظمة التشغيل"
 
 #: slideshow.xml:179(para)
 msgid "Windows: Samba 4"
@@ -167,7 +169,7 @@ msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
-msgstr "دورة العمر و دعم طويل الأمد لحزمة الخدمة (LTSS)"
+msgstr "دورة العمر ودعم طويل الأمد لحزمة الخدمة (LTSS)"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -231,7 +233,7 @@ msgstr "الوصول السريع إلى أدوات الدعم"
 
 #: slideshow.xml:332(para)
 msgid "Easy way to provide feedback"
-msgstr "طريقة سهلة لتوفير التغذية الرجعية"
+msgstr "طريقة سهلة لتوفير التعليقات"
 
 #: slideshow.xml:339(title)
 msgid "More from SUSE ..."
