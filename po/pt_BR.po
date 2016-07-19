@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-13 12:58+0000\n"
+"PO-Revision-Date: 2016-09-13 13:18+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/master/pt_BR/>\n"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "Desenvolvedores e administradores de sistemas"
 
 #: slideshow.xml:66(para)
 msgid ""
