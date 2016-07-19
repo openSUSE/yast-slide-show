@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-13 12:48+0000\n"
-"Last-Translator: Projeto Linux Kamarada <linuxkamarada@gmail.com>\n"
+"PO-Revision-Date: 2016-09-13 12:50+0000\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/master/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -76,7 +76,6 @@ msgstr ""
 ". Conheça mais em www.opensuse.org."
 
 #: slideshow.xml:30(para)
-#, fuzzy
 #| msgid ""
 #| "Visit en.opensuse.org/How_to_Participate to learn how you can join the "
 #| "openSUSE community."
