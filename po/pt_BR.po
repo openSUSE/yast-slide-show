@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-14 00:13+0000\n"
+"PO-Revision-Date: 2016-07-19 16:45+0000\n"
 "Last-Translator: Marcos Teofilo <mteofilo@tesbrasil.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/sle-12-sp2/pt_BR/>\n"
@@ -51,7 +51,9 @@ msgstr "Instantâneo e rollback do sistema completo"
 
 #: slideshow.xml:57(para)
 msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
-msgstr "Apresentar um bom <emphasis>estado conhecido</emphasis> para o qual é possível voltar e ter <emphasis>tranquilidade</emphasis> para:"
+msgstr ""
+"Apresentar um bom <emphasis>estado conhecido</emphasis> para o qual é "
+"possível voltar e ter <emphasis>tranquilidade</emphasis> para realizar:"
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
