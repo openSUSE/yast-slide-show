@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-13 12:32+0000\n"
+"PO-Revision-Date: 2016-09-13 12:34+0000\n"
 "Last-Translator: Projeto Linux Kamarada <linuxkamarada@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/master/pt_BR/>\n"
@@ -114,7 +114,6 @@ msgid "Connect and Communicate"
 msgstr "Conectar e comunicar"
 
 #: slideshow.xml:45(para)
-#, fuzzy
 #| msgid ""
 #| "You can communicate more effectively with openSUSE Leap 42.1 because it "
 #| "provides a complete set of tools for Web browsing and e-mail management — "
@@ -124,10 +123,10 @@ msgid ""
 "provides a complete set of tools for Web browsing and e-mail management – it "
 "even includes the newest Voice over IP technology."
 msgstr ""
-"Você pode se comunicar mais efetivamente com o openSUSE Leap 42.1 porque ele "
-"fornece um conjunto completo de ferramentas para a navegação na Internet e "
-"gerenciamento de e-mails — inclui até a mais recente tecnologia baseada em "
-"voz sobre IP (VoIP)."
+"Você pode se comunicar mais efetivamente com o openSUSE Leap 42.2 porque ele "
+"fornece um conjunto completo de ferramentas para navegação na Internet e "
+"gerenciamento de e-mails – inclui até mesmo a mais recente tecnologia "
+"baseada em voz sobre IP (VoIP)."
 
 #: slideshow.xml:51(para)
 #, fuzzy
