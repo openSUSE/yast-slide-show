@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-13 13:33+0000\n"
+"PO-Revision-Date: 2016-09-13 13:35+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/master/pt_BR/>\n"
@@ -280,7 +280,6 @@ msgstr ""
 "Seu sistema operacional – respeitando a privacidade – fornecendo segurança"
 
 #: slideshow.xml:116(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE builds something that puts you in control. Rolling or Stable, "
 #| "you decide. Unlike windows, you decide which updates get applied when. "
@@ -314,10 +313,10 @@ msgstr ""
 "máquina e controlar sua segurança e privacidade. Proteja seu sistema e dados "
 "de intrusos da Internet com o SUSE Firewall. Este dispositivo de segurança é "
 "ativado por padrão e é fácil de configurar. Mas você pode fazer ainda mais "
-"para proteger o seu sistema com o openSUSE Leap 42.1 porque ele também "
-"inclui o AppArmor, o aplicativo Linux mais efetivo e fácil de usar "
-"disponível hoje. O AppArmor protege proativamente seu sistema operacional e "
-"aplicativos de ameças internas ou externas."
+"para proteger o seu sistema com o openSUSE Leap 42.2 porque ele também "
+"inclui o AppArmor, o aplicativo de segurança do sistema Linux mais efetivo e "
+"fácil de usar disponível atualmente. O AppArmor protege proativamente seu "
+"sistema operacional e aplicativos de ameças internas ou externas."
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:129(para)
