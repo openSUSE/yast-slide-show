@@ -274,11 +274,10 @@ msgstr ""
 "que você vá."
 
 #: slideshow.xml:114(title)
-#, fuzzy
 #| msgid "Your operating system - respecting privacy - providing security"
 msgid "Your operating system – respecting privacy – providing security"
 msgstr ""
-"Seu sistema operacional - respeitando a privacidade - fornecendo segurança"
+"Seu sistema operacional – respeitando a privacidade – fornecendo segurança"
 
 #: slideshow.xml:116(para)
 #, fuzzy
