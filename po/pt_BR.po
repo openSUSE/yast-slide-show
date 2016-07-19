@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-13 13:22+0000\n"
+"PO-Revision-Date: 2016-09-13 13:30+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/master/pt_BR/>\n"
@@ -215,7 +215,6 @@ msgid "Graphics, Graphics, Graphics"
 msgstr "Gráficos, gráficos, gráficos"
 
 #: slideshow.xml:87(para)
-#, fuzzy
 #| msgid ""
 #| "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 #| "type of graphic. For advanced image manipulation and graphics creation, "
@@ -226,10 +225,10 @@ msgid ""
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"Usando as ferramentas do openSUSE Leap 42.1, você pode criar ou editar "
+"Usando as ferramentas do openSUSE Leap 42.2, você pode criar ou editar "
 "praticamente qualquer tipo de gráfico. Para manipulação de imagens e criação "
-"de gráficos avançados, use o poderoso GIMP, uma ferramenta completa de "
-"retoque, composição e criação de imagens."
+"de gráficos avançados, use o GIMP, uma poderosa ferramenta para retoque, "
+"composição e criação de imagens."
 
 #: slideshow.xml:92(para)
 #, fuzzy
