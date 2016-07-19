@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-13 13:30+0000\n"
+"PO-Revision-Date: 2016-09-13 13:31+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/master/pt_BR/>\n"
@@ -231,7 +231,6 @@ msgstr ""
 "composição e criação de imagens."
 
 #: slideshow.xml:92(para)
-#, fuzzy
 #| msgid ""
 #| "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
 #| "graphics solution delivers support for transparent layers, bitmap "
@@ -241,8 +240,8 @@ msgid ""
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"Para gráficos vetoriais, o openSUSE Leap 42.1 inclui o Inkscape — uma "
-"versátil solução gráfica que oferece suporte para camadas transparentes, "
+"Para gráficos vetoriais, o openSUSE Leap 42.2 inclui o Inkscape – uma "
+"solução gráfica versátil que oferece suporte a camadas transparentes, "
 "rastreamento de bitmaps, caminhos de texto e muito mais."
 
 #: slideshow.xml:100(title)
