@@ -11,9 +11,9 @@ msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-15 18:12+0200\n"
-"PO-Revision-Date: 2016-05-28 05:25+0000\n"
+"PO-Revision-Date: 2016-07-24 16:42+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <http://l10n.opensuse.org/projects/yast-slide-"
+"Language-Team: Slovak <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
-msgstr "Prezentácia produktu"
+msgstr "Prezentácia"
 
 #: slideshow.xml:17(title)
 msgid "Welcome to openSUSE™!"
@@ -70,12 +70,12 @@ msgid ""
 "languages. All of that work is available for free in the openSUSE Linux "
 "distribution available at www.opensuse.org."
 msgstr ""
-"Komunitný projekt openSUSE vytvorila a sponzoruje SUSE, aby dodávala "
-"používateľsky najprívetivejšiu počítačovú platformu na svete. Mnoho ľudí z "
-"celého sveta prispieva do projektu openSUSE tvorbou softvérových balíkov, "
-"testovaním programov, písaním dokumentácie a prekladaním jednotlivých častí "
-"do množstva jazykov. Výsledky tejto práce sú voľne dostupné v linuxovej "
-"distribúcii openSUSE na www.opensuse.org."
+"openSUSE je komunitný projekt tvorený a sponzorovaný spoločnosťou SUSE tak, "
+"aby dodávala používateľsky najprívetivejšiu počítačovú platformu na svete. "
+"Mnoho ľudí z celého sveta prispieva do projektu openSUSE tvorbou "
+"softvérových balíkov, testovaním programov, písaním dokumentácie a "
+"prekladaním jednotlivých častí do množstva jazykov. Výsledky tejto práce sú "
+"voľne dostupné v linuxovej distribúcii openSUSE na www.opensuse.org."
 
 #: slideshow.xml:35(para)
 msgid ""
@@ -144,7 +144,7 @@ msgstr ""
 
 #: slideshow.xml:74(title)
 msgid "Create, View and Listen"
-msgstr "Tvorte, dívajte sa a počúvajte"
+msgstr "Tvorte, prezerajte a počúvajte"
 
 #: slideshow.xml:75(para)
 msgid ""
@@ -184,7 +184,7 @@ msgstr ""
 
 #: slideshow.xml:98(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr "Grafika, obrázky, fotky"
+msgstr "Grafika, grafika, grafika"
 
 #: slideshow.xml:100(para)
 msgid ""
@@ -232,7 +232,7 @@ msgstr ""
 
 #: slideshow.xml:127(title)
 msgid "Your operating system - respecting privacy - providing security"
-msgstr "Váš operačný systém - rešpektovanie súkromia - zaistenie bezpečnosti"
+msgstr "Váš operačný systém - rešpektujúci súkromie - poskytujúci bezpečnosť"
 
 #: slideshow.xml:129(para)
 msgid ""
