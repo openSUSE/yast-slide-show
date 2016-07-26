@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-11 17:40+0000\n"
-"Last-Translator: Csaba Palinkas <Csaba.Palinkas@lqs-lionbridge.com>\n"
+"PO-Revision-Date: 2016-07-26 16:43+0000\n"
+"Last-Translator: Robert Taisz <robert.taisz@emerald.hu>\n"
 "Language-Team: Hungarian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/hu/>\n"
 "Language: hu\n"
@@ -26,24 +26,29 @@ msgstr "SUSE Linux Enterprise 12"
 
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
+#, fuzzy
 msgid "Towards Zero Downtime"
-msgstr "A zéró üzemkimaradás felé"
+msgstr "Towards Zero Downtime"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
+#, fuzzy
 msgid "Best Managed Linux"
-msgstr "A legjobb felügyelettel rendelkező Linux rendszer"
+msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
+#, fuzzy
 msgid "Made for Cloud"
-msgstr "A felhőben való működésre tervezve"
+msgstr "Made for Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
+#, fuzzy
 msgid "Most Interoperable Operating System"
-msgstr "A legjobb együttműködési képességű operációs rendszer"
+msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
+#, fuzzy
 msgid "Modular Design"
-msgstr "Moduláris felépítés"
+msgstr "Modular Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -94,8 +99,9 @@ msgid "Basis for SUSE OpenStack Cloud"
 msgstr "A SUSE OpenStack Cloud alapja"
 
 #: slideshow.xml:132(para)
+#, fuzzy
 msgid "Perfect Guest"
-msgstr "Tökéletes vendég operációs rendszer"
+msgstr "Perfect Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -163,8 +169,9 @@ msgid "Advanced Systems Management"
 msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
+#, fuzzy
 msgid "Lifecycle and LTSS"
-msgstr "Életciklus és hosszú távú szervizcsomag-támogatás"
+msgstr "Lifecycle and LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -216,8 +223,9 @@ msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, 
 msgstr "A SUSE alapértelmezett GNOME 3 klasszikus módja ugyanezt a modern technológiát hasznosítja, de közben megtarthatók benne a jól ismert használati szokások."
 
 #: slideshow.xml:314(title)
+#, fuzzy
 msgid "SUSE Customer Center"
-msgstr "SUSE Ügyfélközpont"
+msgstr "SUSE Customer Center"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
@@ -244,8 +252,9 @@ msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
+#, fuzzy
 msgid "High Availability Extension"
-msgstr "Nagy rendelkezésre állású bővítmény"
+msgstr "High Availability Extension"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
