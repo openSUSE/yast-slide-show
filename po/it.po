@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-08 13:40+0000\n"
-"Last-Translator: Sabrina D'Alessandro <sabda23@gmail.com>\n"
+"PO-Revision-Date: 2016-07-26 15:57+0000\n"
+"Last-Translator: Davide Aiello <davidea@novilinguists.com>\n"
 "Language-Team: Italian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/it/>\n"
 "Language: it\n"
@@ -27,23 +27,23 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Riduzione a zero dei tempi di fermo"
+msgstr "Towards Zero Downtime"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
-msgstr "Il Linux più semplice da gestire"
+msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
-msgstr "Creato per il cloud"
+msgstr "Made for Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
 msgid "Most Interoperable Operating System"
-msgstr "Sistema operativo più interoperabile"
+msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
 msgid "Modular Design"
-msgstr "Design modulare"
+msgstr "Modular Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -91,11 +91,11 @@ msgstr "Supporto per KVM e Xen inclusi"
 
 #: slideshow.xml:125(para)
 msgid "Basis for SUSE OpenStack Cloud"
-msgstr "Elementi di base per il cloud SUSE OpenStack"
+msgstr "Elementi di base per il SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
 msgid "Perfect Guest"
-msgstr "Guest perfetto"
+msgstr "Perfect Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -143,11 +143,11 @@ msgstr "Cinque moduli diversi per offrire le più recenti tecnologie e una stabi
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Modulo script e Web"
+msgstr "Modulo Web and Scripting"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Modulo legacy"
+msgstr "Modulo Legacy"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
@@ -155,16 +155,16 @@ msgstr "Modulo Toolchain"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Modulo Cloud pubblico"
+msgstr "Modulo Public Cloud"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Gestione avanzata dei sistemi"
+msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
-msgstr "Ciclo di vita e LTSS"
+msgstr "Lifecycle and LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -212,7 +212,7 @@ msgstr "La modalità classica di GNOME 3 SUSE utilizza le stesse tecnologie all'
 
 #: slideshow.xml:314(title)
 msgid "SUSE Customer Center"
-msgstr "Centro clienti SUSE"
+msgstr "SUSE Customer Center"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
@@ -242,7 +242,7 @@ msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
 msgid "High Availability Extension"
-msgstr "Estensione alta disponibilità"
+msgstr "High Availability Extension"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
@@ -250,11 +250,11 @@ msgstr "SUSE Manager"
 
 #: slideshow.xml:358(para)
 msgid "SUSE OpenStack Cloud"
-msgstr "Cloud SUSE OpenStack"
+msgstr "SUSE OpenStack Cloud"
 
 #: slideshow.xml:363(para)
 msgid "SUSE Storage"
-msgstr "Archiviazione SUSE"
+msgstr "SUSE Storage"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
