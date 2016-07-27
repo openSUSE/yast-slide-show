@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-09 09:43+0000\n"
-"Last-Translator: Egor Vakhnitsky <Egor.Vakhnitsky@lqs-lionbridge.com>\n"
+"PO-Revision-Date: 2016-07-27 08:54+0000\n"
+"Last-Translator: Nikita Maynagashev <maynagashev@palex.ru>\n"
 "Language-Team: Russian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ru/>\n"
 "Language: ru\n"
@@ -28,23 +28,23 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Околонулевое время простоя"
+msgstr "Towards Zero Downtime"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
-msgstr "Лучшая управляемая Linux-система"
+msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
-msgstr "Идеально подходит для облачных вычислений"
+msgstr "Made for Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
 msgid "Most Interoperable Operating System"
-msgstr "Самая совместимая операционная система"
+msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
 msgid "Modular Design"
-msgstr "Модульная структура"
+msgstr "Modular Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -96,7 +96,7 @@ msgstr "Основа для SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
 msgid "Perfect Guest"
-msgstr "Идеальная гостевая ОС"
+msgstr "Perfect Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -144,28 +144,28 @@ msgstr "Пять модулей позволяют соблюсти баланс
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Модуль Web and Scripting"
+msgstr "Web and Scripting Module"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Модуль Legacy"
+msgstr "Legacy Module"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Модуль Toolchain"
+msgstr "Toolchain Module"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Модуль Public Cloud"
+msgstr "Public Cloud Module"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Расширенное управление системами"
+msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
-msgstr "Жизненный цикл и LTSS"
+msgstr "Lifecycle and LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -247,7 +247,7 @@ msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
 msgid "High Availability Extension"
-msgstr "Расширение High Availability"
+msgstr "High Availability Extension"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
