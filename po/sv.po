@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-04-29 15:45+0000\n"
-"Last-Translator: Jonas Svensson <jonas@ekhorva.se>\n"
-"Language-Team: Swedish <http://l10n.opensuse.org/projects/yast-slide-"
+"PO-Revision-Date: 2016-07-27 11:26+0000\n"
+"Last-Translator: Maribel Florido <mflorido@jensen-localization.com>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.5\n"
+"X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -26,24 +26,29 @@ msgstr "SUSE Linux Enterprise 12"
 
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
+#, fuzzy
 msgid "Towards Zero Downtime"
-msgstr "Mot noll stopptid"
+msgstr "Towards Zero Downtime"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
+#, fuzzy
 msgid "Best Managed Linux"
-msgstr "Bästa hanterade Linux"
+msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
+#, fuzzy
 msgid "Made for Cloud"
-msgstr "Skapat för molnet"
+msgstr "Made for Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
+#, fuzzy
 msgid "Most Interoperable Operating System"
-msgstr "Det mest interoperabla operativsystemet"
+msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
+#, fuzzy
 msgid "Modular Design"
-msgstr "Modulbaserat"
+msgstr "Modular Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -94,8 +99,9 @@ msgid "Basis for SUSE OpenStack Cloud"
 msgstr "Bas för SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
+#, fuzzy
 msgid "Perfect Guest"
-msgstr "Den perfekta gästen"
+msgstr "Perfect Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -163,8 +169,9 @@ msgid "Advanced Systems Management"
 msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
+#, fuzzy
 msgid "Lifecycle and LTSS"
-msgstr "Livscykel och LTSS"
+msgstr "Lifecycle and LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -211,8 +218,9 @@ msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, 
 msgstr "I SUSE:s förvalda standardläge, det klassiska GNOME 3-läget, används samma moderna teknik men med välbekanta användningsmönster."
 
 #: slideshow.xml:314(title)
+#, fuzzy
 msgid "SUSE Customer Center"
-msgstr "SUSE-kundcenter"
+msgstr "SUSE Customer Center"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
@@ -239,8 +247,9 @@ msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
+#, fuzzy
 msgid "High Availability Extension"
-msgstr "Tillägg för hög tillgänglighet"
+msgstr "High Availability Extension"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
