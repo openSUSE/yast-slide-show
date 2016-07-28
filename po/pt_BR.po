@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-20 02:21+0000\n"
-"Last-Translator: Marcos Teofilo <mteofilo@tesbrasil.com>\n"
+"PO-Revision-Date: 2016-07-28 12:32+0000\n"
+"Last-Translator: Samanta Magalhaes <samanta@texttrans.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/sle-12-sp2/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -27,23 +27,23 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Tempo de Espera Atingindo Zero"
+msgstr "Towards Zero Downtime"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
-msgstr "Linux Mais Bem Gerenciado"
+msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
-msgstr "Feito para Nuvem"
+msgstr "Made for Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
 msgid "Most Interoperable Operating System"
-msgstr "Sistema Operacional Mais Interoperável"
+msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
 msgid "Modular Design"
-msgstr "Design Modular"
+msgstr "Modular Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -99,7 +99,7 @@ msgstr "Base para o SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
 msgid "Perfect Guest"
-msgstr "Convidado Perfeito"
+msgstr "Perfect Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -168,7 +168,7 @@ msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
-msgstr "Ciclo de Vida e LTSS"
+msgstr "Lifecycle and LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -246,7 +246,7 @@ msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
 msgid "High Availability Extension"
-msgstr "Extensão de Alta Disponibilidade"
+msgstr "High Availability Extension"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
