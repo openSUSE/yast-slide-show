@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-11 08:30+0000\n"
-"Last-Translator: Paul Kanters <v-Paul.Kanters@lqs-lionbridge.com>\n"
+"PO-Revision-Date: 2016-07-28 08:06+0000\n"
+"Last-Translator: Eva van Rein <vistatec@globaltextware.nl>\n"
 "Language-Team: Dutch <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/nl/>\n"
 "Language: nl\n"
@@ -27,23 +27,27 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Downtime van bijna nul"
+msgstr "Towards Zero Downtime"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
+#, fuzzy
 msgid "Best Managed Linux"
-msgstr "Best beheerde Linux"
+msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
+#, fuzzy
 msgid "Made for Cloud"
-msgstr "Gemaakt voor de cloud"
+msgstr "Made for Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
+#, fuzzy
 msgid "Most Interoperable Operating System"
-msgstr "Meest interoperabele besturingssysteem"
+msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
+#, fuzzy
 msgid "Modular Design"
-msgstr "Modulair ontwerp"
+msgstr "Modular Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -94,8 +98,9 @@ msgid "Basis for SUSE OpenStack Cloud"
 msgstr "Basis voor SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
+#, fuzzy
 msgid "Perfect Guest"
-msgstr "Perfecte gast"
+msgstr "Perfect Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -142,29 +147,35 @@ msgid "Five different modules give you balance between the latest technologies a
 msgstr "Vijf verschillende modules voor meer evenwicht tussen de nieuwste technologieën en stabiliteit op ondernemingsniveau:"
 
 #: slideshow.xml:214(para)
+#, fuzzy
 msgid "Web and Scripting Module"
-msgstr "Web- en scriptingmodule"
+msgstr "Web and Scripting Module"
 
 #: slideshow.xml:219(para)
+#, fuzzy
 msgid "Legacy Module"
-msgstr "Verouderde module"
+msgstr "Legacy Module"
 
 #: slideshow.xml:224(para)
+#, fuzzy
 msgid "Toolchain Module"
-msgstr "Toolchain-module"
+msgstr "Toolchain Module"
 
 #: slideshow.xml:229(para)
+#, fuzzy
 msgid "Public Cloud Module"
-msgstr "Public Cloud-module"
+msgstr "Public Cloud Module"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
+#, fuzzy
 msgid "Advanced Systems Management"
-msgstr "Geavanceerd systeembeheer"
+msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
+#, fuzzy
 msgid "Lifecycle and LTSS"
-msgstr "Levenscyclus en LTSS"
+msgstr "Lifecycle and LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -239,8 +250,9 @@ msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
+#, fuzzy
 msgid "High Availability Extension"
-msgstr "Extensie met hoge beschikbaarheid"
+msgstr "High Availability Extension"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
