@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-27 08:54+0000\n"
+"PO-Revision-Date: 2016-07-28 06:33+0000\n"
 "Last-Translator: Nikita Maynagashev <maynagashev@palex.ru>\n"
 "Language-Team: Russian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ru/>\n"
@@ -217,7 +217,7 @@ msgstr ""
 
 #: slideshow.xml:314(title)
 msgid "SUSE Customer Center"
-msgstr "Центр SUSE по работе с клиентами"
+msgstr "SUSE Customer Center"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
