@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-13 07:24+0000\n"
+"PO-Revision-Date: 2016-07-28 06:49+0000\n"
 "Last-Translator: Carina Hagl <vistatec_pm@sunflare.co.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ja/>\n"
@@ -27,23 +27,23 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "ゼロダウンタイムを目指して"
+msgstr "Towards Zero Downtime"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
-msgstr "最も管理の行き届いたLinux"
+msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
-msgstr "Cloud対応"
+msgstr "Made for Cloud"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
 msgid "Most Interoperable Operating System"
-msgstr "最も相互運用性の高いオペレーティングシステム"
+msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
 msgid "Modular Design"
-msgstr "モジュラー式の設計"
+msgstr "Modular Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -95,7 +95,7 @@ msgstr "SUSE OpenStack Cloudの基本"
 
 #: slideshow.xml:132(para)
 msgid "Perfect Guest"
-msgstr "完成度の高いゲスト"
+msgstr "Perfect Guest"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -164,7 +164,7 @@ msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
-msgstr "ライフサイクルとLTSS"
+msgstr "Lifecycle and LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -212,7 +212,7 @@ msgstr "SUSEのデフォルトのGNOME 3クラシックモードは、同じ最�
 
 #: slideshow.xml:314(title)
 msgid "SUSE Customer Center"
-msgstr "SUSEカスタマーセンター"
+msgstr "SUSE Customer Center"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
@@ -240,7 +240,7 @@ msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
 msgid "High Availability Extension"
-msgstr "高可用性拡張機能"
+msgstr "High Availability Extension"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
