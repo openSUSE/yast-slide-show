@@ -17,8 +17,7 @@
   <title>Welcome to openSUSE™!</title>
 
     <para>
-openSUSE is "the makers' choice for sysadmins, developers and desktop users” because it gives you more choices than other distributions. openSUSE Leap combines proven core packages from SUSE Linux Enterprise with community built packages, which creates synergies for the project distrobution. Get the Best of Both Worlds with openSUSE Leap. openSUSE releases provides users a feature-rich server environments and user-friendly desktop. Enthusiasts and professionals looking for a long-term, highly stable Linux system need to look no further than openSUSE Leap &suse-version;,  
-which complements the latest SUSE Linux Enterprise due to the shared sources. Thank you for making the change to use the most dependable and stable Linux system openSUSE Leap &suse-version; combines the proven SUSE core with the innovative
+openSUSE is the makers' choice for sysadmins, developers and desktop users because it gives you more choices than other distributions. openSUSE Leap combines proven core packages from SUSE Linux Enterprise with community built packages, which creates synergies for the project's distribution. Get the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users a feature-rich server environments and user-friendly desktop. Enthusiasts and professionals looking for a long-term, highly stable Linux system need to look no further than openSUSE Leap &suse-version;, which complements the latest SUSE Linux Enterprise due to the shared sources. Thank you for making the change to use the most dependable and stable Linux system - openSUSE Leap &suse-version;.
 </para>
  </section>
 
@@ -26,7 +25,7 @@ which complements the latest SUSE Linux Enterprise due to the shared sources. Th
   <title>openSUSE.org</title>
 
   <para>
-openSUSE is a community of projects and is sponsored by SUSE. The project has many people from the around the world who contribute to the openSUSE Project by packaging software, testing programs, writing documentation and translating it in languages used throughout the world. openSUSE has two distributions (Leap and Tumbleweed), tools (openQA, Kiwi and YaST), a software builder (Open Build Service) and projects (Portus and Machinery). Find out more at www.opensuse.org.
+openSUSE is a community of projects and is sponsored by SUSE. The project has many people around the world who contribute to the openSUSE Project by packaging software, testing programs, writing documentation and translating it in languages used throughout the world. openSUSE has two distributions (Leap and Tumbleweed), tools (openQA, Kiwi and YaST), a software builder (Open Build Service) and projects (Portus and Machinery). Find out more at www.opensuse.org.
 </para>
 <para>Visit www.opensuse.org/How_to_Participate to learn how you can join 
 the openSUSE community.</para>
