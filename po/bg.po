@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-26 17:56+0200\n"
+"POT-Creation-Date: 2016-08-16 13:19+0200\n"
 "PO-Revision-Date: 2015-12-28 16:06+0200\n"
 "Last-Translator: Borislav Mitev <morbid_viper@tkzs.org>\n"
 "Language-Team: Bulgarian <opensuse-translation@opensuse.org>\n"
@@ -33,42 +33,40 @@ msgstr "Добре дошли в openSUSE™!"
 
 #: slideshow.xml:19(para)
 msgid ""
-"There is a reason why openSUSE is \"the makers' choice for sysadmins, "
-"developers and desktop users;\" openSUSE gives you choice and provides a "
-"user-friendly desktop, and feature-rich server environment. People torn "
-"between newer software and a long-term, highly stable Linux system turn to "
-"openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability and "
-"contemporary software. Based on the core of SUSE Linux Enterprise, Leap 42.1 "
-"combines the proven SUSE core with the innovative spirit of open-source "
-"communities. That combinations gives makers choices and Leap 42.1 "
-"complements openSUSE's other release Tumbleweed, which caters to those who "
-"want continuously updated, tested and new stable packages."
+"openSUSE is the makers' choice for sysadmins, developers and desktop users "
+"because it gives you more choices than other distributions. openSUSE Leap "
+"combines proven core packages from SUSE Linux Enterprise with community "
+"built packages, which creates synergies for the project's distribution. Get "
+"the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users "
+"a feature-rich server environments and user-friendly desktop. Enthusiasts "
+"and professionals looking for a long-term, highly stable Linux system need "
+"to look no further than openSUSE Leap Leap 42.1, which complements the "
+"latest SUSE Linux Enterprise due to the shared sources. Thank you for making "
+"the change to use the most dependable and stable Linux system - openSUSE "
+"Leap Leap 42.1."
 msgstr ""
-"Има причина openSUSE да е Изборът за системни администратори, разработчици и "
-"обикновени потребители. Ние ви даваме избор и предлагаме потребителски-"
-"ориентирана работна среда, както и богата на възможности сървърна "
-"инфраструктура. Хората се разкъсват между новия софтуер и по-дълго "
-"поддържаните пакети. openSUSE продължава да държи на стабилността, а сега в "
-"Leap 42.1 вече предоставяме и най-доброто от двата свята — надеждност и "
-"съвременен софтуер. Базиран на сърцевината от SUSE Linux Enterprise, Leap "
-"42.1 комбинира доказани практики с иновативния дух на общността около "
-"свободния софтуер. Тази комбинация дава избор и  Leap 42.1 е допълнен от "
-"другото издание на openSUSE — Tumbleweed, където ще се почувстват вкъщи "
-"тези, които предпочитат постоянно да се обновяват и тестват нови и стабилни "
-"пакети."
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
+#, fuzzy
+#| msgid ""
+#| "openSUSE is a community project created and sponsored by SUSE to deliver "
+#| "the world's most user-friendly computing platform. Many people from "
+#| "around the world contribute to the openSUSE Project by packaging "
+#| "software, testing programs, writing documentation, and translating "
+#| "components into dozens of languages. All of that work is available for "
+#| "free in the openSUSE Linux distribution available at www.opensuse.org."
 msgid ""
-"openSUSE is a community project created and sponsored by SUSE to deliver the "
-"world's most user-friendly computing platform. Many people from around the "
-"world contribute to the openSUSE Project by packaging software, testing "
-"programs, writing documentation, and translating components into dozens of "
-"languages. All of that work is available for free in the openSUSE Linux "
-"distribution available at www.opensuse.org."
+"openSUSE is a community of projects and is sponsored by SUSE. The project "
+"has many people around the world who contribute to the openSUSE Project by "
+"packaging software, testing programs, writing documentation and translating "
+"it in languages used throughout the world. openSUSE has two distributions "
+"(Leap and Tumbleweed), tools (openQA, Kiwi and YaST), a software builder "
+"(Open Build Service) and projects (Portus and Machinery). Find out more at "
+"www.opensuse.org."
 msgstr ""
 "Проектът openSUSE, спонсориран от SUSE, е съвместно усилие на общността да "
 "се предостави най-лесно използваемата в света платформа с отворен код. Много "
@@ -77,7 +75,7 @@ msgstr ""
 "езици. Целият им труд е достъпен безплатно в Линукс дистрибуцията на "
 "openSUSE, налична на www.opensuse.org."
 
-#: slideshow.xml:35(para)
+#: slideshow.xml:30(para)
 #, fuzzy
 msgid ""
 "Visit www.opensuse.org/How_to_Participate to learn how you can join the "
@@ -86,37 +84,41 @@ msgstr ""
 "Посетете www.opensuse.org/How_to_Participate за да научите как можете да се "
 "присъедините към общността на openSUSE."
 
-#: slideshow.xml:40(title)
+#: slideshow.xml:35(title)
 msgid "openSUSE in Many Languages"
 msgstr "openSUSE на много езици"
 
-#: slideshow.xml:42(para)
+#: slideshow.xml:37(para)
 msgid ""
-"The openSUSE distribution is available in many languages. Localization for "
-"openSUSE software occurs through the efforts of our hard-working, community-"
-"driven language teams. Thank you to all of our contributors. Find the "
-"localization portal at: http://i18n.opensuse.org/"
+"Translating made easy - Are you interested in helping openSUSE be translated "
+"into your language? With https://l10n.opensuse.org/, you can get started "
+"right away. It is easy and you can contribute to this worldwide projects in "
+"a matter of minutes. All you need to do is login and start translating. Yes, "
+"it is that easy. Thank you to all of our contributors and especially to "
+"those contributors who bring the efforts of our hard-working community to "
+"people throughout the globe."
 msgstr ""
-"openSUSE е налична на много езици. Локализацията на софтуера се извършва от "
-"нашите езикови екипи в общността и е плод на изключителен труд. Благодарим "
-"на всички наши участници. Можете да намерите портала за локализацията на "
-"http://i18n.opensuse.org/"
 
-#: slideshow.xml:51(title)
+#: slideshow.xml:43(title)
 msgid "Connect and Communicate"
 msgstr "Свържи се и общувай"
 
-#: slideshow.xml:53(para)
+#: slideshow.xml:45(para)
+#, fuzzy
+#| msgid ""
+#| "You can communicate more effectively with openSUSE Leap 42.1 because it "
+#| "provides a complete set of tools for Web browsing and e-mail management — "
+#| "it even includes the newest Voice over IP technology."
 msgid ""
 "You can communicate more effectively with openSUSE Leap 42.1 because it "
-"provides a complete set of tools for Web browsing and e-mail management — it "
+"provides a complete set of tools for Web browsing and e-mail management – it "
 "even includes the newest Voice over IP technology."
 msgstr ""
 "Можете да комуникирате по-ефективно с openSUSE 42.1, защото тя предоставя "
 "пълен набор от инструменти за разглеждане на Уеб страници и управление на "
 "електронна поща и дори включва най-новите технологии за Интернет телефония."
 
-#: slideshow.xml:59(para)
+#: slideshow.xml:51(para)
 msgid ""
 "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers in "
 "the world. Firefox includes all the features you need to enjoy the Web, "
@@ -130,48 +132,59 @@ msgstr ""
 "ви покаже светкавична производителност и редица подобрения, създадени за да "
 "защитят вашите лични данни и за да ви предпазят от т.нар. „фишинг“ атаки."
 
-#: slideshow.xml:65(para)
+#: slideshow.xml:57(para)
+#, fuzzy
+#| msgid ""
+#| "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete "
+#| "e-mail and contact management applications. For instant messaging, "
+#| "openSUSE features easy to use IM clients that support all of the popular "
+#| "protocols: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, "
+#| "and many others."
 msgid ""
-"Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete e-"
-"mail and contact management applications. For instant messaging, openSUSE "
-"features easy to use IM clients that support all of the popular protocols: "
-"AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
+"Also included with openSUSE Leap Leap 42.1 are Evolution and Kontact, "
+"complete e-mail and contact management applications. For instant messaging, "
+"openSUSE features easy to use IM clients that support all of the popular "
+"protocols."
 msgstr ""
 "Сред включените в openSUSE Leap 42.1 са и Evolution и Kontact – пълни "
 "системи за управление на електронна поща и контакти. За бърза раздумка, тук "
 "ще намерите много клиенти, които поддържат всички популярни протоколи: AIM, "
 "Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise и много други."
 
-#: slideshow.xml:74(title)
-msgid "Create, View and Listen"
-msgstr "Създавайте, разглеждайте и слушайте"
-
-#: slideshow.xml:75(para)
-msgid ""
-"Download tunes from the Internet. Rip CDs to create your own customized "
-"music library. Listen to your playlist online. Burn CDs or DVDs. Copy your "
-"files to an iPod or media player and take your music anywhere. Manage and "
-"edit digital pictures with powerful graphics editors. It's all easy with "
-"openSUSE Leap 42.1."
+#: slideshow.xml:65(title)
+msgid "Devolops and sysadmins"
 msgstr ""
-"Сваляне на мелодии от Интернет. Копиране на CD-та за да създавате ваши "
-"индивидуални музикални библиотеки. Слушане на вашите музикални списъци по "
-"мрежата. Записване на CD или DVD. Дори копиране на вашите файлове на iPod "
-"или подобно устройство за да можете да слушате ги навсякъде. Редактиране на "
-"цифрови изображения с мощни графични редактори. Всичко това е лесно с "
-"openSUSE Leap 42.1."
 
-#: slideshow.xml:85(title)
+#: slideshow.xml:66(para)
+msgid ""
+"openSUSE Leap Leap 42.1 and openSUSE Tumbleweed are great distrobutions for "
+"development, testing and deployment. Whether you need the latest packages, "
+"which can be found on Tumbleweed, or older packages, which can be found on "
+"Leap Leap 42.1, openSUSE gives you the tools, community and packages to need "
+"to be sucessful."
+msgstr ""
+
+#: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "Документи, електронни таблици и още"
 
-#: slideshow.xml:87(para)
+#: slideshow.xml:74(para)
+#, fuzzy
+#| msgid ""
+#| "The openSUSE Leap 42.1 distribution comes complete with the latest "
+#| "version of the leading Linux productivity suite, LibreOffice. It features "
+#| "a word processor, spreadsheet application, HTML editor, presentation "
+#| "designer, and database manager. It reads and writes multiple formats—"
+#| "including Microsoft Office formats—so you can move back and forth easily "
+#| "between openSUSE and popular non-Linux productivity software. LibreOffice "
+#| "is the perfect choice for reports, papers, home budgets, simple graphics "
+#| "and more."
 msgid ""
 "The openSUSE Leap 42.1 distribution comes complete with the latest version "
 "of the leading Linux productivity suite, LibreOffice. It features a word "
 "processor, spreadsheet application, HTML editor, presentation designer, and "
-"database manager. It reads and writes multiple formats—including Microsoft "
-"Office formats—so you can move back and forth easily between openSUSE and "
+"database manager. It reads and writes multiple formats – including Microsoft "
+"Office formats – so you can move back and forth easily between openSUSE and "
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
@@ -183,23 +196,34 @@ msgstr ""
 "пакети. LibreOffice е перфектният избор за съставяне на доклади, писма, "
 "домашни бюджети, прости графики и много други."
 
-#: slideshow.xml:98(title)
+#: slideshow.xml:85(title)
 msgid "Graphics, Graphics, Graphics"
 msgstr "Графика, Графика, Графика"
 
-#: slideshow.xml:100(para)
+#: slideshow.xml:87(para)
+#, fuzzy
+#| msgid ""
+#| "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
+#| "type of graphic. For advanced image manipulation and graphics creation, "
+#| "use The GIMP a powerful tool for image retouching, composition, and "
+#| "authoring."
 msgid ""
 "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 "type of graphic. For advanced image manipulation and graphics creation, use "
-"The GIMP a powerful tool for image retouching, composition, and authoring."
+"The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
 "С инструментите в openSUSE, вие можете да създавате или да редактирате почти "
 "всеки вид графика. За професионална графична обработка използвайте GIMP, "
 "инструмент за фото ретуш, създаване и редактиране."
 
-#: slideshow.xml:105(para)
+#: slideshow.xml:92(para)
+#, fuzzy
+#| msgid ""
+#| "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
+#| "graphics solution delivers support for transparent layers, bitmap "
+#| "tracing, text paths and much more."
 msgid ""
-"For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
+"For vector graphics, openSUSE Leap 42.1 includes Inkscape – a versatile "
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
@@ -207,23 +231,29 @@ msgstr ""
 "поддръжка на прозрачни слоеве, трасиране на растерни изображения, текст към "
 "път и много други."
 
-#: slideshow.xml:113(title)
+#: slideshow.xml:100(title)
 msgid "Computing On-the-Go"
 msgstr "Компютри на път"
 
-#: slideshow.xml:115(para)
+#: slideshow.xml:102(para)
+#, fuzzy
+#| msgid ""
+#| "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
+#| "switch effortlessly between wireless and wired networks using "
+#| "NetworkManager. Connect with mobile devices like mobile phones, tablets "
+#| "and PDAs via Bluetooth."
 msgid ""
 "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
 "switch effortlessly between wireless and wired networks using "
-"NetworkManager. Connect with mobile devices like mobile phones, tablets and "
-"PDAs via Bluetooth."
+"NetworkManager. Connect with mobile devices like mobile phones and tablets "
+"via Bluetooth."
 msgstr ""
 "openSUSE включва най-новите мобилни технологии. Можете да превключвате без "
 "усилие между безжична и кабелна мрежа с помощта на NetworkManager. Свързване "
 "и синхронизиране на данни с мобилни устройства като телефони и PDA чрез "
 "Bluetooth."
 
-#: slideshow.xml:119(para)
+#: slideshow.xml:106(para)
 msgid ""
 "The newest innovations in power management from openSUSE increase your "
 "mobility and give you the freedom to take your work wherever you go."
@@ -231,13 +261,15 @@ msgstr ""
 "Последните нововъведения в openSUSE за управлението на енергията повишават "
 "вашата мобилност и ви дават свободата да вземете работа където и да отидете."
 
-#: slideshow.xml:127(title)
-msgid "Your operating system - respecting privacy - providing security"
+#: slideshow.xml:114(title)
+#, fuzzy
+#| msgid "Your operating system - respecting privacy - providing security"
+msgid "Your operating system – respecting privacy – providing security"
 msgstr ""
 "Вашата операционна система — с уважение към личното пространство — доставяща "
 "сигурност"
 
-#: slideshow.xml:129(para)
+#: slideshow.xml:116(para)
 msgid ""
 "openSUSE builds something that puts you in control. Rolling or Stable, you "
 "decide. Unlike windows, you decide which updates get applied when. Unlike "
@@ -265,7 +297,7 @@ msgstr ""
 "вътрешни атаки, и естествено, е включен в openSUSE."
 
 #. for the online update feature, see bnc#793710
-#: slideshow.xml:133(para)
+#: slideshow.xml:129(para)
 msgid ""
 "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also includes "
 "a special security patch update system. To ensure that the latest security "
@@ -283,11 +315,11 @@ msgstr ""
 "информирани за наличността на важни кръпки по сигурността така, зе да можете "
 "да ги инсталирате по ваше желание."
 
-#: slideshow.xml:145(title)
+#: slideshow.xml:141(title)
 msgid "Virtualization Technology and Application Development Tools"
 msgstr "Виртуализация и инструменти за разработка на приложения"
 
-#: slideshow.xml:147(para)
+#: slideshow.xml:143(para)
 msgid ""
 "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is "
 "one of the most robust solutions for virtualization available. In addition, "
@@ -303,11 +335,11 @@ msgstr ""
 "openSUSE предоставя пълен набор от среди за стартиране, както и мощните "
 "инструменти за разработка на приложения."
 
-#: slideshow.xml:157(title)
+#: slideshow.xml:153(title)
 msgid "Learn More"
 msgstr "Научете повече"
 
-#: slideshow.xml:158(para)
+#: slideshow.xml:154(para)
 msgid ""
 "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE "
 "questions as well as general Linux-related questions. The Help Center is "
@@ -320,7 +352,7 @@ msgstr ""
 "налични и във формат PDF и могат да бъдат свалени и разпечатани от (http://"
 "en.opensuse.org/Portal:Documentation)."
 
-#: slideshow.xml:168(para)
+#: slideshow.xml:164(para)
 msgid ""
 "Even more information is available in the openSUSE wiki at http://en."
 "opensuse.org/. Under \"Documentation,\" you'll discover links to useful "
@@ -336,7 +368,7 @@ msgstr ""
 "документация на официалния сайт на SUSE. За помощ при определен проблем с "
 "openSUSE проверете Базата от данни за поддръжката."
 
-#: slideshow.xml:179(para)
+#: slideshow.xml:175(para)
 msgid ""
 "For support from other openSUSE users, visit the official openSUSE forums at "
 "http://forums.opensuse.org/. Here you'll find thousands of other openSUSE "
@@ -350,7 +382,7 @@ msgstr ""
 "опитен openSUSE потребител, то форумите са чудесно място за да се срещнете с "
 "други потребители и да си помагате."
 
-#: slideshow.xml:188(para)
+#: slideshow.xml:184(para)
 msgid ""
 "Want to make openSUSE even better? You can build almost anything with "
 "openSUSE. It's easy to create and share new packages for multiple Linux "
@@ -363,11 +395,11 @@ msgstr ""
 "Линукс дистрибуции. Присъединете се към openSUSE.org и споделяйте с хилядите "
 "други потребители."
 
-#: slideshow.xml:197(title)
+#: slideshow.xml:193(title)
 msgid "SUSE and Linux"
 msgstr "SUSE и Linux"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:194(para)
 msgid ""
 "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE "
 "also delivers an exciting suite of products designed to meet the needs of "
@@ -377,7 +409,7 @@ msgstr ""
 "съществуващи пакети от продукти, които са създадени да посрещнат нуждите на "
 "малкия и голям бизнес."
 
-#: slideshow.xml:203(para)
+#: slideshow.xml:199(para)
 msgid ""
 "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server "
 "and SUSE Linux Enterprise Desktop. Our enterprise products are delivered "
@@ -395,6 +427,59 @@ msgstr ""
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Борислав Митев <morbid_viper@tkzs.org>, 2006"
+
+#~ msgid ""
+#~ "There is a reason why openSUSE is \"the makers' choice for sysadmins, "
+#~ "developers and desktop users;\" openSUSE gives you choice and provides a "
+#~ "user-friendly desktop, and feature-rich server environment. People torn "
+#~ "between newer software and a long-term, highly stable Linux system turn "
+#~ "to openSUSE. Leap 42.1 provides \"The Best of Two Worlds\" - reliability "
+#~ "and contemporary software. Based on the core of SUSE Linux Enterprise, "
+#~ "Leap 42.1 combines the proven SUSE core with the innovative spirit of "
+#~ "open-source communities. That combinations gives makers choices and Leap "
+#~ "42.1 complements openSUSE's other release Tumbleweed, which caters to "
+#~ "those who want continuously updated, tested and new stable packages."
+#~ msgstr ""
+#~ "Има причина openSUSE да е Изборът за системни администратори, "
+#~ "разработчици и обикновени потребители. Ние ви даваме избор и предлагаме "
+#~ "потребителски-ориентирана работна среда, както и богата на възможности "
+#~ "сървърна инфраструктура. Хората се разкъсват между новия софтуер и по-"
+#~ "дълго поддържаните пакети. openSUSE продължава да държи на стабилността, "
+#~ "а сега в Leap 42.1 вече предоставяме и най-доброто от двата свята — "
+#~ "надеждност и съвременен софтуер. Базиран на сърцевината от SUSE Linux "
+#~ "Enterprise, Leap 42.1 комбинира доказани практики с иновативния дух на "
+#~ "общността около свободния софтуер. Тази комбинация дава избор и  Leap "
+#~ "42.1 е допълнен от другото издание на openSUSE — Tumbleweed, където ще се "
+#~ "почувстват вкъщи тези, които предпочитат постоянно да се обновяват и "
+#~ "тестват нови и стабилни пакети."
+
+#~ msgid ""
+#~ "The openSUSE distribution is available in many languages. Localization "
+#~ "for openSUSE software occurs through the efforts of our hard-working, "
+#~ "community-driven language teams. Thank you to all of our contributors. "
+#~ "Find the localization portal at: http://i18n.opensuse.org/"
+#~ msgstr ""
+#~ "openSUSE е налична на много езици. Локализацията на софтуера се извършва "
+#~ "от нашите езикови екипи в общността и е плод на изключителен труд. "
+#~ "Благодарим на всички наши участници. Можете да намерите портала за "
+#~ "локализацията на http://i18n.opensuse.org/"
+
+#~ msgid "Create, View and Listen"
+#~ msgstr "Създавайте, разглеждайте и слушайте"
+
+#~ msgid ""
+#~ "Download tunes from the Internet. Rip CDs to create your own customized "
+#~ "music library. Listen to your playlist online. Burn CDs or DVDs. Copy "
+#~ "your files to an iPod or media player and take your music anywhere. "
+#~ "Manage and edit digital pictures with powerful graphics editors. It's all "
+#~ "easy with openSUSE Leap 42.1."
+#~ msgstr ""
+#~ "Сваляне на мелодии от Интернет. Копиране на CD-та за да създавате ваши "
+#~ "индивидуални музикални библиотеки. Слушане на вашите музикални списъци по "
+#~ "мрежата. Записване на CD или DVD. Дори копиране на вашите файлове на iPod "
+#~ "или подобно устройство за да можете да слушате ги навсякъде. Редактиране "
+#~ "на цифрови изображения с мощни графични редактори. Всичко това е лесно с "
+#~ "openSUSE Leap 42.1."
 
 #, fuzzy
 #~| msgid ""
