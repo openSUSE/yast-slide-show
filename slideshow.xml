@@ -4,7 +4,7 @@
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "Leap 42.1">
+<!ENTITY suse-version "Leap 42.2">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
@@ -62,9 +62,9 @@ of the popular protocols.</para>
  </section>
 
  <section label="04_create">
-  <title>Devolops and sysadmins</title>
+  <title>Develops and Sysadmins</title>
   <para>
-openSUSE Leap &suse-version; and openSUSE Tumbleweed are great distrobutions for development, testing and deployment. Whether you need the latest packages, which can be found on Tumbleweed, or older packages, which can be found on Leap &suse-version;, openSUSE gives you the tools, community and packages to need to be sucessful.</para>
+openSUSE Leap &suse-version; and openSUSE Tumbleweed are great distributions for development, testing and deployment. Whether you need the latest packages, which can be found on Tumbleweed, or older packages, which can be found on Leap &suse-version;, openSUSE gives you the tools, community and packages to need to be sucessful.</para>
 
  </section>
 
