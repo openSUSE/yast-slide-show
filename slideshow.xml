@@ -17,16 +17,7 @@
   <title>Welcome to openSUSE™!</title>
 
     <para>
-There is a reason why openSUSE is "the makers' choice for sysadmins,
-developers and desktop users;" openSUSE gives you choice and provides
-a user-friendly desktop, and feature-rich server environment. People
-torn between newer software and a long-term, highly stable Linux system
-turn to openSUSE. &suse-version; provides "The Best of Two Worlds" – 
-reliability and contemporary software. Based on the core of SUSE Linux
-Enterprise, &suse-version; combines the proven SUSE core with the innovative
-spirit of open-source communities. That combinations gives makers choices
-and &suse-version; complements openSUSE's other release Tumbleweed, which
-caters to those who want continuously updated, tested and new stable packages.
+openSUSE is the makers' choice for sysadmins, developers and desktop users because it gives you more choices than other distributions. openSUSE Leap combines proven core packages from SUSE Linux Enterprise with community built packages, which creates synergies for the project's distribution. Get the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users a feature-rich server environments and user-friendly desktop. Enthusiasts and professionals looking for a long-term, highly stable Linux system need to look no further than openSUSE Leap &suse-version;, which complements the latest SUSE Linux Enterprise due to the shared sources. Thank you for making the change to use the most dependable and stable Linux system - openSUSE Leap &suse-version;.
 </para>
  </section>
 
@@ -34,12 +25,7 @@ caters to those who want continuously updated, tested and new stable packages.
   <title>openSUSE.org</title>
 
   <para>
-openSUSE is a community project created and sponsored by SUSE to 
-deliver the world's most user-friendly computing platform. Many people
-from around the world contribute to the openSUSE Project by packaging
-software, testing programs, writing documentation, and translating
-components into dozens of languages. All of that work is available 
-for free in the openSUSE Linux distribution available at www.opensuse.org.
+openSUSE is a community of projects and is sponsored by SUSE. The project has many people around the world who contribute to the openSUSE Project by packaging software, testing programs, writing documentation and translating it in languages used throughout the world. openSUSE has two distributions (Leap and Tumbleweed), tools (openQA, Kiwi and YaST), a software builder (Open Build Service) and projects (Portus and Machinery). Find out more at www.opensuse.org.
 </para>
 <para>Visit www.opensuse.org/How_to_Participate to learn how you can join 
 the openSUSE community.</para>
@@ -49,10 +35,7 @@ the openSUSE community.</para>
   <title>openSUSE in Many Languages</title>
 
   <para>
-The openSUSE distribution is available in many languages. Localization
-for openSUSE software occurs through the efforts of our hard-working,
-community-driven language teams. Thank you to all of our contributors.
-Find the localization portal at: http://i18n.opensuse.org/</para>
+Translating made easy - Are you interested in helping openSUSE be translated into your language? With https://l10n.opensuse.org/, you can get started right away. It is easy and you can contribute to this worldwide projects in a matter of minutes. All you need to do is login and start translating. Yes, it is that easy. Thank you to all of our contributors and especially to those contributors who bring the efforts of our hard-working community to people throughout the globe.</para>
   
  </section>
 
@@ -71,7 +54,7 @@ the Web, including the newest HTML5 technologies. Firefox also boasts
 lightning-fast performance, and a number of improvements designed to
 protect your privacy and prevent phishing attacks.</para>
 
-<para>Also included with openSUSE &suse-version; are Evolution and Kontact, 
+<para>Also included with openSUSE Leap &suse-version; are Evolution and Kontact, 
 complete e-mail and contact management applications. For instant 
 messaging, openSUSE features easy to use IM clients that support all 
 of the popular protocols.</para> 
@@ -79,13 +62,9 @@ of the popular protocols.</para>
  </section>
 
  <section label="04_create">
-  <title>Create, View and Listen</title>
+  <title>Devolops and sysadmins</title>
   <para>
-Download tunes from the Internet. Rip CDs to create your own customized
-music library. Listen to your playlist online. Burn CDs or DVDs. Copy
-your files to a smart phone or media player and take your music anywhere.
-Manage and edit digital pictures with powerful graphics editors. It's all
-easy with openSUSE &suse-version;.</para>
+openSUSE Leap &suse-version; and openSUSE Tumbleweed are great distrobutions for development, testing and deployment. Whether you need the latest packages, which can be found on Tumbleweed, or older packages, which can be found on Leap &suse-version;, openSUSE gives you the tools, community and packages to need to be sucessful.</para>
 
  </section>
 
