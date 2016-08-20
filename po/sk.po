@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-16 14:19+0200\n"
-"PO-Revision-Date: 2016-08-18 21:06+0100\n"
+"PO-Revision-Date: 2016-08-20 14:13+0100\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <opensuse-translation-sk@opensuse.org>\n"
 "Language: sk\n"
@@ -60,7 +60,6 @@ msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE is a community project created and sponsored by SUSE to deliver "
 #| "the world's most user-friendly computing platform. Many people from "
@@ -77,12 +76,13 @@ msgid ""
 "(Open Build Service) and projects (Portus and Machinery). Find out more at "
 "www.opensuse.org."
 msgstr ""
-"openSUSE je komunitný projekt tvorený a sponzorovaný spoločnosťou SUSE tak, "
-"aby dodávala používateľsky najprívetivejšiu počítačovú platformu na svete. "
-"Mnoho ľudí z celého sveta prispieva do projektu openSUSE tvorbou "
-"softvérových balíkov, testovaním programov, písaním dokumentácie a "
-"prekladaním jednotlivých častí do množstva jazykov. Výsledky tejto práce sú "
-"voľne dostupné v linuxovej distribúcii openSUSE na www.opensuse.org."
+"openSUSE je projektová komunita a je sponzorovaná spoločnosťou SUSE. Mnoho "
+"ľudí z celého sveta prispieva do projektu openSUSE tvorbou softvérových "
+"balíkov, testovaním programov, písaním dokumentácie a jeho prekladom do "
+"jazykov používaných po celom svete. openSUSE má dve distribúcie (Leap a "
+"Tumbleweed), nástroje (openQA, Kiwi a YaST), softvérový builder (Open Build "
+"Service) a projekty (Portus a Machinery). Viac informácií sa dozviete na "
+"www.opensuse.org."
 
 #: slideshow.xml:30(para)
 #| msgid ""
@@ -195,7 +195,6 @@ msgid "Documents, Spreadsheets and More"
 msgstr "Dokumenty, tabuľky a ďalšie"
 
 #: slideshow.xml:74(para)
-#, fuzzy
 #| msgid ""
 #| "The openSUSE Leap 42.1 distribution comes complete with the latest "
 #| "version of the leading Linux productivity suite, LibreOffice. It features "
@@ -214,11 +213,11 @@ msgid ""
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"Distribúcia openSUSE Leap 42.1 prichádza opäť s najnovšou verziou popredného "
+"Distribúcia openSUSE Leap 42.2 prichádza opäť s najnovšou verziou popredného "
 "linuxového kancelárskeho balíka LibreOffice. Obsahuje textový procesor, "
 "aplikáciu tabuľkového procesora, HTML editor, program pre tvorbu prezentácií "
-"a správcu databáz. Číta a zapisuje rozličné formáty, vrátane formátov "
-"Microsoft Office, takže môžete ľahko prechádzať medzi openSUSE a rozšíreným "
+"a správcu databáz. Číta a zapisuje rozličné formáty – vrátane formátov "
+"Microsoft Office – takže môžete ľahko prechádzať medzi openSUSE a rozšíreným "
 "nelinuxovým kancelárskym softvérom. LibreOffice je skvelou voľbou pre tvorbu "
 "správ, článkov, domáceho rozpočtu, jednoduchej grafiky a ďalšieho."
 
@@ -227,7 +226,6 @@ msgid "Graphics, Graphics, Graphics"
 msgstr "Grafika, grafika, grafika"
 
 #: slideshow.xml:87(para)
-#, fuzzy
 #| msgid ""
 #| "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 #| "type of graphic. For advanced image manipulation and graphics creation, "
@@ -238,12 +236,11 @@ msgid ""
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"S nástrojmi v openSUSE Leap 42.1 môžete tvoriť a upravovať takmer akýkoľvek "
+"S nástrojmi v openSUSE Leap 42.2 môžete tvoriť a upravovať takmer akýkoľvek "
 "typ grafiky. Na pokročilé spracovanie obrázkov a grafických výtvorov použite "
-"GIMP, výkonný nástroj na na retušovanie, kompozíciu a tvorenie."
+"GIMP, výkonný nástroj na retušovanie, kompozíciu a tvorenie."
 
 #: slideshow.xml:92(para)
-#, fuzzy
 #| msgid ""
 #| "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
 #| "graphics solution delivers support for transparent layers, bitmap "
@@ -253,16 +250,15 @@ msgid ""
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"Pre prácu s vektorovou grafikou obsahuje openSUSE Leap 42.1 aplikáciu "
-"Inkscape — všestranné riešenie grafiky poskytuje podporu transparentné "
-"vrstvy, vektorizáciu pre bitmáp, dráhy textu cesty a mnoho ďalšieho."
+"Pre prácu s vektorovou grafikou obsahuje openSUSE Leap 42.2 aplikáciu "
+"Inkscape – všestranné riešenie grafiky poskytuje podporu pre transparentné "
+"vrstvy, vektorizáciu bitmáp, dráhy textu a mnoho ďalšieho."
 
 #: slideshow.xml:100(title)
 msgid "Computing On-the-Go"
 msgstr "Počítač na cestách"
 
 #: slideshow.xml:102(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
 #| "switch effortlessly between wireless and wired networks using "
@@ -274,10 +270,10 @@ msgid ""
 "NetworkManager. Connect with mobile devices like mobile phones and tablets "
 "via Bluetooth."
 msgstr ""
-"openSUSE Leap 42.1 obsahuje vyspelé služby pre mobilitu. Môžete sa "
-"jednoducho medzi bezdrôtovou a pevnou sieťou pomocou aplikácie "
-"NetworkManager. Pripojte sa s mobilnými zariadeniami, ako súmobilné telefóny "
-"a PDA, cez Bluetooth."
+"openSUSE Leap 42.2 obsahuje vyspelé služby pre mobilitu. Môžete sa "
+"jednoducho prepínať medzi bezdrôtovou a pevnou sieťou pomocou aplikácie "
+"NetworkManager. Pripojte sa s mobilnými zariadeniami, ako sú mobilné "
+"telefóny a tablety, cez Bluetooth."
 
 #: slideshow.xml:106(para)
 msgid ""
@@ -288,13 +284,11 @@ msgstr ""
 "poskytnú vám slobodu pracovať na počítači kamkoľvek pôjdete."
 
 #: slideshow.xml:114(title)
-#, fuzzy
 #| msgid "Your operating system - respecting privacy - providing security"
 msgid "Your operating system – respecting privacy – providing security"
-msgstr "Váš operačný systém - rešpektujúci súkromie - poskytujúci bezpečnosť"
+msgstr "Váš operačný systém – rešpektujúci súkromie – poskytujúci bezpečnosť"
 
 #: slideshow.xml:116(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE builds something that puts you in control. Rolling or Stable, "
 #| "you decide. Unlike windows, you decide which updates get applied when. "
@@ -328,14 +322,13 @@ msgstr ""
 "bezpečnosť a súkromie. SUSE Firewall vám pomôže ochrániť systém a dáta pred "
 "nepozvaným vniknutím z Internetu. Táto ochrana je aktivovaná v predvolenom "
 "nastavení a ľahko sa konfiguruje. Avšak môžete urobiť ešte viac pre ochranu "
-"vášho systému openSUSE Leap 42.1, pretože tiež obsahuje AppArmor, čo je "
+"vášho systému openSUSE Leap 42.2, pretože tiež obsahuje AppArmor, čo je "
 "najefektívnejší a ľahko použiteľný linuxový aplikačný bezpečnostný systém, "
-"ktorý je dnes k dispozícii. AppArmor aktívne ochraňuje operačný systém a "
+"ktorý je dnes k dispozícii. AppArmor proaktívne ochraňuje operačný systém a "
 "aplikácie pred vnútornými a vonkajšími hrozbami."
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:129(para)
-#, fuzzy
 #| msgid ""
 #| "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also "
 #| "includes a special security patch update system. To ensure that the "
@@ -354,7 +347,7 @@ msgid ""
 "be automatically informed of the availability of important security updates, "
 "so you can install them at your convenience."
 msgstr ""
-"Navyše openSUSE Leap 42.1 obsahuje okrem SUSE Firewall a AppArmor aj systém "
+"Navyše openSUSE Leap 42.2 obsahuje okrem SUSE Firewall a AppArmor aj systém "
 "špeciálnych bezpečnostných opravných aktualizácií. Ak chcete mať istotu, že "
 "na vašom systéme sú nainštalované najnovšie bezpečnostné opravy, môžete "
 "vykonať online aktualizáciu na konci inštalačného procesu (ak ste si "
@@ -367,7 +360,6 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualizačné technológie a nástroje pre vývoj aplikácií"
 
 #: slideshow.xml:143(para)
-#, fuzzy
 #| msgid ""
 #| "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is "
 #| "one of the most robust solutions for virtualization available. In "
@@ -383,11 +375,11 @@ msgid ""
 "openSUSE comes with a complete set of runtime environments plus extensive "
 "application development tools."
 msgstr ""
-"Xen aj KVM hypervisor sú súčasťou openSUSE Leap 42.1. Xen je jedno z "
-"najvýkonnejších dostupných riešení pre virtualizáciu. Okrem toho poskytuje "
-"openSUSE nástroje pre sieťové zdieľanie súborov (Samba, NFS, atď.), tlač "
+"Xen aj KVM hypervisor sú súčasťou openSUSE Leap 42.2. Xen je jedno z "
+"najvýkonnejších dostupných riešení pre virtualizáciu. Okrem toho openSUSE "
+"poskytuje nástroje pre sieťové zdieľanie súborov (Samba, NFS, atď.), tlač "
 "(CUPS) a webhosting (Apache). Pre vývoj aplikácii prichádza openSUSE s "
-"kompletnou sadou behových prostredí plus  rozsiahle nástroje pre vývoj "
+"kompletnou sadou behových prostredí plus rozsiahle nástroje pre vývoj "
 "aplikácií."
 
 #: slideshow.xml:153(title)
@@ -395,7 +387,6 @@ msgid "Learn More"
 msgstr "Dozvedieť sa viac"
 
 #: slideshow.xml:154(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE "
 #| "questions as well as general Linux-related questions. The Help Center is "
@@ -407,10 +398,10 @@ msgid ""
 "accessible via the main menu. Manuals are also available in PDF and can be "
 "downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
 msgstr ""
-"V openSUSE Leap 42.1 ponúka rozsiahlu dokumentáciu, ktorá rieši otázky "
+"openSUSE Leap 42.2 ponúka rozsiahlu dokumentáciu, ktorá rieši otázky "
 "týkajúce sa openSUSE, ako aj Linuxu všeobecne. Centrum pomocníka je dostupné "
-"cez hlavné menu. Návody sú tiež dostupné vo formáte PDF a môžu sa stiahnuť a "
-"vytlačiť (http://en.opensuse.org/Portal:Documentation)."
+"cez hlavné menu. Taktiež sú dostupné návody vo formáte PDF, ktoré sa dajú "
+"stiahnuť a vytlačiť (http://en.opensuse.org/Portal:Documentation)."
 
 #: slideshow.xml:164(para)
 msgid ""
