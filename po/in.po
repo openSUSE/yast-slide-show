@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2016-08-16 14:19+0200\n"
-"PO-Revision-Date: 2016-08-23 13:58+0000\n"
+"PO-Revision-Date: 2016-08-24 15:43+0000\n"
 "Last-Translator: M. Edwin Zakaria <medwin@opensuse.org>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/in/>\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Generator: Weblate 2.6\n"
 
 #: slideshow.xml:14(title)
-#, fuzzy
 msgid "Slide Show"
 msgstr "Presentasi"
 
