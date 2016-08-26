@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenSUSE\n"
 "POT-Creation-Date: 2016-08-16 14:19+0200\n"
-"PO-Revision-Date: 2016-08-26 12:57+0000\n"
+"PO-Revision-Date: 2016-08-26 13:00+0000\n"
 "Last-Translator: Pasca Alexandru <yo6ial@yahoo.com>\n"
 "Language-Team: Romanian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/ro/>\n"
@@ -177,11 +177,11 @@ msgid ""
 "Leap Leap 42.2, openSUSE gives you the tools, community and packages to need "
 "to be sucessful."
 msgstr ""
-"openSUSE Leap Leap 42 şi openSUSE Tumbleweed sunt distribuţii excelente "
-"pentru dezvoltare, testare şi implementare. Fie că ai nevoie de cele mai noi "
+"openSUSE Leap 42 şi openSUSE Tumbleweed sunt distribuţii excelente pentru "
+"dezvoltare, testare şi implementare. Fie că ai nevoie de cele mai noi "
 "pachete, ce pot fi regăsite în Tumbleweed, sau pachete mai vechi, ce pot fi "
-"regăsite în Leap Leap 42.2, openSUSE îţi oferă uneltele, comunitatea şi "
-"pachetele de care ai nevoie pentru succes."
+"regăsite în Leap 42.2, openSUSE îţi oferă uneltele, comunitatea şi pachetele "
+"de care ai nevoie pentru succes."
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
@@ -233,7 +233,7 @@ msgstr ""
 
 #: slideshow.xml:100(title)
 msgid "Computing On-the-Go"
-msgstr "Cu laptopul la drum!"
+msgstr "Calculatoare portabile"
 
 #: slideshow.xml:102(para)
 msgid ""
