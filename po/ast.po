@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-13 18:14+0000\n"
+"PO-Revision-Date: 2016-09-13 21:46+0000\n"
 "Last-Translator: Enol P <enolp@softastur.org>\n"
 "Language-Team: Asturian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/ast/>\n"
@@ -36,6 +36,8 @@ msgstr ""
 #: slideshow.xml:30(para)
 msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
 msgstr ""
+"Visita www.opensuse.org/How_to_Participate pa deprender cómo pues xunite a "
+"la comunidá d'openSUSE."
 
 #: slideshow.xml:35(title)
 msgid "openSUSE in Many Languages"
@@ -47,23 +49,35 @@ msgstr ""
 
 #: slideshow.xml:43(title)
 msgid "Connect and Communicate"
-msgstr ""
+msgstr "Coneuta y comunica"
 
 #: slideshow.xml:45(para)
 msgid "You can communicate more effectively with openSUSE Leap 42.2 because it provides a complete set of tools for Web browsing and e-mail management – it even includes the newest Voice over IP technology."
 msgstr ""
+"Pues comunicate de mou más efeutivu con openSUSE Leap 42.2 porque apurre un "
+"conxuntu completu de ferramientes pal restolar web y xestión de corréu – "
+"incluso inclúi la teunoloxía más nueva en VoIP."
 
 #: slideshow.xml:51(para)
 msgid "openSUSE Leap 42.2 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr ""
+"openSUSE Leap 42.2 inclúi Mozilla Firefox, ún de los meyores restoladores "
+"Web nel mundiu. Firefox inclúi toles carauterístiques que precises pa "
+"esfrutar la web, incluyendo les teunoloxíes HTML5 más nueves. Firefox tamién "
+"farda del so rindimientu perrápidu y un númberu d'ameyores diseñaes pa "
+"protexer la to privacidá y evitar ataques de phishing."
 
 #: slideshow.xml:57(para)
 msgid "Also included with openSUSE Leap Leap 42.2 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols."
 msgstr ""
+"Tamién s'inclúi con openSUSE Leap 42.2 Evolution y Kontact, aplicaciones "
+"completes de xestión de correos y contautos. Pa mensaxería nel intre, "
+"openSUSE tien veceros MI cenciellos d'usar que sofiten tolos protocolos "
+"populares."
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "Desendolcadores y alministradores de sistemes"
 
 #: slideshow.xml:66(para)
 msgid "openSUSE Leap Leap 42.2 and openSUSE Tumbleweed are great distributions for development, testing and deployment. Whether you need the latest packages, which can be found on Tumbleweed, or more stable packages, which can be found on Leap Leap 42.2, openSUSE gives you the tools, community and packages needed to be sucessful."
