@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-16 13:30+0000\n"
+"PO-Revision-Date: 2016-09-19 09:28+0000\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@opensuse.org>\n"
 "Language-Team: French <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/fr/>\n"
@@ -176,7 +176,7 @@ msgstr ""
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "Développeurs et administrateurs systèmes"
 
 #: slideshow.xml:66(para)
 msgid ""
@@ -186,6 +186,11 @@ msgid ""
 "found on Leap Leap 42.2, openSUSE gives you the tools, community and "
 "packages needed to be sucessful."
 msgstr ""
+"openSUSE Leap 42.2 et openSUSE Tumbleweed sont de bonnes distributions pour "
+"le développement, le test et le déploiement. Que vous ayez besoin des "
+"paquets lesp lus récents, disponibles sur Tumbleweed, ou des paquets plus "
+"stables, sur Leap 42.2, openSUSE vous donne les outils, la communauté et les "
+"paquets dont vous avez besoin pour réussir."
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
