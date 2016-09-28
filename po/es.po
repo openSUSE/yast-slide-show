@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.es\n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-09-28 15:20+0000\n"
+"PO-Revision-Date: 2016-09-28 15:27+0000\n"
 "Last-Translator: Victor hck <correohck@gmail.com>\n"
 "Language-Team: Spanish <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/es/>\n"
@@ -88,7 +88,7 @@ msgstr ""
 "documentación y traduciéndolo a los idiomas que se hablan en el mundo. "
 "openSUSE tiene dos distribuciones (Leap y Tumbleweed), herramientas (openQA, "
 "Kiwi y YaST), un compilador de software (Open Build Service) y proyectos ("
-"Portus y Machinery). Conoce más al respecto en www.opensuse.org."
+"Portus y Machinery). Conozca más al respecto en www.opensuse.org."
 
 #: slideshow.xml:30(para)
 msgid ""
@@ -291,7 +291,7 @@ msgid ""
 msgstr ""
 "Las innovaciones más recientes en gestión de energía de openSUSE aumentarán "
 "su movilidad y le proporcionarán la libertad de realizar su trabajo donde "
-"quiera que vayas."
+"quiera que vaya."
 
 #: slideshow.xml:114(title)
 #| msgid "Your operating system - respecting privacy - providing security"
@@ -492,7 +492,9 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "translator-credits"
+msgstr ""
+"Créditos de los traductores\n"
+"Victorhck 2016"
 
 # ¿Que significa realmente "makers" en estas frases?
 # Parece referirse a https://en.wikipedia.org/wiki/Maker_culture
