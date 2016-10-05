@@ -20,8 +20,8 @@ msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-06 17:06+0200\n"
-"PO-Revision-Date: 2016-10-05 06:51+0000\n"
-"Last-Translator: Vojtech Zeisek <Vojtech.Zeisek@opensuse.org>\n"
+"PO-Revision-Date: 2016-10-05 18:08+0000\n"
+"Last-Translator: Jan Papež <honyczek@centrum.cz>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/cs/>\n"
 "Language: cs\n"
@@ -70,7 +70,6 @@ msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE is a community project created and sponsored by SUSE to deliver "
 #| "the world's most user-friendly computing platform. Many people from "
@@ -87,12 +86,13 @@ msgid ""
 "(Open Build Service) and projects (Portus and Machinery). Find out more at "
 "www.opensuse.org."
 msgstr ""
-"openSUSE je komunitní projekt vytvářený a sponzorovaný společností SUSE tak, "
-"aby se stal uživatelsky nejpřívětivější výpočetní platformou na světě. Mnoho "
-"lidí z celého světa přispívá projektu openSUSE vytvářením softwarových "
-"balíčků, testováním programů, psaním dokumentace a překládáním komponent do "
-"spousty jazyků. Výsledek této práce je k dispozici zdarma jako distribuce "
-"openSUSE Linux na stránkách: www.opensuse.org."
+"openSUSE je komunita projektů a je sponzorována společností SUSE . V tomto "
+"projektu je mnoho lidí z celého světa, kteří přispívají do Projektu openSUSE "
+"balíčkováním softwaru, testováním programů, psaním dokumentace a jejím "
+"překladem do celosvětových jazyků. openSUSE má dvě distribuce (Leap a "
+"Tumbleweed), nástroje (openQA, Kiwi a YaST), software pro sestavování (Open "
+"Build Service) a projekty (Portus a Machinery). Více se dozvíte na stránkách "
+"www.opensuse.org."
 
 #: slideshow.xml:30(para)
 msgid ""
@@ -116,13 +116,19 @@ msgid ""
 "those contributors who bring the efforts of our hard-working community to "
 "people throughout the globe."
 msgstr ""
+"Jednoduché překládání - Zajímáte se o to, jak pomoci překládat openSUSE do "
+"vašeho jazyka? Můžete začít ihned na adrese https://l10n.opensuse.org/. Je "
+"to jednoduché a vaše přispění do tohoto celosvětového projektu je "
+"záležitostí několika minut. Jediné co potřebujete je přihlášení se a pak "
+"můžete začít překládat. Ano, je to tak jednoduché. Díky všem přispěvatelům a "
+"zvláště těm, kteří se zapojují v naší těžce pracující komunitě pro lidi po "
+"celém světě."
 
 #: slideshow.xml:43(title)
 msgid "Connect and Communicate"
 msgstr "Připojte se a komunikujte"
 
 #: slideshow.xml:45(para)
-#, fuzzy
 #| msgid ""
 #| "You can communicate more effectively with openSUSE Leap 42.1 because it "
 #| "provides a complete set of tools for Web browsing and e-mail management — "
@@ -132,12 +138,11 @@ msgid ""
 "provides a complete set of tools for Web browsing and e-mail management – it "
 "even includes the newest Voice over IP technology."
 msgstr ""
-"S distribucí openSUSE Leap 42.1 můžete komunikovat efektivněji. Obsahuje "
+"S distribucí openSUSE Leap 42.2 můžete komunikovat efektivněji. Obsahuje "
 "totiž úplnou sadu nástrojů pro prohlížení webu, správu e-mailů a též "
 "podporuje i nejnovější technologii internetového telefonování VoIP."
 
 #: slideshow.xml:51(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers "
 #| "in the world. Firefox includes all the features you need to enjoy the "
@@ -151,14 +156,13 @@ msgid ""
 "performance, and a number of improvements designed to protect your privacy "
 "and prevent phishing attacks."
 msgstr ""
-"S distribucí openSUSE Leap 42.1 získáváte Mozilla Firefox, jeden z "
+"S distribucí openSUSE Leap 42.2 získáváte Mozilla Firefox, jeden z "
 "nejlepších webových prohlížečů na světě. Firefox obsahuje všechny funkce "
 "potřebné k tomu, abyste si web užívali, včetně nejnovějších technologií "
 "HTML5. Také se pyšní bleskově rychlým výkonem, spoustou vylepšení navržených "
 "k ochraně vašeho soukromí a k předcházení phishingovým útokům."
 
 #: slideshow.xml:57(para)
-#, fuzzy
 #| msgid ""
 #| "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete "
 #| "e-mail and contact management applications. For instant messaging, "
@@ -171,15 +175,14 @@ msgid ""
 "openSUSE features easy to use IM clients that support all of the popular "
 "protocols."
 msgstr ""
-"V openSUSE Leap 42.1 také najdete aplikace Evolution a Kontact, kompletní "
+"V openSUSE Leap 42.2 také najdete aplikace Evolution a Kontact, kompletní "
 "řešení pro správu emailů a kontaktů. Pro pokec v openSUSE můžete použít "
-"některý z uživatelsky přívětivých IM klientů podporujících populární "
-"protokoly: AIM, Facebook, Google Talk, Jabber, MSN, Yahoo!, Groupwise a řadu "
-"dalších."
+"některý z uživatelsky přívětivých IM klientů podporujících všechny populární "
+"protokoly."
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "Vývojáři a správci systémů"
 
 #: slideshow.xml:66(para)
 msgid ""
@@ -189,13 +192,17 @@ msgid ""
 "found on Leap Leap 42.2, openSUSE gives you the tools, community and "
 "packages needed to be sucessful."
 msgstr ""
+"openSUSE Leap 42.2 a openSUSE Tumbleweed jsou skvělé distribuce pro vývoj, "
+"testování a nasazování. Ať už potřebujete nejnovější balíčky, které můžete "
+"nalézt na Tumbleweedu, nebo spíše stabilní balíčky, které najdete v Leapu "
+"42.2, openSUSE vám dává nástroje, komunitu a balíčky potřebné k tomu, abyste "
+"byli úspěšní."
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "Dokumenty, tabulky a další"
 
 #: slideshow.xml:74(para)
-#, fuzzy
 #| msgid ""
 #| "The openSUSE Leap 42.1 distribution comes complete with the latest "
 #| "version of the leading Linux productivity suite, LibreOffice. It features "
@@ -214,10 +221,10 @@ msgid ""
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"Distribuce openSUSE Leap 42.1 obsahuje nejnovější verzi předního linuxového "
+"Distribuce openSUSE Leap 42.2 obsahuje nejnovější verzi předního linuxového "
 "kancelářského balíku — LibreOffice. Obsahuje textový procesor, tabulkovou "
 "aplikaci, HTML editor, designer prezentací a správce databází. Také umí číst "
-"a zapisovat soubory v mnoha formátech — včetně formátů Microsoft Office — "
+"a zapisovat soubory v mnoha formátech – včetně formátů Microsoft Office – "
 "takže můžete své dokumenty snadno přenášet mezi openSUSE a oblíbenými "
 "kancelářskými balíky na jiných nelinuxových operačních systémech. "
 "LibreOffice je skvělou volbou pro vytváření vašich referátů, novin, domácího "
@@ -228,7 +235,6 @@ msgid "Graphics, Graphics, Graphics"
 msgstr "Grafika, grafika, grafika"
 
 #: slideshow.xml:87(para)
-#, fuzzy
 #| msgid ""
 #| "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 #| "type of graphic. For advanced image manipulation and graphics creation, "
@@ -239,13 +245,12 @@ msgid ""
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"S nástroji dodávanými v openSUSE Leap 42.1 můžete vytvářet prakticky "
+"S nástroji dodávanými v openSUSE Leap 42.2 můžete vytvářet prakticky "
 "jakoukoli grafiku. Pro pokročilou práci s obrázky a tvorbu grafiky můžete "
 "použít GIMP, program umožňující jak retušování fotografií, tak i tvorbu "
 "grafiky."
 
 #: slideshow.xml:92(para)
-#, fuzzy
 #| msgid ""
 #| "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
 #| "graphics solution delivers support for transparent layers, bitmap "
@@ -255,7 +260,7 @@ msgid ""
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"Pokud chcete v openSUSE Leap 42.1 pracovat s vektorovou grafikou, "
+"Pokud chcete v openSUSE Leap 42.2 pracovat s vektorovou grafikou, "
 "vyzkoušejte Inkscape. Toto všestranné grafické řešení obsahuje podporu "
 "průhledných vrstev, vektorizaci bitmap, textové cesty a řadu dalších funkcí."
 
@@ -264,7 +269,6 @@ msgid "Computing On-the-Go"
 msgstr "Počítače na cestách"
 
 #: slideshow.xml:102(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
 #| "switch effortlessly between wireless and wired networks using "
@@ -276,10 +280,10 @@ msgid ""
 "NetworkManager. Connect with mobile devices like mobile phones and tablets "
 "via Bluetooth."
 msgstr ""
-"openSUSE Leap 42.1 obsahuje pokročilé funkce pro mobilní využívání počítače. "
+"openSUSE Leap 42.2 obsahuje pokročilé funkce pro mobilní využívání počítače. "
 "Mezi pevnými a bezdrátovými sítěmi se můžete snadno přepínat pomocí programu "
 "NetworkManager. Pomocí technologie Bluetooth se můžete připojovat k "
-"zařízením, jako jsou mobilní telefony, tablety a zařízení PDA."
+"zařízením, jako jsou mobilní telefony a tablety."
 
 #: slideshow.xml:106(para)
 msgid ""
@@ -291,13 +295,11 @@ msgstr ""
 "už míříte kamkoliv."
 
 #: slideshow.xml:114(title)
-#, fuzzy
 #| msgid "Your operating system - respecting privacy - providing security"
 msgid "Your operating system – respecting privacy – providing security"
-msgstr "Váš operační systém - respektující soukromí - poskytující bezpečí"
+msgstr "Váš operační systém – respektující soukromí – poskytující bezpečí"
 
 #: slideshow.xml:116(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE builds something that puts you in control. Rolling or Stable, "
 #| "you decide. Unlike windows, you decide which updates get applied when. "
@@ -331,7 +333,7 @@ msgstr ""
 "bezpečnost a soukromí. Svůj systém a svá data můžete před útočníky z "
 "Internetu zabezpečit pomocí nástroje SUSE Firewall. Tato bezpečnostní funkce "
 "je aktivována ve výchozím nastavení a snadno se konfiguruje. Svůj systém "
-"openSUSE Leap 42.1 však můžete zabezpečit ještě lépe, protože součástí "
+"openSUSE Leap 42.2 však můžete zabezpečit ještě lépe, protože součástí "
 "distribuce je řešení AppArmor, nejúčinnější snadno použitelný systém "
 "zabezpečení linuxových aplikací, který je v současnosti dostupný. Systém "
 "AppArmor proaktivně chrání váš operační systém a aplikace před vnějšími i "
@@ -339,7 +341,6 @@ msgstr ""
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:129(para)
-#, fuzzy
 #| msgid ""
 #| "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also "
 #| "includes a special security patch update system. To ensure that the "
@@ -358,7 +359,7 @@ msgid ""
 "be automatically informed of the availability of important security updates, "
 "so you can install them at your convenience."
 msgstr ""
-"Kromě řešení SUSE Firewall a AppArmor obsahuje openSUSE Leap 42.1 také "
+"Kromě řešení SUSE Firewall a AppArmor obsahuje openSUSE Leap 42.2 také "
 "zvláštní systém bezpečnostních aktualizací systému. Chcete-li zajistit, aby "
 "ve vašem systému byly nainstalovány nejnovější bezpečnostní opravy, můžete "
 "na konci této instalace zvolit provedení online aktualizace (pokud však "
@@ -372,7 +373,6 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualizace a vývojové nástroje"
 
 #: slideshow.xml:143(para)
-#, fuzzy
 #| msgid ""
 #| "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is "
 #| "one of the most robust solutions for virtualization available. In "
@@ -388,7 +388,7 @@ msgid ""
 "openSUSE comes with a complete set of runtime environments plus extensive "
 "application development tools."
 msgstr ""
-"Součástí distribuce openSUSE Leap 42.1 jsou hypervisory Xen a KVM. Xen je "
+"Součástí distribuce openSUSE Leap 42.2 jsou hypervisory Xen a KVM. Xen je "
 "jeden z nejsilnějších dostupných řešení pro virtualizaci. Kromě toho "
 "openSUSE poskytuje nástroje pro sdílení souborů (Samba, NFS atd.), tisk "
 "(CUPS) a webový hosting (Apache). Chcete-li vyvíjet aplikace, poskytuje "
@@ -400,7 +400,6 @@ msgid "Learn More"
 msgstr "Dozvědět se více"
 
 #: slideshow.xml:154(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE "
 #| "questions as well as general Linux-related questions. The Help Center is "
@@ -412,11 +411,11 @@ msgid ""
 "accessible via the main menu. Manuals are also available in PDF and can be "
 "downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
 msgstr ""
-"Distribuce openSUSE Leap 42.1 poskytuje rozsáhlou dokumentaci, která "
+"Distribuce openSUSE Leap 42.2 poskytuje rozsáhlou dokumentaci, která "
 "odpovídá na otázky týkající se nejen distribuce openSUSE, ale i Linuxu "
 "obecně. Centrum nápovědy je přístupné pomocí hlavní nabídky. Příručky jsou "
-"dostupné také ve formátu PDF a můžete si je stáhnout a vytisknout (http://cs."
-"opensuse.org/Portal:Dokumentace)."
+"dostupné také ve formátu PDF a můžete si je stáhnout a vytisknout "
+"(http://cs.opensuse.org/Portal:Dokumentace)."
 
 #: slideshow.xml:164(para)
 msgid ""
