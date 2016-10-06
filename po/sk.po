@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-06 13:07+0200\n"
-"PO-Revision-Date: 2016-08-20 14:13+0100\n"
+"PO-Revision-Date: 2016-10-06 16:00+0100\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <opensuse-translation-sk@opensuse.org>\n"
 "Language: sk\n"
@@ -30,7 +30,6 @@ msgid "Welcome to openSUSE™!"
 msgstr "Vitajte v openSUSE™!"
 
 #: slideshow.xml:19(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE is the makers' choice for sysadmins, developers and desktop "
 #| "users because it gives you more choices than other distributions. "
@@ -56,7 +55,7 @@ msgid ""
 "change to use the most dependable and stable Linux system - openSUSE Leap "
 "42.2."
 msgstr ""
-"openSUSE Leap je voľba tvorcov pre systémových administrátorov, vývojárov a "
+"openSUSE Leap je voľba tvorcov pre správcov systémov, vývojárov a "
 "používateľov desktopov, pretože vám dáva viac možností ako iné distribúcie. "
 "openSUSE Leap kombinuje overené základné balíky zo SUSE Linux Enterprise s "
 "balíkmi zostavenými komunitou, čo vytvára synergiu pre distribúciu projektu. "
@@ -65,7 +64,7 @@ msgstr ""
 "používateľsky prívetivý desktop. Nadšenci a profesionáli hľadajúci dlhodobý, "
 "vysoko stabilný linuxový systém nepotrebujú hľadať nič iné ako openSUSE Leap "
 "42.2, ktoré dopĺňa najnovšie SUSE Linux Enterprise kvôli zdieľaným zdrojom. "
-"Ďakujeme vám za vykonanie zmeny pri použití najspoľahlivejšieho a "
+"Ďakujeme vám za vykonanie zmeny v použití najspoľahlivejšieho a "
 "najstabilnejšieho linuxového systém - openSUSE Leap 42.2."
 
 #: slideshow.xml:25(title)
@@ -87,8 +86,8 @@ msgstr ""
 "balíkov, testovaním programov, písaním dokumentácie a jeho prekladom do "
 "jazykov používaných po celom svete. openSUSE má dve distribúcie (Leap a "
 "Tumbleweed), nástroje (openQA, Kiwi a YaST), softvérový builder (Open Build "
-"Service) a projekty (Portus a Machinery). Viac informácií sa dozviete na www."
-"opensuse.org."
+"Service) a projekty (Portus a Machinery). Viac informácií sa dozviete na "
+"www.opensuse.org."
 
 #: slideshow.xml:30(para)
 msgid ""
@@ -149,7 +148,6 @@ msgstr ""
 "ktorých cieľom je chrániť vaše súkromie a zabrániť phishing útokom."
 
 #: slideshow.xml:57(para)
-#, fuzzy
 #| msgid ""
 #| "Also included with openSUSE Leap Leap 42.2 are Evolution and Kontact, "
 #| "complete e-mail and contact management applications. For instant "
@@ -161,18 +159,16 @@ msgid ""
 "features easy to use IM clients that support all of the popular protocols."
 msgstr ""
 "Ďalšou súčasťou openSUSE Leap 42.2 sú Evolution a Kontakt, komplexné "
-"aplikácie pre správu kontaktov a emailov. Pre posielanie rýchlych správ "
-"(instant messaging) sú v openSUSE IM klienti s jednoduchým ovládaním, ktorí "
+"aplikácie pre správu kontaktov a emailov. Pre posielanie rýchlych správ ("
+"instant messaging) sú v openSUSE IM klienti s jednoduchým ovládaním, ktorí "
 "majú podporu všetkých rozšírených protokolov."
 
 #: slideshow.xml:65(title)
-#, fuzzy
 #| msgid "Develops and Sysadmins"
 msgid "Developers and Sysadmins"
-msgstr "Vývojári a administrátori"
+msgstr "Vývojári a správcovia systémov"
 
 #: slideshow.xml:66(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap Leap 42.2 and openSUSE Tumbleweed are great distributions "
 #| "for development, testing and deployment. Whether you need the latest "
@@ -188,8 +184,9 @@ msgid ""
 msgstr ""
 "openSUSE Leap 42.2 a openSUSE Tumbleweed sú skvelé distribúcie pre vývoj, "
 "testovanie a nasadenie. Či už potrebujete najnovšie balíky, ktoré možno "
-"nájsť na Tumbleweed, alebo staršie balíky, ktoré možno nájsť na Leap 42.2, "
-"openSUSE vám dáva potrebné nástroje, komunitu a balíky, aby ste bolí úspešní."
+"nájsť na Tumbleweed, alebo stabilnejšie balíky, ktoré možno nájsť na Leap "
+"42.2, openSUSE vám dáva potrebné nástroje, komunitu a balíky, aby ste bolí "
+"úspešní."
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
@@ -360,8 +357,8 @@ msgstr ""
 "sekcii “Documentation” nájdete odkazy s užitočnými informáciami, ktoré sú "
 "vytvorené a udržiavané ostatnými používateľmi openSUSE. Sú tam aj odkazy k "
 "dokumentácii, ktorá je umiestnená na oficiálnych stránkach SUSE. Ak hľadáte "
-"pomoc k špecifickým problém s openSUSE, nazrite do Support Database na www."
-"opensuse.org"
+"pomoc k špecifickým problém s openSUSE, nazrite do Support Database na "
+"www.opensuse.org"
 
 #: slideshow.xml:175(para)
 msgid ""
