@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
-"POT-Creation-Date: 2016-09-06 17:06+0200\n"
+"POT-Creation-Date: 2016-10-06 13:07+0200\n"
 "PO-Revision-Date: 2005-08-03 21:03+0200\n"
 "Last-Translator: Данило Шеган <danilo@gnome.org>\n"
 "Language-Team: Serbian <novell@prevod.org>\n"
@@ -33,10 +33,10 @@ msgid ""
 "the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users "
 "a feature-rich server environments and user-friendly desktop. Enthusiasts "
 "and professionals looking for a long-term, highly stable Linux system need "
-"to look no further than openSUSE Leap Leap 42.2, which complements the "
-"latest SUSE Linux Enterprise due to the shared sources. Thank you for making "
-"the change to use the most dependable and stable Linux system - openSUSE "
-"Leap Leap 42.2."
+"to look no further than openSUSE Leap 42.2, which complements the latest "
+"SUSE Linux Enterprise due to the shared sources. Thank you for making the "
+"change to use the most dependable and stable Linux system - openSUSE Leap "
+"42.2."
 msgstr ""
 
 #: slideshow.xml:25(title)
@@ -98,10 +98,9 @@ msgstr ""
 
 #: slideshow.xml:57(para)
 msgid ""
-"Also included with openSUSE Leap Leap 42.2 are Evolution and Kontact, "
-"complete e-mail and contact management applications. For instant messaging, "
-"openSUSE features easy to use IM clients that support all of the popular "
-"protocols."
+"Also included with openSUSE Leap 42.2 are Evolution and Kontact, complete e-"
+"mail and contact management applications. For instant messaging, openSUSE "
+"features easy to use IM clients that support all of the popular protocols."
 msgstr ""
 
 #: slideshow.xml:65(title)
@@ -110,11 +109,11 @@ msgstr ""
 
 #: slideshow.xml:66(para)
 msgid ""
-"openSUSE Leap Leap 42.2 and openSUSE Tumbleweed are great distributions for "
+"openSUSE Leap 42.2 and openSUSE Tumbleweed are great distributions for "
 "development, testing and deployment. Whether you need the latest packages, "
 "which can be found on Tumbleweed, or more stable packages, which can be "
-"found on Leap Leap 42.2, openSUSE gives you the tools, community and "
-"packages needed to be sucessful."
+"found on Leap 42.2, openSUSE gives you the tools, community and packages "
+"needed to be sucessful."
 msgstr ""
 
 #: slideshow.xml:72(title)
