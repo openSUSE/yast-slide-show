@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-27 12:49+0000\n"
-"Last-Translator: Ewelina Michalowska <ewelina.michalowska@stgambit.com>\n"
+"PO-Revision-Date: 2016-10-25 14:36+0000\n"
+"Last-Translator: Marica Graziano <marica.graziano@vistatec.com>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/pl/>\n"
 "Language: pl\n"
@@ -215,7 +215,7 @@ msgstr "Domyślny w systemie SUSE tryb GNOME 3 Classic wykorzystuje tę samą no
 
 #: slideshow.xml:314(title)
 msgid "SUSE Customer Center"
-msgstr "Centrum obsługi klienta SUSE"
+msgstr "SUSE Customer Center"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
