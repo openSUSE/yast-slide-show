@@ -264,7 +264,7 @@ msgstr ""
 "Linux Enterprise Desktop است. محصولات سازمانی ما همراه با 10 سال ضمانت "
 "نگهداری به همراه امکان افزایش آن به 13 سال و همچنین برنامه های پشتیبانی "
 "اختیاری میباشند. برای اطلاعات بیشتر راجع به لینوکس سازمانی از SUSE آدرس "
-"http://www.suse.com را بازدید کنید."
+"http://www.suse.com را بازدید کنید"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
