@@ -11,10 +11,10 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2016-10-06 13:07+0200\n"
-"PO-Revision-Date: 2016-07-17 10:29+0000\n"
-"Last-Translator: George Yacoub <george.yacoub@arabize.com>\n"
-"Language-Team: Arabic <https://l10n.opensuse.org/projects/yast-slide-show/"
-"master/ar/>\n"
+"PO-Revision-Date: 2016-11-01 08:54+0000\n"
+"Last-Translator: benalia behchich <benalia2007@gmail.com>\n"
+"Language-Team: Arabic <https://l10n.opensuse.org/projects/yast-slide-"
+"show/master/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,6 +45,16 @@ msgid ""
 "change to use the most dependable and stable Linux system - openSUSE Leap "
 "42.2."
 msgstr ""
+"اوبن سوزي هي خيار صناع مدراء الأنظمة ومطوري ومستخدمي سطح المكتب لأنها تتيح "
+"لك المزيد من الخيارات على التوزيعات الأخرى. اوبن سوزي ليب تجمع مابين ثبات "
+"الحزم الأساسية من سوس لينوكس إنتربرايز مع حزم المجتمع التي تم بناؤها، مما "
+"يخلق التآزر لتوزيعة المشروع. وللحصول على أفضل ما في العالمين مع اوبن سوزي . "
+"توفر إصدارات اوبن سوزي للمستخدمين ميزة غنية بيئات الخوادم وسطح المكتب لتسهيل "
+"الاستعمال. يسعى الهواة والمحترفين للحصول على نظام لينوكس مدعوم على  المدى "
+"الطويل، وعلى درجة عالية من الاستقرار لهذا هم ليسوا  بحاجة إلى أن ينظرو  إلى "
+"أبعد من اوبن سوزي  42.2، التي تاتي  بأحدث ما في  سوز لينوكس إنتربرايز ويرجع "
+"ذلك إلى مصادر مشتركة. شكرا لكم لجعل التغيير إلى استخدام نظام لينكس أكثر يمكن "
+"الاعتماد عليها ومستقر - اوبن سوزي 42.2 ."
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
@@ -102,7 +112,6 @@ msgid "Connect and Communicate"
 msgstr "الاتصال والتواصل"
 
 #: slideshow.xml:45(para)
-#, fuzzy
 #| msgid ""
 #| "You can communicate more effectively with openSUSE Leap 42.1 because it "
 #| "provides a complete set of tools for Web browsing and e-mail management — "
@@ -112,12 +121,11 @@ msgid ""
 "provides a complete set of tools for Web browsing and e-mail management – it "
 "even includes the newest Voice over IP technology."
 msgstr ""
-"يمكنك الاتصال بفعالية أكبر مع أوبن سوزي  Leap 42.1 لأنه يوفر مجموعة كاملة من "
-"أدوات إدارة تصفح الويب والبريد الإلكتروني – وتشمل حتى أحدث تقنيات الصوت عبر "
-"IP."
+"يمكنك الاتصال بفعالية أكبر مع أوبن سوزي  Leap 42.1 لأنها توفر مجموعة كاملة "
+"من أدوات إدارة تصفح الويب والبريد الإلكتروني – وتشمل حتى أحدث تقنيات الصوت "
+"عبر IP."
 
 #: slideshow.xml:51(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers "
 #| "in the world. Firefox includes all the features you need to enjoy the "
@@ -131,13 +139,12 @@ msgid ""
 "performance, and a number of improvements designed to protect your privacy "
 "and prevent phishing attacks."
 msgstr ""
-"يشمل أوبن سوزي Leap 42.1 موزيلا فيرفكس، أحد أفضل مستعرضات ويب في العالم. "
-"بجميع الميزات التي تحتاجها للتمتع بشبكة الإنترنت، بما في ذلك HTML5. فيرفكس "
+"يشمل أوبن سوزي Leap 42.1 موزيلا فيرفكس، أحد أفضل متصفحات الويب في العالم. "
+"يجمع كل الميزات التي تحتاجها للتمتع بشبكة الإنترنت، بما في ذلك HTML5. فيرفكس "
 "يمتلك أداء سريع كالبرق، وعدد من التحسينات التي تهدف إلى حماية الخصوصية ومنع "
 "هجمات الخداع."
 
 #: slideshow.xml:57(para)
-#, fuzzy
 #| msgid ""
 #| "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete "
 #| "e-mail and contact management applications. For instant messaging, "
@@ -149,14 +156,13 @@ msgid ""
 "mail and contact management applications. For instant messaging, openSUSE "
 "features easy to use IM clients that support all of the popular protocols."
 msgstr ""
-"يشمل أوبن سوزي Leap 42.1 أيضا تطورات في الإتصالات، بالبريد الإلكتروني الكامل "
+"تشمل أوبن سوزي Leap 42.2 أيضا تطورات في الإتصالات، بالبريد الإلكتروني الكامل "
 "وتطبيقات إدارة جهات الاتصال. للمراسلة الفورية، من السهل استخدام الدردشة مع "
-"العملاء التي تدعم كافة البروتوكولات شعبية: فيسبوك، AIM، وجوجل، جابر، MSN، "
-"ياهو، Groupwise، والعديد من الآخرين."
+"العملاء التي تدعم كافة البروتوكولات شعبية."
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "المطورين ومدراء النظام"
 
 #: slideshow.xml:66(para)
 msgid ""
@@ -166,13 +172,16 @@ msgid ""
 "found on Leap 42.2, openSUSE gives you the tools, community and packages "
 "needed to be sucessful."
 msgstr ""
+"اوبن سوزي  Leap 42.2 واوبن سوزي Tumbleweed هي توزيعات قوية للتطوير والاختبار "
+"والنشر. سواء كنت في حاجة إلى أحدث حزم، والتي يمكن العثور عليها على "
+"Tumbleweed، أو حزم أكثر استقرارا، والتي يمكن العثور عليها علىopenSUSE Leap "
+"42.2،Leap 42.2 والمجتمع يمنحك الأدوات والحزم المطلوبة  لتكون ناجحة."
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "مستندات وجداول بيانات والمزيد"
 
 #: slideshow.xml:74(para)
-#, fuzzy
 #| msgid ""
 #| "The openSUSE Leap 42.1 distribution comes complete with the latest "
 #| "version of the leading Linux productivity suite, LibreOffice. It features "
@@ -191,7 +200,7 @@ msgid ""
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"توزيعة أوبن سوزي Leap 42.1 تأتي مع أحدث إصدار أوفيس لينكس الرائد ليبر أوفيس. "
+"توزيعة أوبن سوزي Leap 42.2 تأتي مع أحدث إصدار أوفيس لينكس الرائد ليبر أوفيس. "
 "الذي يتميز بمعالج النصوص وتطبيق جداول بيانات، محرر HTML، مصمم العروض "
 "التقديمية ، ومدير قاعدة البيانات. أنه يقرأ ويكتب تنسيقات متعددة – بما في ذلك "
 "تنسيقات Microsoft Office — حيث يمكنك التنقل بين أوبن سوزي وبرامج أنظمة "
@@ -203,7 +212,6 @@ msgid "Graphics, Graphics, Graphics"
 msgstr "الرسومات، والرسومات، والرسومات"
 
 #: slideshow.xml:87(para)
-#, fuzzy
 #| msgid ""
 #| "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 #| "type of graphic. For advanced image manipulation and graphics creation, "
@@ -214,12 +222,11 @@ msgid ""
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"استخدام الأدوات في أوبن سوزي Leap 42.1، يمكنك إنشاء أو تحرير تقريبا كل أنواع "
+"استخدام الأدوات في أوبن سوزي Leap 42.2، يمكنك إنشاء أو تحرير تقريبا كل أنواع "
 "الرسوم. التعديل المتقدم في الصورة وإنشاء الرسومات، استخدم جيمب أداة قوية "
 "للصورة وإضافة لمسات، الإعداد، والتأليف."
 
 #: slideshow.xml:92(para)
-#, fuzzy
 #| msgid ""
 #| "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
 #| "graphics solution delivers support for transparent layers, bitmap "
@@ -229,7 +236,7 @@ msgid ""
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"للرسم المتجه، يتضمن أوبن سوزي  Leap 42.1 برنامج Inkscape – حل نموذجي "
+"للرسم المتجه، يتضمن أوبن سوزي  Leap 42.2 برنامج Inkscape – حل نموذجي "
 "للرسومات متعددة الاستخدامات يوفر الدعم لطبقات شفافة وتتبع الصورة النقطية "
 "ومسارات النص وأكثر من ذلك بكثير."
 
@@ -238,7 +245,6 @@ msgid "Computing On-the-Go"
 msgstr "الحوسبة أثناء التنقل"
 
 #: slideshow.xml:102(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
 #| "switch effortlessly between wireless and wired networks using "
@@ -250,7 +256,7 @@ msgid ""
 "NetworkManager. Connect with mobile devices like mobile phones and tablets "
 "via Bluetooth."
 msgstr ""
-"أوبن سوزي Leap 42.1 يتضمن ميزات التنقل الأكثر تقدما. يمكنك التبديل بين "
+"أوبن سوزي Leap 42.2 تتضمن ميزات التنقل الأكثر تقدما. يمكنك التبديل بين "
 "الشبكات السلكية واللاسلكية باستخدام مدير الشبكات. الاتصال بالأجهزة المحمولة "
 "مثل الهواتف المحمولة والأجهزة اللوحية عن طريق البلوتوث."
 
@@ -263,10 +269,9 @@ msgstr ""
 "أخذ العمل معك أينما ذهبت."
 
 #: slideshow.xml:114(title)
-#, fuzzy
 #| msgid "Your operating system - respecting privacy - providing security"
 msgid "Your operating system – respecting privacy – providing security"
-msgstr "نظام التشغيل - يحترم الخصوصية - ويوفر الأمن"
+msgstr "نظام التشغيل الخاص بك - يحترم الخصوصية - ويوفر الأمن"
 
 #: slideshow.xml:116(para)
 #, fuzzy
