@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2016-10-06 13:07+0200\n"
-"PO-Revision-Date: 2016-07-01 06:01+0000\n"
-"Last-Translator: Emily Dong <Emily.Dong@excel-gits.com>\n"
+"PO-Revision-Date: 2016-11-14 03:07+0000\n"
+"Last-Translator: Wnereiz Z <wnereiz@eienteiland.org>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/yast-"
 "slide-show/master/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -40,13 +40,18 @@ msgid ""
 "change to use the most dependable and stable Linux system - openSUSE Leap "
 "42.2."
 msgstr ""
+"openSUSE 是系统管理员、开发者和桌面用户的最佳选择，因为相对于其他发行版，他提供给您更多的选项。openSUSE Leap 结合了来自 SUSE "
+"Linux Enterprise 已经验证过的核心软件包，加上社区构建的软件包，协同合作创造了这个发行版。使用 openSUSE Leap "
+"可以让您同时获得来自这两者的优势。openSUSE 发布版本提供给用户一个完整的服务器环境以及对用户友善的桌面。期待获得长期支持和高度稳定性的 "
+"Linux 系统的玩家及专业人士们，不用再寻寻觅觅，openSUSE 42.2 就是您所要的。基于开放源代码，openSUSE Leap 42.2 与 "
+"SUSE Linux Enterprise 相辅相成。感谢您作出的改变，使用这个最可靠与最稳定的 Linux 系统 - openSUSE Leap "
+"42.2。"
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE is a community project created and sponsored by SUSE to deliver "
 #| "the world's most user-friendly computing platform. Many people from "
@@ -63,10 +68,9 @@ msgid ""
 "(Open Build Service) and projects (Portus and Machinery). Find out more at "
 "www.opensuse.org."
 msgstr ""
-"openSUSE 是由 SuSE 创建并赞助的社区合作项目，目的是提供世界上对用户最友好的计"
-"算平台。世界各地的许多人都对 openSUSE 项目有所贡献。他们打包软件，测试程序，"
-"撰写文档，把内容翻译成多种语言。所有的努力都汇聚到 openSUSE Linux 发行版中，"
-"而且可以免费的获得，就在 www.opensuse.org。"
+"openSUSE 是一个社区合作项目，由 SUSE 赞助。全世界范围内有许多人贡献到软件打包、程序测试、文档书写以及翻译至世界上不同语言的工作中。"
+"openSUSE 包含两个发行版本 (Leap 和 Tumbleweed)、工具 (openQA, Kiwi 和 YaST)、软件构建服务 (Open "
+"Build Service) 和项目 (Portus 和 Machinery)。您可以从 www.opensuse.org 中获得更多信息。"
 
 #: slideshow.xml:30(para)
 msgid ""
@@ -89,13 +93,15 @@ msgid ""
 "those contributors who bring the efforts of our hard-working community to "
 "people throughout the globe."
 msgstr ""
+"翻译其实很容易 - 您是否有兴趣帮忙把 openSUSE 翻译成您使用的语言呢？通过 https://l10n.opensuse.org/，您可以现在就开"
+"始动手。它很容易使用，您再短短几分钟里就可以对这个全球性的项目作出贡献。您需要做的事情就是登录，然后开始翻译。没错，就是这么简单。感谢所有的贡献者，特别是"
+"那些将我们社区努力工作的成果带给全世界人们的贡献者。"
 
 #: slideshow.xml:43(title)
 msgid "Connect and Communicate"
 msgstr "沟通和交流"
 
 #: slideshow.xml:45(para)
-#, fuzzy
 #| msgid ""
 #| "You can communicate more effectively with openSUSE Leap 42.1 because it "
 #| "provides a complete set of tools for Web browsing and e-mail management — "
@@ -104,12 +110,9 @@ msgid ""
 "You can communicate more effectively with openSUSE Leap 42.2 because it "
 "provides a complete set of tools for Web browsing and e-mail management – it "
 "even includes the newest Voice over IP technology."
-msgstr ""
-"使用 openSUSE Leap 42.1，沟通更加顺畅高效。系统提供了网络浏览和电子邮件管理一"
-"整套的工具 － 甚至囊括了最新的网络电话技术。"
+msgstr "使用 openSUSE Leap 42.2，沟通更加顺畅高效。系统提供了网络浏览和电子邮件管理的一整套工具 － 甚至囊括了最新的网络电话技术。"
 
 #: slideshow.xml:51(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 includes Mozilla Firefox, one of the best Web browsers "
 #| "in the world. Firefox includes all the features you need to enjoy the "
@@ -123,12 +126,11 @@ msgid ""
 "performance, and a number of improvements designed to protect your privacy "
 "and prevent phishing attacks."
 msgstr ""
-"openSUSE Leap 42.1 附带了 Mozilla Firefox，世界上最好的网页浏览器之一。"
-"Firefox 提供了许多您享受网络生活所需的功能，包括最新的 HTML5 技术。Firefox 也"
-"拥有光速一般的表现，和一系列设计用于保护您的隐私和使您免受钓鱼攻击的改进。"
+"openSUSE Leap 42.2 附带了 Mozilla Firefox，世界上最好的网页浏览器之一。Firefox "
+"提供了许多您享受网络生活所需的功能，包括最新的 HTML5 技术。Firefox "
+"也拥有光速一般的表现，和一系列设计用于保护您的隐私和使您免受钓鱼攻击的改进。"
 
 #: slideshow.xml:57(para)
-#, fuzzy
 #| msgid ""
 #| "Also included with openSUSE Leap 42.1 are Evolution and Kontact, complete "
 #| "e-mail and contact management applications. For instant messaging, "
@@ -140,13 +142,12 @@ msgid ""
 "mail and contact management applications. For instant messaging, openSUSE "
 "features easy to use IM clients that support all of the popular protocols."
 msgstr ""
-"openSUSE Leap 42.1 还附带了 Evolution 和 Kontact，完整的电子邮件和联系人管理"
-"程序。 在即时通讯方面，openSUSE 拥有易用的即时通讯客户端，支持所有流行协议： "
-"AIM， 脸书，谷歌 Talk，Jabber，MSN，雅虎！，Groupwise，及许多其它协议。"
+"openSUSE Leap 42.2 还附带了 Evolution 和 Kontact，完整的电子邮件和联系人管理程序。 在即时通讯方面，"
+"openSUSE 拥有易用的即时通讯客户端，支持所有流行的协议。"
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "开发者和系统管理员"
 
 #: slideshow.xml:66(para)
 msgid ""
@@ -156,13 +157,15 @@ msgid ""
 "found on Leap 42.2, openSUSE gives you the tools, community and packages "
 "needed to be sucessful."
 msgstr ""
+"openSUSE Leap 42.2 与 openSUSE Tumbleweed 是非常适合进行开发、测试与部署的发行版本。不论您想在 "
+"Tumbleweed 上使用最新的软件包，或者在 Leap 42.2 上使用更稳定的软件包，openSUSE "
+"都提供让您成功完成任务的工具、社区及各种组件。"
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
-msgstr "文档、电子表格和更多"
+msgstr "文档、电子表格以及更多"
 
 #: slideshow.xml:74(para)
-#, fuzzy
 #| msgid ""
 #| "The openSUSE Leap 42.1 distribution comes complete with the latest "
 #| "version of the leading Linux productivity suite, LibreOffice. It features "
@@ -181,18 +184,15 @@ msgid ""
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"openSUSE Leap 42.1 携带了完整的最新版本的领先的 Linux 生产力套件，"
-"LibreOffice。 它拥有文字处理，电子表格，HTML 编辑，幻灯片设计，数据库管理等功"
-"能。 它能够读写多种格式 —— 包括微软 Office 格式 —— 意味着您可在 openSUSE 和流"
-"行的非 Linux 生产力软件间无缝地切换。LibreOffice 是报告，论文，家庭预算，简单"
-"图形和更多需求的完美选择。"
+"openSUSE Leap 42.2 携带了完整的最新版本的领先的 Linux 生产力套件，LibreOffice。 它拥有文字处理、电子表格、HTML "
+"编辑、幻灯片设计、数据库管理等功能。 它能够读写多种格式 —— 包括微软 Office 格式 —— 意味着您可在 openSUSE 和流行的非 "
+"Linux 生产力软件间无缝地切换。LibreOffice 是报告、论文、家庭预算、简单图形和更多需求的完美选择。"
 
 #: slideshow.xml:85(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr "图形功能，无所不包"
+msgstr "图形，图形，图形"
 
 #: slideshow.xml:87(para)
-#, fuzzy
 #| msgid ""
 #| "Using the tools in openSUSE Leap 42.1, you can create or edit almost any "
 #| "type of graphic. For advanced image manipulation and graphics creation, "
@@ -203,11 +203,10 @@ msgid ""
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"使用 openSUSE Leap 42.1 中的工具，您可以创建或编辑几乎任何一种图形。对于高级"
-"图像处理和图形创建，请使用强大的 GIMP，它可以对图像进行润饰、复合和创作。"
+"使用 openSUSE Leap 42.2 中的工具，您可以创建或编辑几乎任何一种图形。对于高级图像处理和图形创建，请使用强大的 "
+"GIMP，它可以对图像进行润饰、复合和创作。"
 
 #: slideshow.xml:92(para)
-#, fuzzy
 #| msgid ""
 #| "For vector graphics, openSUSE Leap 42.1 includes Inkscape — a versatile "
 #| "graphics solution delivers support for transparent layers, bitmap "
@@ -217,15 +216,13 @@ msgid ""
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
-"针对矢量图形处理，openSUSE Leap 42.1 附带了 Inkscape —— 支持透明图层、位图描"
-"取和文本路径等的灵活的矢量图形解决方案。"
+"针对矢量图形处理，openSUSE Leap 42.2 附带了 Inkscape —— 支持透明图层、位图描取和文本路径等的灵活的矢量图形解决方案。"
 
 #: slideshow.xml:100(title)
 msgid "Computing On-the-Go"
 msgstr "移动计算"
 
 #: slideshow.xml:102(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 includes the most advanced mobility features. You can "
 #| "switch effortlessly between wireless and wired networks using "
@@ -237,9 +234,8 @@ msgid ""
 "NetworkManager. Connect with mobile devices like mobile phones and tablets "
 "via Bluetooth."
 msgstr ""
-"openSUSE Leap 42.1 提供了最先进的移动功能。使用 NetworkManager，您可以轻松地"
-"在有线和无线网络间切换。通过蓝牙，您可以方便地连接如手机、平板和 PDA 等移动设"
-"备。"
+"openSUSE Leap 42.2 提供了最先进的移动功能。使用 "
+"NetworkManager，您可以轻松地在有线和无线网络间切换。通过蓝牙，您可以方便地连接如手机和平板这样的移动设备。"
 
 #: slideshow.xml:106(para)
 msgid ""
@@ -249,13 +245,11 @@ msgstr ""
 "来自 openSUSE 的电源管理创新给您更多便利、更多自由，让您将作品随处携带。"
 
 #: slideshow.xml:114(title)
-#, fuzzy
 #| msgid "Your operating system - respecting privacy - providing security"
 msgid "Your operating system – respecting privacy – providing security"
-msgstr "您的操作系统 - 尊重隐私 - 提供安全保护"
+msgstr "您的操作系统 — 尊重隐私 — 提供安全保护"
 
 #: slideshow.xml:116(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE builds something that puts you in control. Rolling or Stable, "
 #| "you decide. Unlike windows, you decide which updates get applied when. "
@@ -281,14 +275,12 @@ msgid ""
 "protects your operating system and applications from internal or external "
 "threats."
 msgstr ""
-"SUSE Firewall 可帮助您保护系统和数据不受互联网入侵者的侵害。这个安全设备默认"
-"就会被激活并且易于配置。但您还可以为您的系统获取更多保护，因为 openSUSE Leap "
-"42.1 还包含 了 AppArmor。它是现今最有效易用的 Linux 应用程序安全系统。它可主"
-"动保护操作系统和应用程序不受外部以及内部威胁的侵害。"
+"SUSE Firewall 可帮助您保护系统和数据不受互联网入侵者的侵害。这个安全设备默认就会被激活并且易于配置。但您还可以为您的系统获取更多保护，因为 "
+"openSUSE Leap 42.2 还包含 了 AppArmor。它是现今最有效易用的 Linux "
+"应用程序安全系统。它可主动保护操作系统和应用程序不受外部以及内部威胁的侵害。"
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:129(para)
-#, fuzzy
 #| msgid ""
 #| "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.1 also "
 #| "includes a special security patch update system. To ensure that the "
@@ -307,17 +299,15 @@ msgid ""
 "be automatically informed of the availability of important security updates, "
 "so you can install them at your convenience."
 msgstr ""
-"除了 SUSE Firewall 和 AppArmor， openSUSE Leap 42.1 还携带了一个特殊的安全补"
-"丁更新系统。为了确保您的系统安装了最新的安全更新，您可选择在此安装过程结束后"
-"执行在线更新 (若您开始未选择自动安装方式的话) 。并且，将来一旦有重要安全更新"
-"可用，更新系统会自动通知您，以便您在方便时安装。"
+"除了 SUSE Firewall 和 AppArmor， openSUSE Leap 42.2 "
+"还携带了一个特殊的安全补丁更新系统。为了确保您的系统安装了最新的安全更新，您可选择在此安装过程结束后执行在线更新 (若您开始未选择自动安装方式的话) "
+"。并且，将来一旦有重要安全更新可用，更新系统会自动通知您，以便您在方便时安装。"
 
 #: slideshow.xml:141(title)
 msgid "Virtualization Technology and Application Development Tools"
 msgstr "虚拟化技术和程序开发工具"
 
 #: slideshow.xml:143(para)
-#, fuzzy
 #| msgid ""
 #| "Both Xen and KVM hypervisors are included with openSUSE Leap 42.1. Xen is "
 #| "one of the most robust solutions for virtualization available. In "
@@ -333,17 +323,15 @@ msgid ""
 "openSUSE comes with a complete set of runtime environments plus extensive "
 "application development tools."
 msgstr ""
-"openSUSE Leap 42.1 附带了 Xen 和 KVM 虚拟机。Xen 是目前最为健壮的虚拟化解决方"
-"案之一。此外，openSUSE 也为网络文件共享（Samba, NFS 等）、打印（CUPS）和 Web "
-"主机服务（Apache）提供了工具。针对应用程序开发，openSUSE 带有一组完整的运行时"
-"环境和大量应用程序开发工具。"
+"openSUSE Leap 42.2 附带了 Xen 和 KVM 虚拟机。Xen 是目前最为健壮的虚拟化解决方案之一。此外，openSUSE "
+"也为网络文件共享（Samba, NFS 等）、打印（CUPS）和 Web 主机服务（Apache）提供了工具。针对应用程序开发，openSUSE "
+"带有一组完整的运行时环境和大量应用程序开发工具。"
 
 #: slideshow.xml:153(title)
 msgid "Learn More"
 msgstr "了解更多"
 
 #: slideshow.xml:154(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap 42.1 provides extensive documentation for specific openSUSE "
 #| "questions as well as general Linux-related questions. The Help Center is "
@@ -355,9 +343,9 @@ msgid ""
 "accessible via the main menu. Manuals are also available in PDF and can be "
 "downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
 msgstr ""
-"openSUSE Leap 42.1 发行版提供了大量 openSUSE 特定问题的文档，也提供了大量常"
-"规 Linux 相关问题的解决方法。通过主菜单就可以访问帮助中心。还有 PDF 格式的用"
-"户手册可以下载和打印 (http://en.opensuse.org/Portal:Documentation)。"
+"openSUSE Leap 42.2 提供了大量 openSUSE 特定问题的文档，也提供了大量常规 Linux "
+"相关问题的解决方法。通过主菜单就可以访问帮助中心。还有 PDF 格式的用户手册可以下载和打印 "
+"(http://en.opensuse.org/Portal:Documentation)。"
 
 #: slideshow.xml:164(para)
 msgid ""
@@ -398,16 +386,14 @@ msgstr ""
 
 #: slideshow.xml:193(title)
 msgid "SUSE and Linux"
-msgstr "SuSE 和 Linux"
+msgstr "SUSE 与 Linux"
 
 #: slideshow.xml:194(para)
 msgid ""
 "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE "
 "also delivers an exciting suite of products designed to meet the needs of "
 "businesses large and small."
-msgstr ""
-"SuSE 致力于通过 Linux 助您成功。除了 openSUSE，SuSE 还设计了一套适合各种规模"
-"企业需要的优秀产品套装。"
+msgstr "SUSE 致力于通过 Linux 助您成功。除了 openSUSE，SUSE 还设计了一套适合各种规模企业需要的优秀产品套装。"
 
 #: slideshow.xml:199(para)
 msgid ""
