@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-28 09:07+0000\n"
-"Last-Translator: George Yacoub <george.yacoub@arabize.com>\n"
+"PO-Revision-Date: 2016-12-04 04:44+0000\n"
+"Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ar/>\n"
 "Language: ar\n"
@@ -27,29 +27,24 @@ msgstr "SUSE Linux Enterprise 12"
 
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
-#, fuzzy
 msgid "Towards Zero Downtime"
-msgstr "Towards Zero Downtime"
+msgstr "إلى زمن التوقف"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
-#, fuzzy
 msgid "Best Managed Linux"
-msgstr "Best Managed Linux"
+msgstr "أفضل إدارة لنكس"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
-#, fuzzy
 msgid "Made for Cloud"
-msgstr "Made for Cloud"
+msgstr "انشئ للسحابة"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
-#, fuzzy
 msgid "Most Interoperable Operating System"
-msgstr "Most Interoperable Operating System"
+msgstr "معظم نظام التشغيل قابلة للتشغيل المتبادل"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
-#, fuzzy
 msgid "Modular Design"
-msgstr "Modular Design"
+msgstr "مُصمم الأنماط"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -102,9 +97,8 @@ msgid "Basis for SUSE OpenStack Cloud"
 msgstr "أساس SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
-#, fuzzy
 msgid "Perfect Guest"
-msgstr "Perfect Guest"
+msgstr "زائر مثالي"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
@@ -174,14 +168,12 @@ msgid "Advanced Systems Management"
 msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
-#, fuzzy
 msgid "Lifecycle and LTSS"
-msgstr "Lifecycle and LTSS"
+msgstr "دورة الإصدار و LTSS"
 
 #: slideshow.xml:245(para)
-#, fuzzy
 msgid "SUSE® Linux Enterprise Server:"
-msgstr "SUSE® Linux Enterprise Server:"
+msgstr "خادم SUSE® Linux Enterprise:"
 
 #: slideshow.xml:250(para)
 msgid "13-year lifecycle"
@@ -224,9 +216,8 @@ msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, 
 msgstr "يستخدم الوضع الكلاسيكي GNOME 3 للإعداد الافتراضي لـ SUSE نفس التقنية الحديثة، إلى جانب الاحتفاظ بأنماط الاستخدام المعروفة."
 
 #: slideshow.xml:314(title)
-#, fuzzy
 msgid "SUSE Customer Center"
-msgstr "SUSE Customer Center"
+msgstr "خدمة عملاء سوزي"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
