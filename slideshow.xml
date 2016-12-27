@@ -238,7 +238,7 @@
    </listitem>
   </itemizedlist>
  </section>
- 
+
  <section label="07_life">
   <title>Lifecycle and LTSS</title>
 
@@ -335,6 +335,7 @@
    </listitem>
   </itemizedlist>
  </section>
+
  <section label="10_more">
   <title>More from SUSE ...</title>
 
@@ -360,8 +361,9 @@
     </para>
    </listitem>
    <listitem>
+    <!-- bsc#1013869 -->
     <para>
-     SUSE Storage
+     SUSE Enterprise Storage
     </para>
    </listitem>
   </itemizedlist>
