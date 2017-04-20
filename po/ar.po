@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-12-04 04:44+0000\n"
-"Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
+"PO-Revision-Date: 2017-04-20 05:18+0000\n"
+"Last-Translator: Sayed Gad <v-Sayed.Gad@lqs-lionbridge.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/yast-slide-"
 "show/sle-12-sp2/ar/>\n"
 "Language: ar\n"
@@ -233,7 +233,7 @@ msgstr "الوصول السريع إلى أدوات الدعم"
 
 #: slideshow.xml:332(para)
 msgid "Easy way to provide feedback"
-msgstr "طريقة سهلة لتوفير التعليقات"
+msgstr "طريقة سهلة لتقديم التعليقات"
 
 #: slideshow.xml:339(title)
 msgid "More from SUSE ..."
