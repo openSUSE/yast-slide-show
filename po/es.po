@@ -14,10 +14,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.es\n"
 "POT-Creation-Date: 2016-10-06 13:07+0200\n"
-"PO-Revision-Date: 2016-09-28 15:27+0000\n"
-"Last-Translator: Victor hck <correohck@gmail.com>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/yast-slide-show/"
-"master/es/>\n"
+"PO-Revision-Date: 2017-06-03 13:36+0000\n"
+"Last-Translator: Javier Llorente <javier@opensuse.org>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/yast-slide-"
+"show/master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -93,8 +93,8 @@ msgstr ""
 "openSUSE empaquetando software, probando programas, escribiendo "
 "documentación y traduciéndolo a los idiomas que se hablan en el mundo. "
 "openSUSE tiene dos distribuciones (Leap y Tumbleweed), herramientas (openQA, "
-"Kiwi y YaST), un compilador de software (Open Build Service) y proyectos "
-"(Portus y Machinery). Conozca más al respecto en www.opensuse.org."
+"Kiwi y YaST), un servicio de compilación de software (Open Build Service) y "
+"proyectos (Portus y Machinery). Conozca más al respecto en www.opensuse.org."
 
 #: slideshow.xml:30(para)
 msgid ""
@@ -178,7 +178,6 @@ msgid "Developers and Sysadmins"
 msgstr "Desarrolladores y administradores de sistemas"
 
 #: slideshow.xml:66(para)
-#, fuzzy
 #| msgid ""
 #| "openSUSE Leap Leap 42.2 and openSUSE Tumbleweed are great distributions "
 #| "for development, testing and deployment. Whether you need the latest "
@@ -192,8 +191,8 @@ msgid ""
 "found on Leap 42.2, openSUSE gives you the tools, community and packages "
 "needed to be sucessful."
 msgstr ""
-"openSUSE Leap 42.2 y openSUSE Tumbleweed son grandes distribuciones para el "
-"desarrollo, pruebas y despliegue. Si lo que necesita son los últimos "
+"openSUSE Leap 42.2 y openSUSE Tumbleweed son unas muy buenas distribuciones "
+"para el desarrollo, pruebas y despliegue. Si lo que necesita son los últimos "
 "paquetes, puede encontrarlos en Tumbleweed, o los paquetes más estables "
 "puede encontralos en Leap 42.2, openSUSE le ofrece las herramientas, la "
 "comunidad y los paquetes de software necesarios para tener éxito."
@@ -261,7 +260,7 @@ msgstr ""
 "openSUSE Leap 42.2 incluye las soluciones de movilidad más avanzadas. Cambie "
 "sin esfuerzo entre redes de cable e inalámbricas mediante NetworkManager. "
 "Conéctese con dispositivos tales como teléfonos móviles y tabletas a través "
-"mediante el Bluetooth."
+"de Bluetooth."
 
 #: slideshow.xml:106(para)
 msgid ""
@@ -347,7 +346,7 @@ msgstr ""
 
 #: slideshow.xml:153(title)
 msgid "Learn More"
-msgstr "Aprender más"
+msgstr "Más información"
 
 #: slideshow.xml:154(para)
 msgid ""
@@ -439,7 +438,8 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Créditos de los traductores\n"
-"Victorhck 2016"
+"Victorhck 2016\n"
+"Javier Llorente 2017"
 
 # ¿Que significa realmente "makers" en estas frases?
 # Parece referirse a https://en.wikipedia.org/wiki/Maker_culture
