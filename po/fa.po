@@ -23,7 +23,7 @@ msgid "Welcome to openSUSE™!"
 msgstr "به اوپن سوزا™ خوش آمدید!"
 
 #: slideshow.xml:19(para)
-msgid "openSUSE is the makers' choice for sysadmins, developers and desktop users because it gives you more choices than other distributions. openSUSE Leap combines proven core packages from SUSE Linux Enterprise with community built packages, which creates synergies for the project's distribution. Get the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users a feature-rich server environments and user-friendly desktop. Enthusiasts and professionals looking for a long-term, highly stable Linux system need to look no further than openSUSE Leap 42.2, which complements the latest SUSE Linux Enterprise due to the shared sources. Thank you for making the change to use the most dependable and stable Linux system - openSUSE Leap 42.2."
+msgid "openSUSE is the makers' choice for sysadmins, developers and desktop users because it gives you more choices than other distributions. openSUSE Leap combines proven core packages from SUSE Linux Enterprise with community built packages, which creates synergies for the project's distribution. Get the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users a feature-rich server environments and user-friendly desktop. Enthusiasts and professionals looking for a long-term, highly stable Linux system need to look no further than openSUSE Leap 42.3, which complements the latest SUSE Linux Enterprise due to the shared sources. Thank you for making the change to use the most dependable and stable Linux system - openSUSE Leap 42.3."
 msgstr ""
 "به دلیل اینکه اوپن سوزا انتخاب های بیشتری نسبت به سایر توزیع ها به شما میدهد،"
 " اوپن سوزا یک انتخاب سازنده برای مدیران سیستم، توسعه دهندگان و کاربران "
@@ -32,10 +32,10 @@ msgstr ""
 "به ارمغان می آورد. بهترین های هر دو عرصه را با openSUSE Leap داشته باشید. "
 "انتشار های openSUSE محیطهای غنی از امکانات برای سرور و  میزکار کاربر پسند را "
 "فراهم میکند. علاقه مندان و افراد حرفه ای که به دنبال یک سیستم لینوکسی با "
-"پشتیبانی بلند مدت، بسیار پایدار میباشند نیازی نیست به جز openSUSE Leap 42.2 "
+"پشتیبانی بلند مدت، بسیار پایدار میباشند نیازی نیست به جز openSUSE Leap 42.3 "
 "به دنبال چیز دیگری باشند، چیزی که به دلیل اشتراک منابع کد ها، مکمل آخرین "
 "نسخه ی SUSE Linux Enterprise است. به علت تغییر برای استفاده از قابل اعتماد "
-"ترین و پایدار ترین سیستم لینوکس - openSUSE Leap 42.2 - از شما تشکر میکنیم."
+"ترین و پایدار ترین سیستم لینوکس - openSUSE Leap 42.3 - از شما تشکر میکنیم."
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
@@ -76,26 +76,26 @@ msgid "Connect and Communicate"
 msgstr "اتصال و ارتباط"
 
 #: slideshow.xml:45(para)
-msgid "You can communicate more effectively with openSUSE Leap 42.2 because it provides a complete set of tools for Web browsing and e-mail management – it even includes the newest Voice over IP technology."
+msgid "You can communicate more effectively with openSUSE Leap 42.3 because it provides a complete set of tools for Web browsing and e-mail management – it even includes the newest Voice over IP technology."
 msgstr ""
-"به دلیل اینکه openSUSE Leap 42.2 مجموعه ی کاملی از ابزارها برای مرور وب و "
+"به دلیل اینکه openSUSE Leap 42.3 مجموعه ی کاملی از ابزارها برای مرور وب و "
 "مدیریت نامه های الکترویکی - حتی جدیدترین تکنولوژی VOIP است، شما میتوانید در "
 "آن به صورت مؤثر تری ارتباط برقرار کنید."
 
 #: slideshow.xml:51(para)
-msgid "openSUSE Leap 42.2 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE Leap 42.3 includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the newest HTML5 technologies. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr ""
-"اوپن سوزا Leap 42.2 شامل Mozilla Firefox میباشد، یکی از بهترین مرورگر های وب "
+"اوپن سوزا Leap 42.3 شامل Mozilla Firefox میباشد، یکی از بهترین مرورگر های وب "
 "در دنیا. Firefox شامل تمامی امکاناتی که شما برای لذت بردن از وب نیاز دارید، "
 "از جمله جدیدترین تکنولوژی HTML5 میباشد. Firefox سرعت رعد آسای خود را به رخ "
 "میکشد، همچنین چندین بهینه سازی برای محافظت از  حریم خصوصی و جلوگیری از حملات "
 "فیشینگ نیز انجام شده است."
 
 #: slideshow.xml:57(para)
-msgid "Also included with openSUSE Leap 42.2 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols."
+msgid "Also included with openSUSE Leap 42.3 are Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols."
 msgstr ""
 "همچنین Evoloution و Kontact، نرم افزارهای کامل مدیریت تماسها و نامه های "
-"الکترونیکی نیز در openSUSE Leap 42.2 گنجانده شده است. برای پیام رسان سریع، "
+"الکترونیکی نیز در openSUSE Leap 42.3 گنجانده شده است. برای پیام رسان سریع، "
 "openSUSE سرویس دهنده های IM کاملا ساده ای که از تمام پروتکل های معروف "
 "پشتیبانی میکنند را داراست."
 
@@ -104,12 +104,12 @@ msgid "Developers and Sysadmins"
 msgstr "توسعه دهندگان و مدیران سیستم"
 
 #: slideshow.xml:66(para)
-msgid "openSUSE Leap 42.2 and openSUSE Tumbleweed are great distributions for development, testing and deployment. Whether you need the latest packages, which can be found on Tumbleweed, or more stable packages, which can be found on Leap 42.2, openSUSE gives you the tools, community and packages needed to be sucessful."
+msgid "openSUSE Leap 42.3 and openSUSE Tumbleweed are great distributions for development, testing and deployment. Whether you need the latest packages, which can be found on Tumbleweed, or more stable packages, which can be found on Leap 42.3, openSUSE gives you the tools, community and packages needed to be sucessful."
 msgstr ""
-"اوپن سوزا Leap 42.2 و openSUSE Tumbleweed دو توزیع بسیار خوب برای توسعه، "
+"اوپن سوزا Leap 42.3 و openSUSE Tumbleweed دو توزیع بسیار خوب برای توسعه، "
 "آزمایش و گسترش هستند. چه شما نیاز به آخرین بسته ها دارید، که بر روی "
 "Tumbleweed یافت میشوند، یا نیاز به بسته های پایدار بیشتری دارید، که در Leap "
-"42.2 یافت میشوند، openSUSE به شما ابزار، جامعه و بسته ها که برای موفقیت نیاز "
+"42.3 یافت میشوند، openSUSE به شما ابزار، جامعه و بسته ها که برای موفقیت نیاز "
 "هستند را میدهد."
 
 #: slideshow.xml:72(title)
@@ -117,9 +117,9 @@ msgid "Documents, Spreadsheets and More"
 msgstr "اسناد، صفحات گسترده و دیگر"
 
 #: slideshow.xml:74(para)
-msgid "The openSUSE Leap 42.2 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats – including Microsoft Office formats – so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgid "The openSUSE Leap 42.3 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats – including Microsoft Office formats – so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"توزیع openSUSE Leap 42.2 با آخرین بسته ی نرم افزاری با قابلیت بازدهی، لیبره "
+"توزیع openSUSE Leap 42.3 با آخرین بسته ی نرم افزاری با قابلیت بازدهی، لیبره "
 "آفیس کامل میشود. لیبره آفیس یک واژه پرداز، نرم افزار صفحات گسترده، ویرایشگر "
 "HTML، طراحی ارائه، و مدیریت پایگاه داده را داراست. لیبره آفیس میتواند فرمت "
 "های مختلفی - از جمله فرمتهای مایکروسافت آفیس - را بخواند، پس شما میتوانید به "
@@ -132,16 +132,16 @@ msgid "Graphics, Graphics, Graphics"
 msgstr "گرافیک، گرافیک، گرافیک"
 
 #: slideshow.xml:87(para)
-msgid "Using the tools in openSUSE Leap 42.2, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP, a powerful tool for image retouching, composition, and authoring."
+msgid "Using the tools in openSUSE Leap 42.3, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
-"با استفاده از ابزارها در openSUSE Leap 42.2، شما میتوانید تقریبا هر نوع "
+"با استفاده از ابزارها در openSUSE Leap 42.3، شما میتوانید تقریبا هر نوع "
 "گرافیکی را بسازید. برای دستکاری پیشرفته ی تصاویر و ساخت گرافیک، از گیمپ "
 "استفاده کنید، یک ابزار قدرتمند برای روتوش تصاویر، ترکیب، و تالیف."
 
 #: slideshow.xml:92(para)
-msgid "For vector graphics, openSUSE Leap 42.2 includes Inkscape – a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgid "For vector graphics, openSUSE Leap 42.3 includes Inkscape – a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
 msgstr ""
-"برای گرافیک برداری، openSUSE Leap 42.2 شامل Inkscape - یک راه حل گرافیک چند "
+"برای گرافیک برداری، openSUSE Leap 42.3 شامل Inkscape - یک راه حل گرافیک چند "
 "بعدی که پشتیبانی از لایه های شفاف، ترسیم نقطه ای، مسیرهای متنی و بیشتر را "
 "تحویل میدهد، میباشد."
 
@@ -150,9 +150,9 @@ msgid "Computing On-the-Go"
 msgstr "رایانش در حین حرکت"
 
 #: slideshow.xml:102(para)
-msgid "openSUSE Leap 42.2 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones and tablets via Bluetooth."
+msgid "openSUSE Leap 42.3 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones and tablets via Bluetooth."
 msgstr ""
-"اوپن سوزا Leap 42.2 شامل پیشرفته ترین امکانات برای قابلیت حمل و نقل میباشد. "
+"اوپن سوزا Leap 42.3 شامل پیشرفته ترین امکانات برای قابلیت حمل و نقل میباشد. "
 "شما میتوانید به کمک NetworkManager بدون زحمت بین شبکه های بیسیم و سیمی شبکه "
 "را تعویض کنید.  به دستگاههای قابل حمل مانند تلفن های همراه و تبلت ها به کمک "
 "Bloothooth متصل شوید."
@@ -169,7 +169,7 @@ msgid "Your operating system – respecting privacy – providing security"
 msgstr "سیستم عامل شما - احترام به حریم خصوصی - ارائه ی امنیت"
 
 #: slideshow.xml:116(para)
-msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.2 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgid "openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE Leap 42.3 because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
 msgstr ""
 "اوپن سوزا چیزی را میسازد که شما را در مرکز کنترل قرار میدهد. غلطان و یا "
 "پایدار، شما تصمیم بگیرید. برخلاف Windows، شما تصمیم میگیرید چه به روز رسانی "
@@ -178,15 +178,15 @@ msgstr ""
 "کنترل امنیت و حریم خصوصی شما کمک میکند. از مزاحمان اینترنتی به کمک SUSE "
 "Firewall از سیستم خود حفاظت کنید.  این دستگاه امنیتی به صورت پیشفرض فعال است "
 "و به سادگی قابل پیکربندی است. اما شما می توانید بیشتر نیز از سیستم خود حفاظت "
-"کنید، چون openSUSE Leap  42.2 شامل AppArmor نیز هست، مؤثرترین و ساده ترین "
+"کنید، چون openSUSE Leap  42.3 شامل AppArmor نیز هست، مؤثرترین و ساده ترین "
 "نرم افزار امنیت سیستم لینوکس موجود تا به امروز. AppArmor به صورت بازدارنده "
 "سیستم و نرم افزارهای شما را از خطرات داخلی و خارجی حفاظت میکند."
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:129(para)
-msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.2 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgid "In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.3 also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure (if you did not choose the automatic installation modus at the beginning). And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
 msgstr ""
-"در کنار SUSE Firewall و AppArmor، اوپن سوزا Leap 42.2 همچنین شامل یک سیستم "
+"در کنار SUSE Firewall و AppArmor، اوپن سوزا Leap 42.3 همچنین شامل یک سیستم "
 "بروزرسانی های وصله های امنیتی خاص نیز هست. برای اطمینان از اینکه آخرین وصله "
 "های امنیتی بر روی سیستم شما نصب شده اند، شما میتوانید در انتها ی مراحل نصب "
 "یک بروزرسانی برخط  انجام دهید (در صورتی که شما در ابتدا بروزرسانی خودکار را "
@@ -198,9 +198,9 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "تکنولوژی های مجازی سازی و ابزارهای توسعه ی نرم افزاری"
 
 #: slideshow.xml:143(para)
-msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.2. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
+msgid "Both Xen and KVM hypervisors are included with openSUSE Leap 42.3. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools."
 msgstr ""
-"هر دور هایپروایز Xen و KVM در openSUSE Leap 42.2 گنجانده شده اند. Xen یکی از "
+"هر دور هایپروایز Xen و KVM در openSUSE Leap 42.3 گنجانده شده اند. Xen یکی از "
 "نیرومندترین راه حل های مجازی سازی موجود است. به علاوه، openSUSE ابزارهایی را "
 "برای اشتراک از طریق شبکه (Samba,NFS, و غیره)، چاپ(CUPS) و میزبانی وب (Apache)"
 " در اختیار قرار میدهد. برای توسعه ی نرم افزاری، openSUSEمجموعه ی کاملی از "
@@ -212,9 +212,9 @@ msgid "Learn More"
 msgstr "بیشتر بدانید"
 
 #: slideshow.xml:154(para)
-msgid "openSUSE Leap 42.2 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
+msgid "openSUSE Leap 42.3 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
 msgstr ""
-"اوپن سوزا Leap 42.2 مستندات گسترده ای را در ارتباط با سوالات راجع به "
+"اوپن سوزا Leap 42.3 مستندات گسترده ای را در ارتباط با سوالات راجع به "
 "openSUSE و همچنین سوالات عمومی در ارتباط با لینوکس مهیا میکند. مرکز راهنما "
 "از طریق منوی اصلی قابل دسترسی است. راهنماها نیز در قالب PDF نیز موجود هستند "
 "و میتوان آنها را از طریق http://en.opensuse.org/Portal:Documentation دریافت "

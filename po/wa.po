@@ -37,10 +37,10 @@ msgid ""
 "the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users "
 "a feature-rich server environments and user-friendly desktop. Enthusiasts "
 "and professionals looking for a long-term, highly stable Linux system need "
-"to look no further than openSUSE Leap 42.2, which complements the latest "
+"to look no further than openSUSE Leap 42.3, which complements the latest "
 "SUSE Linux Enterprise due to the shared sources. Thank you for making the "
 "change to use the most dependable and stable Linux system - openSUSE Leap "
-"42.2."
+"42.3."
 msgstr ""
 
 #: slideshow.xml:25(title)
@@ -103,7 +103,7 @@ msgstr "Raloyîz vs et atôtchîz vos soçons"
 #: slideshow.xml:45(para)
 #, fuzzy
 msgid ""
-"You can communicate more effectively with openSUSE Leap 42.2 because it "
+"You can communicate more effectively with openSUSE Leap 42.3 because it "
 "provides a complete set of tools for Web browsing and e-mail management – it "
 "even includes the newest Voice over IP technology."
 msgstr ""
@@ -114,7 +114,7 @@ msgstr ""
 #: slideshow.xml:51(para)
 #, fuzzy
 msgid ""
-"openSUSE Leap 42.2 includes Mozilla Firefox, one of the best Web browsers in "
+"openSUSE Leap 42.3 includes Mozilla Firefox, one of the best Web browsers in "
 "the world. Firefox includes all the features you need to enjoy the Web, "
 "including the newest HTML5 technologies. Firefox also boasts lightning-fast "
 "performance, and a number of improvements designed to protect your privacy "
@@ -130,7 +130,7 @@ msgstr ""
 #: slideshow.xml:57(para)
 #, fuzzy
 msgid ""
-"Also included with openSUSE Leap 42.2 are Evolution and Kontact, complete e-"
+"Also included with openSUSE Leap 42.3 are Evolution and Kontact, complete e-"
 "mail and contact management applications. For instant messaging, openSUSE "
 "features easy to use IM clients that support all of the popular protocols."
 msgstr ""
@@ -146,10 +146,10 @@ msgstr ""
 
 #: slideshow.xml:66(para)
 msgid ""
-"openSUSE Leap 42.2 and openSUSE Tumbleweed are great distributions for "
+"openSUSE Leap 42.3 and openSUSE Tumbleweed are great distributions for "
 "development, testing and deployment. Whether you need the latest packages, "
 "which can be found on Tumbleweed, or more stable packages, which can be "
-"found on Leap 42.2, openSUSE gives you the tools, community and packages "
+"found on Leap 42.3, openSUSE gives you the tools, community and packages "
 "needed to be sucessful."
 msgstr ""
 
@@ -160,7 +160,7 @@ msgstr "Documints, tåvleas et co pus"
 #: slideshow.xml:74(para)
 #, fuzzy
 msgid ""
-"The openSUSE Leap 42.2 distribution comes complete with the latest version "
+"The openSUSE Leap 42.3 distribution comes complete with the latest version "
 "of the leading Linux productivity suite, LibreOffice. It features a word "
 "processor, spreadsheet application, HTML editor, presentation designer, and "
 "database manager. It reads and writes multiple formats – including Microsoft "
@@ -185,7 +185,7 @@ msgstr "Imådjes, imådjes, imådjes"
 #: slideshow.xml:87(para)
 #, fuzzy
 msgid ""
-"Using the tools in openSUSE Leap 42.2, you can create or edit almost any "
+"Using the tools in openSUSE Leap 42.3, you can create or edit almost any "
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
@@ -197,7 +197,7 @@ msgstr ""
 #: slideshow.xml:92(para)
 #, fuzzy
 msgid ""
-"For vector graphics, openSUSE Leap 42.2 includes Inkscape – a versatile "
+"For vector graphics, openSUSE Leap 42.3 includes Inkscape – a versatile "
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
@@ -213,7 +213,7 @@ msgstr "Copiutrece presse a-z eployî"
 #: slideshow.xml:102(para)
 #, fuzzy
 msgid ""
-"openSUSE Leap 42.2 includes the most advanced mobility features. You can "
+"openSUSE Leap 42.3 includes the most advanced mobility features. You can "
 "switch effortlessly between wireless and wired networks using "
 "NetworkManager. Connect with mobile devices like mobile phones and tablets "
 "via Bluetooth."
@@ -247,7 +247,7 @@ msgid ""
 "and privacy. Secure your system and data from Internet intruders with SUSE "
 "Firewall. This security device is activated by default and easy to "
 "configure. But you can do even more to protect your system with openSUSE "
-"Leap 42.2 because it also includes AppArmor, the most effective and easy-to-"
+"Leap 42.3 because it also includes AppArmor, the most effective and easy-to-"
 "use Linux application security system available today. AppArmor proactively "
 "protects your operating system and applications from internal or external "
 "threats."
@@ -264,7 +264,7 @@ msgstr ""
 #: slideshow.xml:129(para)
 #, fuzzy
 msgid ""
-"In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.2 also includes "
+"In addition to SUSE Firewall and AppArmor, openSUSE Leap 42.3 also includes "
 "a special security patch update system. To ensure that the latest security "
 "patches are installed on your system, you can choose to perform an online "
 "update at the end of this installation procedure (if you did not choose the "
@@ -287,7 +287,7 @@ msgstr ""
 #: slideshow.xml:143(para)
 #, fuzzy
 msgid ""
-"Both Xen and KVM hypervisors are included with openSUSE Leap 42.2. Xen is "
+"Both Xen and KVM hypervisors are included with openSUSE Leap 42.3. Xen is "
 "one of the most robust solutions for virtualization available. In addition, "
 "openSUSE provides tools for network file sharing (Samba, NFS, etc.), "
 "printing (CUPS) and Web hosting (Apache). For application development, "
@@ -308,7 +308,7 @@ msgstr "Endè saveur di pus"
 #: slideshow.xml:154(para)
 #, fuzzy
 msgid ""
-"openSUSE Leap 42.2 provides extensive documentation for specific openSUSE "
+"openSUSE Leap 42.3 provides extensive documentation for specific openSUSE "
 "questions as well as general Linux-related questions. The Help Center is "
 "accessible via the main menu. Manuals are also available in PDF and can be "
 "downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
