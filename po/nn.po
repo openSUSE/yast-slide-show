@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2016-04-27 16:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: slideshow.xml:18(title)
+msgid "Slide Show"
+msgstr ""
+
+#: slideshow.xml:21(title)
+msgid "SUSE Linux Enterprise 12"
+msgstr ""
+
+#. bnc#885972
+#: slideshow.xml:24(para) slideshow.xml:53(title)
+msgid "Towards Zero Downtime"
+msgstr ""
+
+#: slideshow.xml:29(para) slideshow.xml:76(title)
+msgid "Best Managed Linux"
+msgstr ""
+
+#: slideshow.xml:34(para) slideshow.xml:112(title)
+msgid "Made for Cloud"
+msgstr ""
+
+#: slideshow.xml:39(para) slideshow.xml:153(title)
+msgid "Most Interoperable Operating System"
+msgstr ""
+
+#: slideshow.xml:44(para) slideshow.xml:206(title)
+msgid "Modular Design"
+msgstr ""
+
+#: slideshow.xml:54(para)
+msgid "Snapshot &amp; rollback for the full system"
+msgstr ""
+
+#: slideshow.xml:57(para)
+msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
+msgstr ""
+
+#: slideshow.xml:63(para)
+msgid "Kernel upgrades"
+msgstr ""
+
+#: slideshow.xml:68(para)
+msgid "Service pack installations"
+msgstr ""
+
+#: slideshow.xml:79(para)
+msgid "<emphasis>YaST:</emphasis> the only integrated single system management solution in the Linux world"
+msgstr ""
+
+#: slideshow.xml:85(para)
+msgid "Write your own extensions in Ruby now!"
+msgstr ""
+
+#: slideshow.xml:92(para)
+msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
+msgstr ""
+
+#: slideshow.xml:98(para)
+msgid "Network configuration as a service"
+msgstr ""
+
+#: slideshow.xml:103(para)
+msgid "Smooth adoption &amp; migration"
+msgstr ""
+
+#: slideshow.xml:115(para)
+msgid "Reliable Host"
+msgstr ""
+
+#: slideshow.xml:120(para)
+msgid "KVM and Xen support included"
+msgstr ""
+
+#: slideshow.xml:125(para)
+msgid "Basis for SUSE OpenStack Cloud"
+msgstr ""
+
+#: slideshow.xml:132(para)
+msgid "Perfect Guest"
+msgstr ""
+
+#: slideshow.xml:137(para)
+msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
+msgstr ""
+
+#: slideshow.xml:143(para)
+msgid "Available on Amazon® EC2, Microsoft® Azure, Google® Compute Engine, and other 50+ public clouds"
+msgstr ""
+
+#: slideshow.xml:157(para)
+msgid "Networking – IPv6"
+msgstr ""
+
+#: slideshow.xml:162(para)
+msgid "Scalable network infrastructures"
+msgstr ""
+
+#: slideshow.xml:167(para)
+msgid "Compliant to USGv6 standard"
+msgstr ""
+
+#: slideshow.xml:174(para)
+msgid "Operating Systems"
+msgstr ""
+
+#: slideshow.xml:179(para)
+msgid "Windows: Samba 4"
+msgstr ""
+
+#: slideshow.xml:184(para)
+msgid "Active Directory integration"
+msgstr ""
+
+#: slideshow.xml:189(para)
+msgid "Out-of-the-box experience via YaST"
+msgstr ""
+
+#: slideshow.xml:196(para)
+msgid "UNIX &amp; Linux: NFSv4.1"
+msgstr ""
+
+#: slideshow.xml:208(para)
+msgid "Five different modules give you balance between the latest technologies and enterprise-level stability:"
+msgstr ""
+
+#: slideshow.xml:214(para)
+msgid "Web and Scripting Module"
+msgstr ""
+
+#: slideshow.xml:219(para)
+msgid "Legacy Module"
+msgstr ""
+
+#: slideshow.xml:224(para)
+msgid "Toolchain Module"
+msgstr ""
+
+#: slideshow.xml:229(para)
+msgid "Public Cloud Module"
+msgstr ""
+
+#. bnc#885971
+#: slideshow.xml:235(para)
+msgid "Advanced Systems Management"
+msgstr ""
+
+#: slideshow.xml:243(title)
+msgid "Lifecycle and LTSS"
+msgstr ""
+
+#: slideshow.xml:245(para)
+msgid "SUSE® Linux Enterprise Server:"
+msgstr ""
+
+#: slideshow.xml:250(para)
+msgid "13-year lifecycle"
+msgstr ""
+
+#: slideshow.xml:255(para)
+msgid "10 years of general support"
+msgstr ""
+
+#: slideshow.xml:260(para) slideshow.xml:277(para)
+msgid "Up to 3 years of extended support"
+msgstr ""
+
+#: slideshow.xml:267(para)
+msgid "5-year lifecycle per Service Pack"
+msgstr ""
+
+#: slideshow.xml:272(para)
+msgid "2 years of general support"
+msgstr ""
+
+#: slideshow.xml:284(para)
+msgid "Long Term Service Pack Support (LTSS) available for all releases"
+msgstr ""
+
+#: slideshow.xml:291(title)
+msgid "Desktop Experience"
+msgstr ""
+
+#: slideshow.xml:293(para)
+msgid "GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12 provides two desktop experiences for you to chose from:"
+msgstr ""
+
+#: slideshow.xml:299(para)
+msgid "Using GNOME 3's GNOME Shell you can explore next-generation desktop features that can be used with a mouse and a touchscreen."
+msgstr ""
+
+#: slideshow.xml:305(para)
+msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, while maintaining well known usage patterns."
+msgstr ""
+
+#: slideshow.xml:314(title)
+msgid "SUSE Customer Center"
+msgstr ""
+
+#: slideshow.xml:316(para)
+msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
+msgstr ""
+
+#: slideshow.xml:322(para)
+msgid "Centralize access to subscriptions and entitlements"
+msgstr ""
+
+#: slideshow.xml:327(para)
+msgid "Quick access to support tools"
+msgstr ""
+
+#: slideshow.xml:332(para)
+msgid "Easy way to provide feedback"
+msgstr ""
+
+#: slideshow.xml:339(title)
+msgid "More from SUSE ..."
+msgstr ""
+
+#: slideshow.xml:343(para)
+msgid "SUSE Linux Enterprise"
+msgstr ""
+
+#: slideshow.xml:348(para)
+msgid "High Availability Extension"
+msgstr ""
+
+#: slideshow.xml:353(para)
+msgid "SUSE Manager"
+msgstr ""
+
+#: slideshow.xml:358(para)
+msgid "SUSE OpenStack Cloud"
+msgstr ""
+
+#: slideshow.xml:363(para)
+msgid "SUSE Storage"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr ""
