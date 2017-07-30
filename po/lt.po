@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2017-06-12 13:27+0200\n"
-"PO-Revision-Date: 2017-07-29 18:08+0000\n"
+"PO-Revision-Date: 2017-07-30 19:27+0000\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
 "Language-Team: Lithuanian <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/lt/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
-msgstr "Skaidrių demonstracija"
+msgstr "Skaidrių rodymas"
 
 #: slideshow.xml:17(title)
 msgid "Welcome to openSUSE™!"
@@ -129,9 +129,9 @@ msgstr ""
 "Su openSUSE Leap 42.3 platinamuoju paketu gaunate Firefox — vieną iš "
 "geriausių rinkoje esančių saityno naršyklių. Firefox gali pasigirti pilnu "
 "galimybių rinkiniu, leidžiančių mėgautis saitynu, įskaitant HTML5 "
-"technologijomis. Firefox taip pat pasižymi žaibo greitumo veikimu ir "
-"daugeliu patobulinimų, besirūpinančių jūsų privatumu ir saugančių nuo "
-"šnipinėjimo atakų."
+"technologijomis. Firefox taip pat pasižymi greitu veikimu ir daugeliu "
+"patobulinimų, besirūpinančių jūsų privatumu ir saugančių nuo šnipinėjimo "
+"atakų."
 
 #: slideshow.xml:57(para)
 msgid ""
@@ -186,7 +186,7 @@ msgstr ""
 
 #: slideshow.xml:85(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr "Grafika, Grafika, Grafika"
+msgstr "Grafika, grafika, grafika"
 
 #: slideshow.xml:87(para)
 msgid ""
