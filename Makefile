@@ -1,4 +1,4 @@
-instdir = /CD1/suse/setup/slide
+instdir = /usr/lib/skelcd/CD1/suse/setup/slide
 
 fname = slideshow
 srcdir=.
