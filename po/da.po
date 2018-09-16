@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-12 13:27+0200\n"
-"PO-Revision-Date: 2017-11-09 04:58+0000\n"
+"PO-Revision-Date: 2018-09-16 11:01+0000\n"
 "Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
 "Language-Team: Danish <https://l10n.opensuse.org/projects/yast-slide-"
 "show/master/da/>\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.13.1\n"
+"X-Generator: Weblate 2.18\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
-msgstr "Diasfremvisning"
+msgstr "Diasshow"
 
 #: slideshow.xml:17(title)
 msgid "Welcome to openSUSE™!"
@@ -239,7 +239,7 @@ msgstr ""
 
 #: slideshow.xml:114(title)
 msgid "Your operating system – respecting privacy – providing security"
-msgstr "Dit operativsystem - respekterer privatliv - leverer sikkerhed"
+msgstr "Dit styresystem - respekterer privatliv - leverer sikkerhed"
 
 #: slideshow.xml:116(para)
 msgid ""
@@ -264,7 +264,7 @@ msgstr ""
 "sikkerhedsanordning er aktiveret som standard og nem at konfigurere. Men du "
 "kan gøre endnu mere for at beskytte dit system med openSUSE Leap 42.3 fordi "
 "den også indeholder AppArmor, det mest effektive og brugervenlige Linux-"
-"system til programsikkerhed i dag. AppArmor beskytter dit operativsystem og "
+"system til programsikkerhed i dag. AppArmor beskytter dit styresystem og "
 "dine programemer fra interne og eksterne trusler proaktivt."
 
 #. for the online update feature, see bnc#793710
@@ -308,7 +308,7 @@ msgstr ""
 
 #: slideshow.xml:153(title)
 msgid "Learn More"
-msgstr "Find ud af mere"
+msgstr "Lær mere"
 
 #: slideshow.xml:154(para)
 msgid ""
