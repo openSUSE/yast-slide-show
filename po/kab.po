@@ -2,21 +2,24 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2017-06-12 13:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-03-14 19:12+0000\n"
+"Last-Translator: Belkacem Mohammed <belkacem77@gmail.com>\n"
+"Language-Team: Kabyle <https://l10n.opensuse.org/projects/yast-slide-show/"
+"master/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
-msgstr ""
+msgstr "Ameskan n tigri"
 
 #: slideshow.xml:17(title)
 msgid "Welcome to openSUSE™!"
-msgstr ""
+msgstr "Anṣuf ɣer openSUSE™!"
 
 #: slideshow.xml:19(para)
 msgid "openSUSE is the makers' choice for sysadmins, developers and desktop users because it gives you more choices than other distributions. openSUSE Leap combines proven core packages from SUSE Linux Enterprise with community built packages, which creates synergies for the project's distribution. Get the Best of Both Worlds with openSUSE Leap. openSUSE releases provide users a feature-rich server environments and user-friendly desktop. Enthusiasts and professionals looking for a long-term, highly stable Linux system need to look no further than openSUSE Leap 42.3, which complements the latest SUSE Linux Enterprise due to the shared sources. Thank you for making the change to use the most dependable and stable Linux system - openSUSE Leap 42.3."
@@ -24,7 +27,7 @@ msgstr ""
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
-msgstr ""
+msgstr "openSUSE.org"
 
 #: slideshow.xml:27(para)
 msgid "openSUSE is a community of projects and is sponsored by SUSE and other companies. The project has many people around the world who contribute to the openSUSE Project by packaging software, testing programs, writing documentation and translating it in languages used throughout the world. openSUSE has two distributions (Leap and Tumbleweed), tools (openQA, Kiwi and YaST), a software builder (Open Build Service) and projects (Portus and Machinery). Find out more at www.opensuse.org."
@@ -36,7 +39,7 @@ msgstr ""
 
 #: slideshow.xml:35(title)
 msgid "openSUSE in Many Languages"
-msgstr ""
+msgstr "openSUSE deg ddeqs n tutlayin"
 
 #: slideshow.xml:37(para)
 msgid "Translating made easy - Are you interested in helping openSUSE be translated into your language? With https://l10n.opensuse.org/, you can get started right away. It is easy and you can contribute to this worldwide projects in a matter of minutes. All you need to do is login and start translating. Yes, it is that easy. Thank you to all of our contributors and especially to those contributors who bring the efforts of our hard-working community to people throughout the globe."
@@ -44,7 +47,7 @@ msgstr ""
 
 #: slideshow.xml:43(title)
 msgid "Connect and Communicate"
-msgstr ""
+msgstr "Qqen & Mmeslay"
 
 #: slideshow.xml:45(para)
 msgid "You can communicate more effectively with openSUSE Leap 42.3 because it provides a complete set of tools for Web browsing and e-mail management – it even includes Voice over IP technology."
@@ -60,7 +63,7 @@ msgstr ""
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "Ineflayen d yinedbalen n unagraw"
 
 #: slideshow.xml:66(para)
 msgid "openSUSE Leap and openSUSE Tumbleweed are great distributions for development, testing and deployment. Whether you need the latest packages, which can be found on Tumbleweed, or more stable packages, which can be found on Leap, openSUSE gives you the tools, community and packages needed to be sucessful."
@@ -68,7 +71,7 @@ msgstr ""
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
-msgstr ""
+msgstr "Arraten, tiferkiyin n usiḍen d wayen-nniḍen."
 
 #: slideshow.xml:74(para)
 msgid "The openSUSE Leap 42.3 distribution comes complete with the latest version of the leading Linux productivity suite, LibreOffice. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats – including Microsoft Office formats – so you can move back and forth easily between openSUSE and popular non-Linux productivity software. LibreOffice is the perfect choice for reports, papers, home budgets, simple graphics and more."
@@ -76,7 +79,7 @@ msgstr ""
 
 #: slideshow.xml:85(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr ""
+msgstr "Udlifen, Udlifen, Udlifen"
 
 #: slideshow.xml:87(para)
 msgid "Using the tools in openSUSE Leap 42.3, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP, a powerful tool for image retouching, composition, and authoring."
@@ -88,7 +91,7 @@ msgstr ""
 
 #: slideshow.xml:100(title)
 msgid "Computing On-the-Go"
-msgstr ""
+msgstr "Tasenselkimt On-the-Go"
 
 #: slideshow.xml:102(para)
 msgid "openSUSE Leap 42.3 includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager. Connect with mobile devices like mobile phones and tablets via Bluetooth."
@@ -121,7 +124,7 @@ msgstr ""
 
 #: slideshow.xml:153(title)
 msgid "Learn More"
-msgstr ""
+msgstr "Issin ugar"
 
 #: slideshow.xml:154(para)
 msgid "openSUSE Leap 42.3 provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
@@ -141,7 +144,7 @@ msgstr ""
 
 #: slideshow.xml:193(title)
 msgid "SUSE and Linux"
-msgstr ""
+msgstr "SUSE d  Linux"
 
 #: slideshow.xml:194(para)
 msgid "SUSE is committed to your success with Linux. In addition to openSUSE, SUSE also delivers an exciting suite of products designed to meet the needs of businesses large and small."
@@ -154,4 +157,4 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "Ismaden n umsuqel"
