@@ -8,24 +8,24 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.et\n"
 "POT-Creation-Date: 2017-06-12 13:27+0200\n"
-"PO-Revision-Date: 2006-09-28 12:02+0300\n"
-"Last-Translator: Ain Vagula <avagula@gmail.com>\n"
-"Language-Team: Estonian <et@li.org>\n"
+"PO-Revision-Date: 2019-11-02 13:53+0000\n"
+"Last-Translator: Jaanus Ojangu <jaanus.ojangu@gmail.com>\n"
+"Language-Team: Estonian <https://l10n.opensuse.org/projects/yast-slide-show/"
+"master/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
 msgstr "Slaidiseanss"
 
 #: slideshow.xml:17(title)
-#, fuzzy
 msgid "Welcome to openSUSE™!"
-msgstr "Head openSUSE kasutamist"
+msgstr "Head openSUSE kasutamist!"
 
 #: slideshow.xml:19(para)
 msgid ""
@@ -41,6 +41,17 @@ msgid ""
 "change to use the most dependable and stable Linux system - openSUSE Leap "
 "42.3."
 msgstr ""
+"openSUSE on loojate valik süsteemiadministraatoritele, arendajatele ja "
+"töölauakasutajatele, kuna see annab teile rohkem valikuid kui muud distrod. "
+"OpenSUSE Leap ühendab SUSE Linux Enterprise'i töös end tõestanud põhipaketid "
+"kogukonna ehitatud pakettidega, mis loob sünergia projekti distrole. "
+"OpenSUSE Leap abil saate mõlemast maailmast parima. OpenSUSE väljaanded "
+"pakuvad kasutajatele rikkalikke serverikeskkondi ja kasutajasõbralikku "
+"töölauda. Harrastajad ja spetsialistid, kes otsivad pikaajalist, väga "
+"stabiilset Linuxi süsteemi, peaksid vaatama mitte uuemat, kui openSUSE Leap "
+"42.3, mis ühiste allikate tõttu täiendab uusimat SUSE Linux Enterprise'i. "
+"Täname, et tegite otsuse kõige usaldusväärsema ja stabiilsema Linuxi "
+"süsteemi kasutamiseks - openSUSE Leap 42.3."
 
 #: slideshow.xml:25(title)
 msgid "openSUSE.org"
@@ -56,17 +67,25 @@ msgid ""
 "and YaST), a software builder (Open Build Service) and projects (Portus and "
 "Machinery). Find out more at www.opensuse.org."
 msgstr ""
+"OpenSUSE on projektide kogukond, mida toetavad SUSE ja teised ettevõtted. "
+"Projektis on palju inimesi kogu maailmas, kes annavad oma panuse OpenSUSE "
+"projekti, pakkides tarkvara, katsetades programme, kirjutades "
+"dokumentatsiooni ja tõlkides seda keeltesse, mida kasutatakse kogu maailmas. "
+"OpenSUSE-l on kaks distrot (Leap ja Tumbleweed), tööriistu (openQA, Kiwi ja "
+"YaST), tarkvaraehitaja (Open Build Service) ja projektid (Portus ja "
+"Machinery). Lisateavet leiate veebisaidilt www.opensuse.org."
 
 #: slideshow.xml:30(para)
 msgid ""
 "Visit www.opensuse.org/How_to_Participate to learn how you can join the "
 "openSUSE community."
 msgstr ""
+"Külastage veebilehte www.opensuse.org/How_to_Participate, et õppida, kuidas "
+"liituda openSUSE kogukonnaga."
 
 #: slideshow.xml:35(title)
-#, fuzzy
 msgid "openSUSE in Many Languages"
-msgstr "Siuu keeled"
+msgstr "OpenSUSE paljudes keeltes"
 
 #: slideshow.xml:37(para)
 msgid ""
@@ -78,6 +97,12 @@ msgid ""
 "those contributors who bring the efforts of our hard-working community to "
 "people throughout the globe."
 msgstr ""
+"Tõlkimine on lihtne - kas olete huvitatud OpenSUSE tõlkimisest teie keelde? "
+"Https://l10n.opensuse.org/ abil saate kohe alustada. See on lihtne ja saate "
+"panustada meie ülemaailmsetesse projektidesse mõne minutiga. Teil on vaja "
+"ainult sisse logida ja hakata tõlkima. Jah, see on nii lihtne. Täname kõiki "
+"meie kaastöölisi ja eriti kaastöötajaid, kes tutvustavad meie tööka "
+"kogukonna jõupingutusi kogu maailma inimestele."
 
 #: slideshow.xml:43(title)
 msgid "Connect and Communicate"
@@ -89,6 +114,9 @@ msgid ""
 "provides a complete set of tools for Web browsing and e-mail management – it "
 "even includes Voice over IP technology."
 msgstr ""
+"Saate OpenSUSE Leap 42.3-ga tõhusamalt suhelda, kuna see pakub täielikku "
+"töövahendeid veebis surfamiseks ja e-posti haldamiseks - sisaldab ka üle "
+"interneti häälkõnesid - VoIP tehnoloogiat."
 
 #: slideshow.xml:51(para)
 msgid ""
@@ -98,6 +126,11 @@ msgid ""
 "performance, and a number of improvements designed to protect your privacy "
 "and prevent phishing attacks."
 msgstr ""
+"OpenSUSE Leap 42.3 sisaldab Mozilla Firefoxi, mis on üks parimaid "
+"veebilehitsejaid maailmas. Firefox sisaldab kõiki veebi nautimiseks "
+"vajalikke funktsioone, sealhulgas uusimaid HTML5 tehnoloogiaid. Firefox "
+"pakub ka välkkiiret jõudlust ja mitmeid täiustusi, mis on loodud teie "
+"privaatsuse kaitsmiseks ja andmepüügirünnakute ärahoidmiseks."
 
 #: slideshow.xml:57(para)
 msgid ""
@@ -105,10 +138,14 @@ msgid ""
 "mail and contact management applications. For instant messaging, openSUSE "
 "features easy to use IM clients that support all of the popular protocols."
 msgstr ""
+"OpenSUSE Leap 42.3 juurde kuuluvad ka täielikud e-posti ja "
+"kontaktihaldusrakendused Evolution ja Kontact. Kiirsuhtluse jaoks on "
+"openSUSE funktsioonidel lihtne kasutada kiirsõnumikliente, mis toetavad "
+"kõiki populaarseid protokolle."
 
 #: slideshow.xml:65(title)
 msgid "Developers and Sysadmins"
-msgstr ""
+msgstr "Arendajad ja Sysadminnid"
 
 #: slideshow.xml:66(para)
 msgid ""
@@ -118,9 +155,13 @@ msgid ""
 "found on Leap, openSUSE gives you the tools, community and packages needed "
 "to be sucessful."
 msgstr ""
+"OpenSUSE Leap ja openSUSE Tumbleweed on suurepärased distrod arendamiseks, "
+"testimiseks ja juurutamiseks. Ükskõik, kas vajate uusimaid pakette, mille "
+"leiate Tumbleweedilt, või stabiilsemaid pakette, mille leiate Leapilt, pakub "
+"OpenSUSE teile tööriistu, kogukonda ja pakette, mis on vajalikud edu "
+"saavutamiseks."
 
 #: slideshow.xml:72(title)
-#, fuzzy
 msgid "Documents, Spreadsheets and More"
 msgstr "Dokumendid, arvutustabelid ja muu"
 
@@ -134,6 +175,14 @@ msgid ""
 "popular non-Linux productivity software. LibreOffice is the perfect choice "
 "for reports, papers, home budgets, simple graphics and more."
 msgstr ""
+"OpenSUSE Leap 42.3 distro on varustatud täieliku uusima Linuxis juhtiva "
+"tarkvara komplektidega, LibreOffice uusima versiooniga. Sellel on "
+"tekstitöötlusprogramm, arvutustabelirakendus, HTML-redaktor, esitluse "
+"kujundaja ja andmebaasihaldur. See loeb ja kirjutab mitmeid vorminguid - "
+"sealhulgas Microsoft Office'i vormingud -, nii et saate hõlpsalt edasi-"
+"tagasi liikuda openSUSE ja populaarse mitte-Linuxi kontori tarkvara vahel. "
+"LibreOffice on ideaalne valik aruannete, paberite, kodueelarvete, lihtsa "
+"graafika ja muu jaoks."
 
 #: slideshow.xml:85(title)
 msgid "Graphics, Graphics, Graphics"
@@ -145,6 +194,10 @@ msgid ""
 "type of graphic. For advanced image manipulation and graphics creation, use "
 "The GIMP, a powerful tool for image retouching, composition, and authoring."
 msgstr ""
+"OpenSUSE Leap 42.3 töövahendite abil saate luua või redigeerida peaaegu igat "
+"tüüpi graafikat. Piltide täpsemaks manipuleerimiseks ja graafika loomiseks "
+"kasutage GIMP-i, mis on võimas tööriist piltide retušeerimiseks, "
+"kompositsiooniks ja omaloominguks."
 
 #: slideshow.xml:92(para)
 msgid ""
@@ -152,6 +205,9 @@ msgid ""
 "graphics solution delivers support for transparent layers, bitmap tracing, "
 "text paths and much more."
 msgstr ""
+"Vektorgraafika jaoks sisaldab openSUSE Leap 42.3 Inkscape'i - mitmekülgne "
+"graafikalahendus toetab läbipaistvaid kihte, bitmapi jälgimist, tekstiteid "
+"ja palju muud."
 
 #: slideshow.xml:100(title)
 msgid "Computing On-the-Go"
@@ -164,16 +220,22 @@ msgid ""
 "NetworkManager. Connect with mobile devices like mobile phones and tablets "
 "via Bluetooth."
 msgstr ""
+"OpenSUSE Leap 42.3 sisaldab kõige arenenumaid mobiilsusfunktsioone. "
+"NetworkManageri abil saate hõlpsalt traadita ja traadiga võrkude vahel "
+"vahetada. Ühendage Bluetoothi kaudu selliste mobiilseadmetega nagu "
+"mobiiltelefonid ja tahvelarvutid."
 
 #: slideshow.xml:106(para)
 msgid ""
 "The newest innovations in power management from openSUSE increase your "
 "mobility and give you the freedom to take your work wherever you go."
 msgstr ""
+"OpenSUSE uusimad toitehalduse uuendused suurendavad teie liikuvust ja "
+"annavad teile vabaduse võtta oma töö kuhu iganes."
 
 #: slideshow.xml:114(title)
 msgid "Your operating system – respecting privacy – providing security"
-msgstr ""
+msgstr "Teie opsüsteem - austab privaatsust - tagab turvalisuse"
 
 #: slideshow.xml:116(para)
 msgid ""
@@ -189,6 +251,18 @@ msgid ""
 "protects your operating system and applications from internal or external "
 "threats."
 msgstr ""
+"OpenSUSE ehitab midagi, mis annab teile kontrolli. Rolling või stabiilne, "
+"otsustate ise. Erinevalt Windowsist otsustate, milliseid värskendusi millal "
+"rakendada. Erinevalt enamikust distrodest otsustate, millist töölauda "
+"soovite (või üldse mitte ühtegi), teil on näiteks YaST-is sellised "
+"tööriistad, mis aitavad teil arvutit seadistada ning turvalisust ja "
+"privaatsust kontrollida. Muutke oma süsteem turvaliseks ja kaitske andmed "
+"Interneti-sissetungijate eest SUSE tulemüüriga. See turvaseade on vaikimisi "
+"aktiveeritud ja seda on lihtne seadistada. OpenSUSE Leap 42.3 abil saate oma "
+"süsteemi kaitsmiseks veelgi rohkem ära teha, sest see sisaldab ka tänapäeval "
+"kõige efektiivsemat ja hõlpsamini kasutatavat Linuxi rakenduste "
+"turvasüsteemi AppArmor. AppArmor kaitseb ennetavalt teie opsüsteemi ja "
+"rakendusi sisemiste või väliste ohtude eest."
 
 #. for the online update feature, see bnc#793710
 #: slideshow.xml:129(para)
@@ -201,10 +275,16 @@ msgid ""
 "be automatically informed of the availability of important security updates, "
 "so you can install them at your convenience."
 msgstr ""
+"Lisaks SUSE tulemüürile ja AppArmorile sisaldab openSUSE Leap 42.3 ka "
+"spetsiaalset turvavärskendus süsteemi. Tagamaks, et teie süsteemi on "
+"paigaldatud uusimad turvaparandused, võite selle paigaldusprotseduuri lõpus "
+"teha võrgust värskenduse (kui te ei valinud alguses automaatset paigaldust). "
+"Ja tulevikus teavitatakse teid automaatselt oluliste turvavärskenduste "
+"olemasolust, nii et saate need endale sobival ajal paigaldada."
 
 #: slideshow.xml:141(title)
 msgid "Virtualization Technology and Application Development Tools"
-msgstr ""
+msgstr "Virtualiseerimistehnoloogia ja rakenduste arendamise tööriistad"
 
 #: slideshow.xml:143(para)
 msgid ""
@@ -215,10 +295,16 @@ msgid ""
 "openSUSE comes with a complete set of runtime environments plus extensive "
 "application development tools."
 msgstr ""
+"Nii Xeni kui ka KVM hüperviisorid on kaasatud openSUSE Leap 42.3. Xen on üks "
+"jõulisemaid virtualiseerimislahendusi. Lisaks pakub openSUSE tööriistu "
+"võrgufailide ühiskasutamiseks (Samba, NFS jne), printimiseks (CUPS) ja "
+"veebimajutuseks (Apache). Rakenduste arendamiseks on openSUSE-s kaasas "
+"täielik käituskeskkondade komplekt koos ulatuslike rakenduste arendamise "
+"tööriistadega."
 
 #: slideshow.xml:153(title)
 msgid "Learn More"
-msgstr ""
+msgstr "Uuri lisa"
 
 #: slideshow.xml:154(para)
 msgid ""
@@ -227,6 +313,10 @@ msgid ""
 "accessible via the main menu. Manuals are also available in PDF and can be "
 "downloaded and printed (http://en.opensuse.org/Portal:Documentation)."
 msgstr ""
+"OpenSUSE Leap 42.3 pakub ulatuslikku dokumentatsiooni nii konkreetsete "
+"OpenSUSE küsimuste kui ka üldiste Linuxi küsimustega. Abikeskusesse pääseb "
+"peamenüü kaudu. Kasutusjuhendid on saadaval ka PDF-vormingus ning neid saab "
+"alla laadida ja printida (http://en.opensuse.org/Portal:Documentation)."
 
 #: slideshow.xml:164(para)
 msgid ""
@@ -237,6 +327,12 @@ msgid ""
 "help with specific openSUSE problems, check out the Support Database at www."
 "opensuse.org"
 msgstr ""
+"Veel rohkem teavet on saadaval openSUSE wikis aadressil http://en.opensuse."
+"org/. Jaotises „Dokumentatsioon” leiate lingid teiste OpenSUSE kasutajate "
+"loodud ja hooldatud kasuliku teabe juurde. Samuti leiate linke SUSE "
+"ametlikul veebisaidil oleva dokumentatsiooni juurde. Konkreetsete OpenSUSE "
+"probleemide kohta abi leiate tugiteenuste andmebaasist aadressil "
+"www.opensuse.org"
 
 #: slideshow.xml:175(para)
 msgid ""
@@ -246,6 +342,11 @@ msgid ""
 "experienced openSUSE user, the forums are a great place to meet other users, "
 "and help out other Linux users."
 msgstr ""
+"Veel rohkem infot on saadaval openSUSE wiki aadressil http://en.opensuse.org/"
+". Jaotises “Dokumentatsioon” on avatud OpenSUSE kasutajate loodud ja "
+"hooldatud kasuliku teabe juurde. Kui soovite linkida SUSE ametlikul "
+"veebisaidil olemasolevat dokumentatsiooni. Konkreetsete OpenSUSE probleemide "
+"kohta on abi pakkuvate tugiteenuste andmebaasi aadressil www.opensuse.org."
 
 #: slideshow.xml:184(para)
 msgid ""
@@ -254,11 +355,14 @@ msgid ""
 "distributions using the unique and powerful openSUSE Build Service. Join "
 "openSUSE.org to collaborate."
 msgstr ""
+"Kas soovite muuta openSUSE veelgi paremaks? OpenSUSE abil saate ehitada "
+"peaaegu kõike. Ainulaadse ja võimsa OpenSUSE Build Service'i abil on lihtne "
+"luua ja jagada uusi Linuxi distributsioonide pakette. Liituge saidiga "
+"openSUSE.org, et koostööd teha."
 
 #: slideshow.xml:193(title)
-#, fuzzy
 msgid "SUSE and Linux"
-msgstr "Novell ja Linux"
+msgstr "SUSE ja Linux"
 
 #: slideshow.xml:194(para)
 msgid ""
@@ -266,6 +370,9 @@ msgid ""
 "also delivers an exciting suite of products designed to meet the needs of "
 "businesses large and small."
 msgstr ""
+"SUSE on pühendunud teie edule Linuxis. Lisaks openSUSE-le pakub SUSE ka "
+"põnevat komplekti tooteid, mis on loodud vastama suurte ja väikeste "
+"ettevõtete vajadustele."
 
 #: slideshow.xml:199(para)
 msgid ""
@@ -275,6 +382,11 @@ msgid ""
 "extending it to 13 years as well as other optional support programs. For "
 "more information on enterprise Linux from SUSE, visit http://www.suse.com"
 msgstr ""
+"SUSE ettevõtte Linuxi toodete hulka kuuluvad SUSE Linux Enterprise Server ja "
+"SUSE Linux Enterprise Desktop. Meie ettevõtte tasulistele toodetele "
+"tagatakse 10-aastane hooldusgarantii koos võimalusega pikendada seda 13-"
+"aastaseks, samuti muude valikuliste tugiprogrammidega. Lisateavet SUSE "
+"ettevõtte Linuxi kohta leiate veebilehelt http://www.suse.com"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
