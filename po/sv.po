@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2016-07-27 11:26+0000\n"
-"Last-Translator: Maribel Florido <mflorido@jensen-localization.com>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/yast-slide-"
-"show/sle-12-sp2/sv/>\n"
+"PO-Revision-Date: 2020-05-02 19:51+0000\n"
+"Last-Translator: Luna Jernberg <droidbittin@gmail.com>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/yast-slide-show/"
+"sle-12-sp3/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -36,9 +36,8 @@ msgid "Best Managed Linux"
 msgstr "Best Managed Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
-#, fuzzy
 msgid "Made for Cloud"
-msgstr "Made for Cloud"
+msgstr "Skapad för molnet"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
 #, fuzzy
@@ -46,9 +45,8 @@ msgid "Most Interoperable Operating System"
 msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
-#, fuzzy
 msgid "Modular Design"
-msgstr "Modular Design"
+msgstr "Modulär Design"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
@@ -99,9 +97,8 @@ msgid "Basis for SUSE OpenStack Cloud"
 msgstr "Bas för SUSE OpenStack Cloud"
 
 #: slideshow.xml:132(para)
-#, fuzzy
 msgid "Perfect Guest"
-msgstr "Perfect Guest"
+msgstr "Perfekt gäst"
 
 #: slideshow.xml:137(para)
 msgid "Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere, Microsoft® Hyper-V etc."
