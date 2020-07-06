@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2017-06-12 13:27+0200\n"
-"PO-Revision-Date: 2020-02-12 17:54+0000\n"
+"PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/yast-slide-show/"
 "master/ca/>\n"
@@ -26,7 +26,7 @@ msgstr "Projecció de diapositives"
 
 #: slideshow.xml:17(title)
 msgid "Welcome to openSUSE™!"
-msgstr "Benvinguts a openSUSE™!"
+msgstr "Benvingut/da a openSUSE™!"
 
 #: slideshow.xml:19(para)
 msgid ""
