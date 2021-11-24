@@ -9,16 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2017-06-12 13:27+0200\n"
-"PO-Revision-Date: 2017-07-18 19:09+0000\n"
-"Last-Translator: Benoît Monin <benoit.monin@gmx.fr>\n"
-"Language-Team: French <https://l10n.opensuse.org/projects/yast-slide-"
-"show/master/fr/>\n"
+"PO-Revision-Date: 2021-11-25 02:12+0000\n"
+"Last-Translator: jérôme Brichese <malck0@protonmail.com>\n"
+"Language-Team: French <https://l10n.opensuse.org/projects/yast-slide-show/"
+"master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.13.1\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: slideshow.xml:14(title)
 msgid "Slide Show"
@@ -101,13 +101,13 @@ msgid ""
 "those contributors who bring the efforts of our hard-working community to "
 "people throughout the globe."
 msgstr ""
-"Traduire openSUSE dans votre langue c’est facile avec openSUSE. Si cela vous "
-"dit, connectez-vous sur https://l10n.opensuse.org/ et commencez à traduire "
-"immédiatement. Vous pouvez contribuer à ce projet planétaire en quelques "
-"minutes. Utilisez votre login openSUSE ou créez-en un et vous pouvez "
-"commencer à traduire tout de suite. C’est aussi simple que ça ! \n"
-"Merci aux contributeurs, spécialement ceux qui montrent les fruits des "
-"efforts de notre communauté vers la population globale."
+"La traduction rendue facile - Êtes-vous intéressé à aider openSUSE à être "
+"traduit dans votre langue ? Avec https://l10n.opensuse.org/, vous pouvez "
+"commencer tout de suite. C'est facile et vous pouvez contribuer à ce projet "
+"mondial en quelques minutes. Tout ce que vous avez à faire est de vous "
+"connecter et de commencer à traduire. Oui, c'est aussi simple que cela. "
+"Merci à tous nos contributeurs, et en particulier à ceux qui permettent aux "
+"gens du monde entier de bénéficier des efforts de notre communauté."
 
 #: slideshow.xml:43(title)
 msgid "Connect and Communicate"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets and More"
-msgstr "Documents, feuilles de calcul, etc."
+msgstr "Documents, feuilles de calcul et plus encore"
 
 #: slideshow.xml:74(para)
 msgid ""
@@ -193,7 +193,7 @@ msgstr ""
 
 #: slideshow.xml:85(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr "Graphisme, graphisme, graphisme"
+msgstr "Graphisme, Graphisme, Graphisme"
 
 #: slideshow.xml:87(para)
 msgid ""
@@ -412,9 +412,7 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr ""
-"Guillaume GARDET <guillaume.gardet@free.fr>, 2007-2011.\n"
-"Fabien CRESPEL <fabien@crespel.net>, 2008-2011."
+msgstr "crédits-traducteurs"
 
 #~ msgid ""
 #~ "The openSUSE distribution is available in many languages. Localization "
