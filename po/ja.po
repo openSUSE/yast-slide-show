@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2021-05-13 04:29+0000\n"
+"PO-Revision-Date: 2022-01-30 14:12+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/yast-slide-show/"
 "sle-12-sp3/ja/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -27,7 +27,7 @@ msgstr "SUSE Linux Enterprise 12"
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
 msgid "Towards Zero Downtime"
-msgstr "Towards Zero Downtime"
+msgstr "ゼロダウンタイムのさらに先へ"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
 msgid "Best Managed Linux"
@@ -43,15 +43,17 @@ msgstr "Most Interoperable Operating System"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
 msgid "Modular Design"
-msgstr "Modular Design"
+msgstr "モジュール型の設計"
 
 #: slideshow.xml:54(para)
 msgid "Snapshot &amp; rollback for the full system"
-msgstr "スナップショットとロールバックでシステムを完全に復元"
+msgstr "スナップショットとロールバックによるシステムの完全復元"
 
 #: slideshow.xml:57(para)
 msgid "Have a well <emphasis>known state</emphasis> to which you can go back, to give you <emphasis>peace of mind</emphasis> for:"
-msgstr "十分に「<emphasis>確認された状態</emphasis>」を保ち、その状態に戻すことができます。また、以下を「<emphasis>安心して</emphasis>」実行できます。"
+msgstr ""
+"システムが安定動作している時点での<emphasis>状態</emphasis>を保存することができますので、下記のような処理も<emphasis>安心し"
+"て</emphasis>実施することができます:"
 
 #: slideshow.xml:63(para)
 msgid "Kernel upgrades"
@@ -67,7 +69,7 @@ msgstr "<emphasis>YaST:</emphasis> Linuxの世界で唯一の統合型単一シ�
 
 #: slideshow.xml:85(para)
 msgid "Write your own extensions in Ruby now!"
-msgstr "Rubyで今すぐ独自の拡張機能を作成!"
+msgstr "Rubyで独自の拡張機能を作成することもできます!"
 
 #: slideshow.xml:92(para)
 msgid "Wicked: a new framework for simplifying the complexity of Linux network management"
@@ -91,7 +93,7 @@ msgstr "KVMとXenのサポートを組み込み"
 
 #: slideshow.xml:125(para)
 msgid "Basis for SUSE OpenStack Cloud"
-msgstr "SUSE OpenStack Cloudの基本"
+msgstr "SUSE OpenStack Cloudの基礎"
 
 #: slideshow.xml:132(para)
 msgid "Perfect Guest"
@@ -143,24 +145,24 @@ msgstr "5つの異なるモジュールにより最新技術とエンタープ�
 
 #: slideshow.xml:214(para)
 msgid "Web and Scripting Module"
-msgstr "Web and Scripting Module"
+msgstr "Web とスクリプティングに関するモジュール"
 
 #: slideshow.xml:219(para)
 msgid "Legacy Module"
-msgstr "Legacy Module"
+msgstr "従来のモジュール"
 
 #: slideshow.xml:224(para)
 msgid "Toolchain Module"
-msgstr "Toolchain Module"
+msgstr "ツールチェインモジュール"
 
 #: slideshow.xml:229(para)
 msgid "Public Cloud Module"
-msgstr "Public Cloud Module"
+msgstr "パブリッククラウドモジュール"
 
 #. bnc#885971
 #: slideshow.xml:235(para)
 msgid "Advanced Systems Management"
-msgstr "Advanced Systems Management"
+msgstr "高度なシステム管理"
 
 #: slideshow.xml:243(title)
 msgid "Lifecycle and LTSS"
