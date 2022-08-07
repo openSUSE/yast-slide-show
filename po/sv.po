@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sles\n"
 "POT-Creation-Date: 2015-11-03 10:04+0100\n"
-"PO-Revision-Date: 2020-05-02 19:51+0000\n"
-"Last-Translator: Luna Jernberg <droidbittin@gmail.com>\n"
+"PO-Revision-Date: 2022-08-07 18:13+0000\n"
+"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
 "Language-Team: Swedish <https://l10n.opensuse.org/projects/yast-slide-show/"
 "sle-12-sp2/sv/>\n"
 "Language: sv\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: slideshow.xml:18(title)
 msgid "Slide Show"
@@ -26,23 +26,20 @@ msgstr "SUSE Linux Enterprise 12"
 
 #. bnc#885972
 #: slideshow.xml:24(para) slideshow.xml:53(title)
-#, fuzzy
 msgid "Towards Zero Downtime"
-msgstr "Towards Zero Downtime"
+msgstr "Mot noll nertid"
 
 #: slideshow.xml:29(para) slideshow.xml:76(title)
-#, fuzzy
 msgid "Best Managed Linux"
-msgstr "Best Managed Linux"
+msgstr "Bäst hanterad Linux"
 
 #: slideshow.xml:34(para) slideshow.xml:112(title)
 msgid "Made for Cloud"
 msgstr "Skapad för molnet"
 
 #: slideshow.xml:39(para) slideshow.xml:153(title)
-#, fuzzy
 msgid "Most Interoperable Operating System"
-msgstr "Most Interoperable Operating System"
+msgstr "Mest interoperabla operativsystem"
 
 #: slideshow.xml:44(para) slideshow.xml:206(title)
 msgid "Modular Design"
@@ -166,9 +163,8 @@ msgid "Advanced Systems Management"
 msgstr "Advanced Systems Management"
 
 #: slideshow.xml:243(title)
-#, fuzzy
 msgid "Lifecycle and LTSS"
-msgstr "Lifecycle and LTSS"
+msgstr "Livscykel och LTSS"
 
 #: slideshow.xml:245(para)
 msgid "SUSE® Linux Enterprise Server:"
@@ -215,9 +211,8 @@ msgid "SUSE's default GNOME 3 Classic Mode utilizes the same modern technology, 
 msgstr "I SUSE:s förvalda standardläge, det klassiska GNOME 3-läget, används samma moderna teknik men med välbekanta användningsmönster."
 
 #: slideshow.xml:314(title)
-#, fuzzy
 msgid "SUSE Customer Center"
-msgstr "SUSE Customer Center"
+msgstr "SUSE kundcenter"
 
 #: slideshow.xml:316(para)
 msgid "Discover a new way of managing your SUSE account and subscriptions via one interface, anytime, anywhere!"
@@ -244,9 +239,8 @@ msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
 #: slideshow.xml:348(para)
-#, fuzzy
 msgid "High Availability Extension"
-msgstr "High Availability Extension"
+msgstr "Hög tillgänglighets tillägg"
 
 #: slideshow.xml:353(para)
 msgid "SUSE Manager"
