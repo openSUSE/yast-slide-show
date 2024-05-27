@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-12 13:27+0200\n"
-"PO-Revision-Date: 2024-05-27 13:46+0000\n"
+"PO-Revision-Date: 2024-05-27 16:46+0000\n"
 "Last-Translator: Jure Repinc <jlp@holodeck1.com>\n"
 "Language-Team: Slovenian <https://l10n.opensuse.org/projects/yast-slide-show/"
 "master/sl/>\n"
@@ -302,7 +302,7 @@ msgstr ""
 "robustnih rešitev za navidezne računalnike. Poleg tega openSUSE ponuja "
 "orodja za deljenje in dostop do datotek prek omrežja (NFS, Samba, …), "
 "tiskanje (CUPS) in spletno gostovanje (Apache). Za razvoj programov je na "
-"voljo veliko število zagonskih okolij in razvojnih orodij (KDevelop, Qt "
+"voljo veliko število izvajalnih okolij in razvojnih orodij (KDevelop, Qt "
 "Creator, Eclipse, …)."
 
 #: slideshow.xml:153(title)
@@ -372,9 +372,11 @@ msgid ""
 "also delivers an exciting suite of products designed to meet the needs of "
 "businesses large and small."
 msgstr ""
+"SUSE je zavezan vašemu uspehu z GNU/Linux. Poleg openSUSE ponuja SUSE tudi "
+"izvrsten nabor izdelkov, ki izpolnjujejo in presegajo potrebe podjetij, tako "
+"malih kot tudi velikih."
 
 #: slideshow.xml:199(para)
-#, fuzzy
 msgid ""
 "The enterprise Linux products from SUSE include SUSE Linux Enterprise Server "
 "and SUSE Linux Enterprise Desktop. Our enterprise products are delivered "
@@ -382,15 +384,16 @@ msgid ""
 "extending it to 13 years as well as other optional support programs. For "
 "more information on enterprise Linux from SUSE, visit http://www.suse.com"
 msgstr ""
-"Linija izdelkov Novell Enterprise Linux vsebuje SUSE LINUX Enterprise "
-"Server, Novell Open Enterprise Server in Novell Linux Desktop. Naši izdelki "
-"za podjetja vsebujejo jamstvo vzdrževanja v trajanju 5 let, dodatne programe "
-"za podporo in zaščitni program za Linux ."
+"Linija izdelkov za podjetja vključuje SUSE Linux Enterprise Server in SUSE "
+"Linux Enterprise Desktop. Naši izdelki za podjetja vključujejo jamstvo "
+"vzdrževanja v trajanju 10 let (z možnostjo podaljšanja na 13 let) in dodatne "
+"programe za podporo. Za dodatne informacije o SUSE Linux za podjetja "
+"obiščite http://www.suse.com"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "podatki o prevajalcih"
+msgstr "Jure Repinc <jlp@holodeck1.com>, 2023, 2024"
 
 #, fuzzy
 #~ msgid "Create, View and Listen"
